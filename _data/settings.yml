@@ -1,0 +1,353 @@
+when_to_travel:
+  January:
+    headings:
+      - title: "Early January"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - Chichen Itza, Mexico
+      - title: "Late January"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - Chichen Itza, Mexico
+  February:
+    headings:
+      - title: "Early February"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - Chichen Itza, Mexico
+      - title: "Late February"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - Chichen Itza, Mexico
+          - Yosemite National Park Firefall, US
+          - Death Valley National Park, US
+  March:
+    headings:
+      - title: "Early March"
+        places:
+          - The Wave, AZ, US
+          - Death Valley National Park, US
+          - Chichen Itza, Mexico
+      - title: "Late March"
+        places:
+          - The Wave, AZ, US
+          - Death Valley National Park, US
+          - Chichen Itza, March Equinox, Mexico
+  April:
+    headings:
+      - title: "Early April"
+        places:
+          - Skagit Valley Tulip festival Seattle, US
+          - Arches National Park, US
+          - Zion National Park, US
+      - title: "Late April"
+        places:
+          - Skagit Valley Tulip festival, Seattle, US
+          - Arches National Park, US
+          - Zion National Park, US
+          - Everest Base Camp Trek, Nepal
+          - Bryce Canyon National Park, US
+          - Canyonlands National Park, US
+          - Inca trail, Machu Pichu, Peru
+  May:
+    headings:
+      - title: "Early May"
+        places:
+          - Gaumukh Trek, India
+          - Arches National Park, US
+          - Everest Base Camp Trek, Nepal
+          - Bryce Canyon National Park, US
+          - Capital Reef National Park, US
+          - Canyonlands National Park, US
+          - Inca trail, Machu Pichu, Peru
+      - title: "Late May"
+        places:
+          - Gaumukh Trek, India
+          - Capital Reef National Park, US
+          - Inca trail, Machu Pichu, Peru
+  June:
+    headings:
+      - title: "Early June"
+        places:
+          - Inca trail, Machu Pichu, Peru
+      - title: "Late June"
+        places:
+          - Inca trail, Machu Pichu, Peru
+  July:
+    headings:
+      - title: "Early July"
+        places:
+          - Inca trail, Machu Pichu, Peru
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Banff National Park, Canada
+          - Jasper National Park, Canada
+          - YOHO National Park, Canada
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Valley of Flowers, India
+
+      - title: "Late July"
+        places:
+          - Inca trail, Machu Pichu, Peru
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Valley of Flowers, India
+          - Crater Lake National Park, US
+          - Lassen Volcanic National Park, US
+  August:
+    headings:
+      - title: "Early August"
+        places:
+          - Perseids Meteor Shower, Northern Hemisphere
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Valley of Flowers, India
+          - Crater Lake National Park, US
+          - Lassen Volcanic National Park, US
+      - title: "Late August"
+        places:
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Valley of Flowers, India
+          - Crater Lake National Park, US
+          - Lassen Volcanic National Park, US
+  September:
+    headings:
+      - title: "Early September"
+        places:
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Valley of Flowers, India
+          - Crater Lake National Park, US
+          - Lassen Volcanic National Park, US
+      - title: "Late September"
+        places:
+          - Crater Lake National Park, US
+          - Lassen Volcanic National Park, US
+          - Amtrak California Zephyr, US
+  October:
+    headings:
+      - title: "Early October"
+        places:
+          -
+          - Alburquque balloon fiesta, US
+          - Everest Base Camp Trek, Nepal
+          - Gaumukh Trek, India
+          - Arches National Park, US
+          - Everest Base Camp Trek, Nepal
+          - Bryce Canyon National Park, US
+          - Capital Reef National Park, US
+          - Canyonlands National Park, US
+          -
+      - title: "Late October"
+        places:
+          - Everest Base Camp Trek, Nepal
+          - Everest Base Camp Trek, Nepal
+          - Gaumukh Trek, India
+          - Arches National Park, US
+          - Everest Base Camp Trek, Nepal
+          - Bryce Canyon National Park, US
+          - Capital Reef National Park, US
+          - Canyonlands National Park, US
+          - Ziopn National Park, US
+          - Death Valley National Park, US
+  November:
+    headings:
+      - title: "Early November"
+        places:
+          - The Wave, AZ, US
+          - Death Valley National Park, US
+      - title: "Late November"
+        places:
+          - The Wave, AZ, US
+          - Death Valley National Park, US
+  December:
+    headings:
+      - title: "Early December"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - The Wave, AZ, US
+          - Death Valley National Park, US
+      - title: "Late December"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - Chichen Itza, Mexico
+          - Death Valley National Park, US
+
+basic_settings:
+  site_title: Wayfaring Universe
+  site_tagline: Never ending footsteps.
+  favicon_image: /images/favicon.png
+
+header_settings:
+  logo_image:
+  logo_width: 200
+
+menu_settings:
+  menu_items:
+    - title: 'ABOUT'
+      url: '/about'
+    - title: 'CONTACT'
+      url: '/contact'
+
+grid_settings:
+  overlay_opacity: 0.95
+  grid_spacing: 20
+
+contact_settings:
+  form_action: 'https://formspree.io/anumeha@wayfaringuniverse.com'
+  confirmation_url: '/thanks'
+  email_subject: 'Contact form submission'
+  send_button_text: 'Send Message'
+
+social_settings:
+  facebook_url: 'https://www.facebook.com/wayfaringuniverse/'
+  twitter_url: ''
+  instagram_url: 'https://www.instagram.com/wayfaringuniverse/'
+  snapchat_url: ''
+  youtube_url: 'https://www.youtube.com/channel/UCgfMFv1FxzKO33OO8Q6Ed-A'
+  google-plus_url: ''
+  vimeo_url: ''
+  pinterest_url: ''
+  medium_url: ''
+  quora_url: ''
+  amazon_url: ''
+  apple_url: ''
+  android_url: ''
+  tumblr_url: ''
+  dribbble_url: ''
+  behance_url: ''
+  deviantart_url: ''
+  github_url: ''
+  reddit_url: ''
+  flickr_url: ''
+  etsy_url: ''
+  kickstarter_url: ''
+  soundcloud_url: ''
+  spotify_url: ''
+  bandcamp_url: ''
+  linkedin_url: ''
+
+color_settings:
+  background_color: '#ffffff'
+  background_alt_color: '#ffffff'
+  text_dark_color: '#2A2F36'
+  text_medium_color: '#616161'
+  text_light_color: '#ABB7B7'
+  accent_color: '#f1c00b'
+  border_color: '#dddddd'
+  overlay_background_color: '#f1c00b'
+  overlay_text_color: '#ffffff'
+  overlay_accent_color: '#2A2F36'
+  error_color: '#D64541'
+
+font_settings:
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,500&display=swap" rel="stylesheet">'
+  title_font: '"Work Sans", sans-serif'
+  body_font: "'Work Sans', sans-serif;"
+  regular_weight: 300
+  bold_weight: 500
+  site_title:
+    small_size: 25
+    medium_size: 35
+    large_size: 45
+    weight: 300
+    letter_spacing: -0.02
+  site_tagline:
+    small_size: 16
+    medium_size: 18
+    large_size: 20
+    weight: 300
+    letter_spacing: 0
+    line_height: 1.5
+  menu:
+    small_size: 25
+    medium_size: 18
+    large_size: 20
+    weight: 300
+    letter_spacing: 0
+  grid_item_title:
+    small_size: 22
+    medium_size: 30
+    large_size: 30
+    weight: 200
+    letter_spacing: -0.02
+  grid_item_subtitle:
+    small_size: 15
+    medium_size: 16
+    large_size: 17
+    weight: 300
+    letter_spacing: 0
+  h1:
+    small_size: 25
+    medium_size: 35
+    large_size: 45
+    weight: 200
+    letter_spacing: -0.02
+    line_height: 1.2
+  h2:
+    small_size: 22
+    medium_size: 30
+    large_size: 35
+    weight: 300
+    letter_spacing: -0.02
+    line_height: 1.2
+  h3:
+    small_size: 22
+    medium_size: 25
+    large_size: 30
+    weight: 300
+    letter_spacing: -0.02
+    line_height: 1.3
+  h4:
+    small_size: 17
+    medium_size: 22
+    large_size: 22
+    weight: 300
+    letter_spacing: 0
+    line_height: 1.6
+  h5:
+    small_size: 17
+    medium_size: 20
+    large_size: 20
+    weight: 200
+    letter_spacing: 0
+    line_height: 1.6
+  h6:
+    small_size: 17
+    medium_size: 20
+    large_size: 20
+    weight: 200
+    letter_spacing: 0
+    line_height: 1.6
+  p:
+    small_size: 16
+    medium_size: 18
+    large_size: 20
+    weight: 300
+    letter_spacing: 0
+    line_height: 1.6
+  blockquote:
+    small_size: 25
+    medium_size: 35
+    large_size: 45
+    weight: 300
+    letter_spacing: -0.02
+    line_height: 1.6
+  buttons:
+    weight: 300
+    letter_spacing: 0
+
+advanced_settings:
+  ajax_loading: true
+  analytics_code: ""
+  custom_styles: ""
+  header_js: ""
+  footer_js: ""

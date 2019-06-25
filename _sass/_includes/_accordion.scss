@@ -1,0 +1,29 @@
+.accordion {
+  .snackbar {
+    background-color: #ffe37d;
+    color: #444;
+    cursor: pointer;
+    padding: 11px 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 25px;
+    font-weight: 200;
+    transition: 0.4s;
+    margin-bottom: 4px;
+
+    .active,
+    &:hover {
+      background-color: #fdd339;
+    }
+  }
+
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+}
