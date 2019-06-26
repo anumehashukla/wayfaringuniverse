@@ -184,7 +184,7 @@ when_to_travel:
 basic_settings:
   site_title: Wayfaring Universe
   site_tagline: Never ending footsteps.
-  favicon_image: images/favicon.png
+  favicon_image: /images/favicon.png
 
 header_settings:
   logo_image:
