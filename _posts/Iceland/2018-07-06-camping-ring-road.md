@@ -14,7 +14,7 @@ Expand the Legend on the left for all details
   <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1PVyOyAeYezIacaLzIuhx9ISVXA11Rjc_" width="1200" height="800"></iframe>
 </p>
 
-### Day 1 Skjol Campground
+### [Day 1 Skjol Campground](){: name="SkjolCampground"}
 
 Price : Adults  1.500 ISK , Children 5-15 years 750 ISK, Senior over 70 years  800 ISK<br>
 Showers : 400 ISK per person, Timings - 9:00am to 10:00pm(but were very nice and clean)<br>
