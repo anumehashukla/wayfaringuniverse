@@ -28,7 +28,7 @@ If you wish to cancel your reservation, please send an email to visit@alma.cl, a
 You can only visit ALMA through this public tour until and unless you work there and also it is mandatory to take their bus from SP if you want to take the tour, you cannot take your own vehicle to ALMA.
 
 ![](/images/astronomy/alma_DSC8163.jpg)
-*<center>Our guide</center>*
+*<center class="image-caption">Our guide</center>*
 
 
 ### Pick time and Location
