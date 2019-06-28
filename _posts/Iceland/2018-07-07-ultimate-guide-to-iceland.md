@@ -9,7 +9,7 @@ Travelling to Iceland and wondering what are the main highlights of Iceland, how
 
 
 ## Best time to visit Iceland
-In Iceland, the weather is **cold, cloudy and windy,** for most of the year. To put it simply, there is no single best time. Each season has its advantages and shortcomings, so deciding when to go is entirely up to you. However, I consider that summer would be a strong contender for the best time to visit Iceland. As it is the warmest time of year, of course, with promised long days and the fabled midnight sun ideal for hiking, sightseeing or road tripping, but with hordes of crowds.
+ There is a saying in Iceland, “If you don´t like the weather, just wait 5 minutes”. That is so true, it could be sunny one moment and raining in the other. But basically, the weather is **cold, cloudy and windy,** for most of the year. To put it simply, there is no single best time. Each season has its advantages and shortcomings, so deciding when to go is entirely up to you. However, I consider that summer would be a strong contender for the best time to visit Iceland. As it is the warmest time of year, of course, with promised long days and the fabled midnight sun ideal for hiking, sightseeing or road tripping, but with not without hordes of crowds.
 
 Here's an overview of the weather in Iceland:
 
@@ -33,7 +33,9 @@ In case, you are applying from the United States, checkout the detailed procedur
 
 ## Iceland road trip itinerary
 
-## Ring road clockwise or counterclockwise?
+[Here is a 10 day road trip itinerary along ring road](http://wayfaringuniverse.com/iceland/ring-road)
+
+## [Ring road clockwise or counterclockwise?](){: name="ringRoadClockwise"}
 There’s not really a wrong way to drive the ring road, either way, is gorgeous. There is no one correct answer.
 
 All the sights will remain where they are whether you go clockwise or counterclockwise. therefore hardly matters which way you choose. But definitely, some parts like - the first glimpse of the town of Akureyri is unbeatable when you are driving in the counterclockwise direction while the views of Vatnajökull(*it is visible from far away, in fact, we could see it's four terminus's, together*) are best seen when travelling clockwise. So there will be always some sections which would be better in one direction while the rest in other.
@@ -61,6 +63,13 @@ Major gas station companies are N1, Orkan, Olis, etc. Below is an interactive ma
 Many rental car companies give a discount tag that works at one of these stations. Ask your rental car company about the discount.
 
 **Note: Unlike the United States, the diesel pumps in Iceland have black handles while gasoline ones are green.**
+
+
+*Below is an interactive map of major Gas Stations in Iceland. Expand the Legend on the left for all details.*
+
+<p class="responsive-iframe-container">
+<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1QuxJ4CXOhQZyrg0ZRJYzzsIiPaxsYhU2" width="640" height="480"></iframe>
+</p>
 
 
 ## Food
@@ -110,28 +119,13 @@ the Soup Company many vegan options
 * Blaa Kannan Cafe
 
 
-## Electrical Outlets
-In Iceland, the power plugs and sockets are of type F or also called Europlug/Schuko-Plug. The outlets output 230 volts versus 110 volts in the U.S. So, get your converters/adapters, if necessary. Alternatively, you can buy them at Keflavik Airport or various gas stations across Iceland.
-
-## Tips
-* Keep Coins for laundry and showers.
-* Eye Mask is must if you are travelling in summers.
-* Carry debit card since most of the fuel stations ask for pin.
-* Keep hiking shoes as it might be very slippery in several places.
-* Rain Jacket, Umbrella.
-* If you reach campgrounds after business hours, no need to worry just camp and pay in the morning.
-* Download Google translate offline.
-* Download Google Maps Offline for Iceland.
-
-## Tax credit
-
-## Grocery/ Supermarkets
+## [Grocery/ Supermarkets](){: name="Grocery"}
 
 Just like gas, food is also expensive in Iceland. Reykjavik has a lot of options but as you step outside  would advise, stock up in Reykjavik if you are hitting the Ring Road or Highlands or especially camping. Get all the stuff that you might need on your trip, in Reykjavik, and only buy perishables along the trip. That way you could save some money, and furthermore, make your trip hassle free from all the time trying to locate a grocery store.
 
 Bónus is the budget supermarket in Iceland, it is the cheapest of all. They have stores all across Iceland. Refer to the map below for locations. Others stores that are popular in Iceland are  Kronan, Netto, Hagauap, Noatun, Samkaup, Vidir.
 
-Gas Stations across Iceland also have small grocery stores(sometimes bigger ones as well), you will always find what you are looking for, don't worry about the %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Gas Stations across Iceland also have small grocery stores(sometimes bigger ones as well), you will always find what you are looking for, don't worry about the tid bits.
 
 
 *Below is an interactive map of major Supermarkets in Iceland. Expand the Legend on the left for all details.*
@@ -141,6 +135,12 @@ Gas Stations across Iceland also have small grocery stores(sometimes bigger ones
 <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1CmKw7S0yQgXlCdYIwGxQgka6tYwE5uQ8" width="640" height="480"></iframe>
 </p>
 
+## Electrical Outlets
+In Iceland, the power plugs and sockets are of type F or also called Europlug/Schuko-Plug. The outlets output 230 volts versus 110 volts in the U.S. So, get your converters/adapters, if necessary. Alternatively, you can buy them at Keflavik Airport or various gas stations across Iceland.
+
+## SIM
+You can buy SIM at Keflavik airport itself, just outside the arrivals.<br>
+Síminn has the best coverage.
 
 ## Icelandic pronunciations of famous places
 
