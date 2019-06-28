@@ -5,7 +5,7 @@ description: Iceland
 featured_image: '/images/iceland/ultimateGuide.jpg'
 categories: iceland
 ---
-Travelling to Iceland and wondering what are the main highlights of Iceland, how much time you need to visit this beautiful country, and what’s the best itinerary to follow? Are there any fuel stations along the ring road? What are the cheap grocery places? In this post, I am sharing our experience-based suggestions and itinerary ideas for one to ten days.
+Travelling to Iceland and wondering what are the main highlights of Iceland, how much time you need to visit this beautiful country, and what’s the best itinerary to follow? Are there any fuel stations along the ring road? What are the cheap grocery places? In this post, I am sharing our experience-based suggestions and itinerary ideas for ten days.
 
 
 ## Best time to visit Iceland
@@ -174,7 +174,7 @@ Okay this is the best one, so Iceland is Ísland in Icelandic and is pronounced 
 
 You will find many places ending in Foss, Foss is waterfall in Icelandic
 <br>
-
+<br>
 *Below is an interactive map of major attractions, campgrounds, gas stations supermarkets in Iceland. Expand the Legend on the left for all details.*
 
 <p class="responsive-iframe-container">
