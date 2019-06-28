@@ -173,3 +173,10 @@ Krýsuvík - crews-a-veek<br>
 Okay this is the best one, so Iceland is Ísland in Icelandic and is pronounced as eess-land.
 
 You will find many places ending in Foss, Foss is waterfall in Icelandic
+<br>
+
+*Below is an interactive map of major attractions, campgrounds, gas stations supermarkets in Iceland. Expand the Legend on the left for all details.*
+
+<p class="responsive-iframe-container">
+<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1T_pbLh2G0ejBgu1YzuRaNc2pJl_0NvKs" width="640" height="480"></iframe>
+</p>
