@@ -1,5 +1,5 @@
 ---
-title: 'Camping Along Ring Road'
+title: 'CAMPING RING ROAD'
 date: 2018-07-06 00:00:00
 description: Iceland
 featured_image: '/images/iceland/campinRingRoad.jpg'

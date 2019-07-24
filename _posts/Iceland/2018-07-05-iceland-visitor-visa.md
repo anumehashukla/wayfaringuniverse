@@ -1,5 +1,5 @@
 ---
-title: 'How to apply for Iceland Visitor Visa from the United States'
+title: 'HOW TO APPLY FOR ICELAND VISITOR VISA FROM THE UNITED STATES'
 date: 2018-06-30 00:00:00
 description: Iceland posts.
 featured_image: '/images/iceland/visitorVisa.jpg'

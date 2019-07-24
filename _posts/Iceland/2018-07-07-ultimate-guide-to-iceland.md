@@ -1,5 +1,5 @@
 ---
-title: 'Your Ultimate Guide To Iceland'
+title: 'YOUR ULTIMATE GUIDE TO ICELAND'
 date: 2018-07-07 00:00:00
 description: Iceland
 featured_image: '/images/iceland/ultimateGuide.jpg'
@@ -74,7 +74,7 @@ Many rental car companies give a discount tag that works at one of these station
 
 ## Food
 
-Vegetarian?? Looking for Vegan/Vegetarian food in Iceland? Here are some of my picks-
+Vegetarian?? Looking for Vegan/Vegetarian food in Iceland? Here are some of my picks
 
 **Reykjavik**
 * Glo (good mediterranean and mexican options)<br>
@@ -153,22 +153,22 @@ Síminn has the best coverage.
 * LL is pronounced something like tl
 
 
-Reykjavík - Ray-kya-veek<br>
-Höfn - hup<br>
-Vík - veek<br>
-Akureyri - ah-kuh-ray-ree<br>
-Þingvellir - Thing-vet-lrr<br>
-Snæfell - Snigh-fetl<br>
-Landmannalaugar - land-manna-lay-gar<br>
-Vatnajökull - vatna-yuhktl<br>
-Jökulsárlón - yokul-sarlon<br>
-Dyrhólaey - deer-hola-ae (*ae as in bae*)<br>
-Sólheimasandur - soul-hay-ma-sandur<br>
-Eyjafjallajökull -  ay-ya-fyatla-yuhktl<br>
-Seyðisfjörður - say-dis-fyord-ur<br>
-Seljalandsfoss - sel-ya-landsfoss<br>
-Mývatn - mee - waat - n<br>
-Krýsuvík - crews-a-veek<br>
+**Reykjavík** - Ray-kya-veek<br>
+**Höfn** - hup<br>
+**Vík** - veek<br>
+**Akureyri** - ah-kuh-ray-ree<br>
+**Þingvellir** - Thing-vet-lrr<br>
+**Snæfell** - Snigh-fetl<br>
+**Landmannalaugar** - land-manna-lay-gar<br>
+**Vatnajökull** - vatna-yuhktl<br>
+**Jökulsárlón** - yokul-sarlon<br>
+**Dyrhólaey** - deer-hola-ae (*ae as in bae*)<br>
+**Sólheimasandur** - soul-hay-ma-sandur<br>
+**Eyjafjallajökull** -  ay-ya-fyatla-yuhktl<br>
+**Seyðisfjörður** - say-dis-fyord-ur<br>
+**Seljalandsfoss** - sel-ya-landsfoss<br>
+**Mývatn** - mee - waat - n<br>
+**Krýsuvík** - crews-a-veek<br>
 
 Okay this is the best one, so Iceland is Ísland in Icelandic and is pronounced as eess-land.
 

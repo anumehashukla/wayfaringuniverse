@@ -1,5 +1,5 @@
 ---
-title: 'How to visit ALMA'
+title: 'HOW TO VISIT ALMA'
 date: 2017-12-23 00:00:00
 description:
 featured_image: '/images/astronomy/alma_DSC8184.jpg'
