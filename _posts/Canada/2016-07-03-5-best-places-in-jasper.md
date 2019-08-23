@@ -1,5 +1,5 @@
 ---
-title: '5 best places to see in Jasper National Park'
+title: '5 BEST PLACES TO SEE IN JASPER NATIONAL PARK'
 date: 2016-07-03 00:00:00
 description:
 featured_image: '/images/canada/IMG_1.jpg'

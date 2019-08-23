@@ -1,5 +1,5 @@
 ---
-title: '10 best places to see in Banff National Park'
+title: '10 BEST PLACES TO SEE IN BANFF NATIONAL PARK'
 date: 2016-07-02 00:00:00
 description:
 featured_image: '/images/canada/IMG_8278.jpg'
