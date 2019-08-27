@@ -15,14 +15,17 @@ layout: default
 </section>
 
 
-{% assign related = site.categories[page.categories.first] %}
+{% for category in page.categories %}
 
-{% if related.size > 1 %}
+{% assign relatedPosts = site.categories[category] %}
+
+{% if relatedPosts.size > 1 %}
+
   <section	class="single related">
     <div class="wrap">
       <h4>see also...</h4>
       <hr/>
-      {% for post in related %}
+      {% for post in relatedPosts %}
         {% if post.title != page.title %}
           <p>
             <a class="" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
@@ -35,3 +38,4 @@ layout: default
     </div>
   </section>
 {% endif %}
+{% endfor %}
