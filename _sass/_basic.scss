@@ -24,7 +24,7 @@ body {
 	font-weight: $regular-weight;
 	font-style: normal;
 	line-height: 1;
-	color: $text-medium-color;
+	color: $text-dark-color;
 }
 
 
@@ -45,6 +45,8 @@ h1, .h1 {
 	font-weight: $h1-weight;
 	line-height: $h1-lineheight;
 	letter-spacing: $h1-spacing;
+  text-align: center;
+  text-transform: uppercase;
 
 	@include mq(tabletp) {
 		font-size: $h1-medium;

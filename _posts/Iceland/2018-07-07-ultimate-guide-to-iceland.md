@@ -1,5 +1,5 @@
 ---
-title: 'YOUR ULTIMATE GUIDE TO ICELAND'
+title: 'Your Ultimate guide to Iceland'
 date: 2018-07-07 00:00:00
 description: Iceland
 featured_image: '/images/iceland/ultimateGuide.jpg'

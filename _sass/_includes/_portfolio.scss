@@ -86,6 +86,7 @@
 	font-size: $grid-item-title-small;
 	font-weight: $grid-item-title-weight;
 	letter-spacing: $grid-item-title-spacing;
+  text-transform: uppercase;
 
 
 	@include mq(tabletp) {
