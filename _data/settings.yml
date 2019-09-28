@@ -184,6 +184,7 @@ when_to_travel:
 basic_settings:
   site_title: Wayfaring Universe
   favicon_image: /images/favicon.png
+  cdn_url: 'https://wayfaringuniversecdn.azureedge.net/image-container'
 
 header_settings:
   logo_image:
