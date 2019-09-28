@@ -5,8 +5,8 @@
 // - - - - - - - - - - - - - - - - - -
 
 .portfolio {
-	margin-top: 0;
-	padding: $grid-spacing/2;
+  margin-top: 0;
+  padding: $grid-spacing/2;
 }
 
 .portfolio-wrap {
@@ -23,8 +23,8 @@
 }
 
 .portfolio-item {
-	position: relative;
-	padding: $grid-spacing/2;
+  position: relative;
+  padding: $grid-spacing/2;
   width: 100%;
   float: left;
 
@@ -51,44 +51,44 @@
 }
 
 .portfolio-item__link {
-	position: relative;
-	display: block;
+  position: relative;
+  display: block;
 
-	@include mq(tabletl) {
+  @include mq(tabletl) {
 
-		&:hover {
+    &:hover {
 
-			.portfolio-item__content {
+      .portfolio-item__content {
 
-			}
+      }
       .portfolio-item__image {
         /*filter : brightness(100%);*/
         transform: scale(1.02);
       }
-		}
-	}
+    }
+  }
 }
 
 .portfolio-item__image {
-	width: 100%;
+  width: 100%;
   /*filter : brightness(80%);*/
   transition: transform .2s;
 }
 
 .portfolio-item__content {
-	position: absolute;
-	/*top: 0;*/
-	right: 10px;
-	bottom: 10px;
-	left: 10px;
-	/*display: flex;*/
-	/*align-items: center;
-	justify-content: center;
-	background: rgba($overlay-background-color, $overlay -opacity);
+  position: absolute;
+  /*top: 0;*/
+  right: 10px;
+  bottom: 10px;
+  left: 10px;
+  /*display: flex;*/
+  /*align-items: center;
+  justify-content: center;
+  background: rgba($overlay-background-color, $overlay -opacity);
 
-	opacity: 0;
-	visibility: hidden;
-	@include transition(all 0.2s ease-in-out);*/
+  opacity: 0;
+  visibility: hidden;
+  @include transition(all 0.2s ease-in-out);*/
 
   background: none;
   opacity: 1;
@@ -108,20 +108,20 @@
 
 .portfolio-item__title {
   font-family: $grid-item-title-font;
-	color: $overlay-text-color;
-	font-size: $grid-item-title-small;
-	font-weight: $grid-item-title-weight;
-	letter-spacing: $grid-item-title-spacing;
+  color: $overlay-text-color;
+  font-size: $grid-item-title-small;
+  font-weight: $grid-item-title-weight;
+  letter-spacing: $grid-item-title-spacing;
   text-transform: uppercase;
 
 
-	@include mq(tabletp) {
-		font-size: $grid-item-title-medium;
-	}
+  @include mq(tabletp) {
+    font-size: $grid-item-title-medium;
+  }
 
-	@include mq(laptop) {
-		font-size: $grid-item-title-large;
-	}
+  @include mq(laptop) {
+    font-size: $grid-item-title-large;
+  }
 }
 
 .portfolio-item__title__mobile {
@@ -140,17 +140,17 @@
 }
 
 .portfolio-item__subtitle {
-	margin-top: 5px;
-	color: rgba($overlay-text-color, 0.7);
-	font-size: $grid-item-subtitle-small;
-	font-weight: $grid-item-subtitle-weight;
-	letter-spacing: $grid-item-subtitle-spacing;
+  margin-top: 5px;
+  color: rgba($overlay-text-color, 0.7);
+  font-size: $grid-item-subtitle-small;
+  font-weight: $grid-item-subtitle-weight;
+  letter-spacing: $grid-item-subtitle-spacing;
 
-	@include mq(tabletp) {
-		font-size: $grid-item-subtitle-medium;
-	}
+  @include mq(tabletp) {
+    font-size: $grid-item-subtitle-medium;
+  }
 
-	@include mq(laptop) {
-		font-size: $grid-item-subtitle-large;
-	}
+  @include mq(laptop) {
+    font-size: $grid-item-subtitle-large;
+  }
 }

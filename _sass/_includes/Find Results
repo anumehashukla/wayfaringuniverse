@@ -11,27 +11,27 @@ Searching 138 files for "gallery__item"
     <binary>
 
 /Users/anumehashukla/Sites/wayfaringuniverse/_sass/_includes/_gallery.scss:
-   32  }
-   33
-   34: .gallery__item {
-   35   position: relative;
-   36
-   ..
-   50   }
-   51
-   52:  .gallery__item {
-   53
-   54   }
-   55
-   56:  .gallery__item__link {
-   57       display: block;
-   58       pointer-events: none;
-   59   }
-   60
-   61:  .gallery__item__image {
-   62
-   63   }
-   ..
+  32  }
+  33
+  34: .gallery__item {
+  35   position: relative;
+  36
+  ..
+  50   }
+  51
+  52:  .gallery__item {
+  53
+  54   }
+  55
+  56:  .gallery__item__link {
+  57       display: block;
+  58       pointer-events: none;
+  59   }
+  60
+  61:  .gallery__item__image {
+  62
+  63   }
+  ..
   101   }
   102
   103:  .gallery__item {
@@ -178,85 +178,85 @@ Searching 138 files for ".owl-carousel"
     <binary>
 
 /Users/anumehashukla/Sites/wayfaringuniverse/_sass/_plugins.scss:
-   15  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Owl Carousel
-   16
-   17: .owl-carousel {
-   18    display: none;
-   19    // width: 100%;
-   ..
-   22    position: relative;
-   23    z-index: 1; }
-   24:   .owl-carousel .owl-stage {
-   25      position: relative;
-   26      -ms-touch-action: pan-Y;
-   27      -moz-backface-visibility: hidden;
-   28      /* fix firefox animation glitch */ }
-   29:   .owl-carousel .owl-stage:after {
-   30      content: ".";
-   31      display: block;
-   ..
-   34      line-height: 0;
-   35      height: 0; }
-   36:   .owl-carousel .owl-stage-outer {
-   37      position: relative;
-   38      overflow: hidden;
-   39      /* fix for flashing background */
-   40      -webkit-transform: translate3d(0px, 0px, 0px); }
-   41:   .owl-carousel .owl-wrapper,
-   42:   .owl-carousel .owl-item {
-   43      -webkit-backface-visibility: hidden;
-   44      -moz-backface-visibility: hidden;
-   ..
-   47      -moz-transform: translate3d(0, 0, 0);
-   48      -ms-transform: translate3d(0, 0, 0); }
-   49:   .owl-carousel .owl-item {
-   50      position: relative;
-   51      min-height: 1px;
-   ..
-   54      -webkit-tap-highlight-color: transparent;
-   55      -webkit-touch-callout: none; }
-   56:   .owl-carousel .owl-item img {
-   57      display: block;
-   58      width: 80%; }
-   59:   .owl-carousel .owl-nav.disabled,
-   60:   .owl-carousel .owl-dots.disabled {
-   61      display: none; }
-   62:   .owl-carousel .owl-nav .owl-prev,
-   63:   .owl-carousel .owl-nav .owl-next,
-   64:   .owl-carousel .owl-dot {
-   65      cursor: pointer;
-   66      cursor: hand;
-   ..
-   70      -ms-user-select: none;
-   71      user-select: none; }
-   72:   .owl-carousel.owl-loaded {
-   73      display: block; }
-   74:   .owl-carousel.owl-loading {
-   75      opacity: 0;
-   76      display: block; }
-   77:   .owl-carousel.owl-hidden {
-   78      opacity: 0; }
-   79:   .owl-carousel.owl-refresh .owl-item {
-   80      visibility: hidden; }
-   81:   .owl-carousel.owl-drag .owl-item {
-   82      -webkit-user-select: none;
-   83      -moz-user-select: none;
-   84      -ms-user-select: none;
-   85      user-select: none; }
-   86:   .owl-carousel.owl-grab {
-   87      cursor: move;
-   88      cursor: grab; }
-   89:   .owl-carousel.owl-rtl {
-   90      direction: rtl; }
-   91:   .owl-carousel.owl-rtl .owl-item {
-   92      float: right; }
-   93
-   94  /* No Js */
-   95: .no-js .owl-carousel {
-   96    display: block; }
-   97
-   ..
-   99   *  Owl Carousel - Animate Plugin
+  15  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Owl Carousel
+  16
+  17: .owl-carousel {
+  18    display: none;
+  19    // width: 100%;
+  ..
+  22    position: relative;
+  23    z-index: 1; }
+  24:   .owl-carousel .owl-stage {
+  25      position: relative;
+  26      -ms-touch-action: pan-Y;
+  27      -moz-backface-visibility: hidden;
+  28      /* fix firefox animation glitch */ }
+  29:   .owl-carousel .owl-stage:after {
+  30      content: ".";
+  31      display: block;
+  ..
+  34      line-height: 0;
+  35      height: 0; }
+  36:   .owl-carousel .owl-stage-outer {
+  37      position: relative;
+  38      overflow: hidden;
+  39      /* fix for flashing background */
+  40      -webkit-transform: translate3d(0px, 0px, 0px); }
+  41:   .owl-carousel .owl-wrapper,
+  42:   .owl-carousel .owl-item {
+  43      -webkit-backface-visibility: hidden;
+  44      -moz-backface-visibility: hidden;
+  ..
+  47      -moz-transform: translate3d(0, 0, 0);
+  48      -ms-transform: translate3d(0, 0, 0); }
+  49:   .owl-carousel .owl-item {
+  50      position: relative;
+  51      min-height: 1px;
+  ..
+  54      -webkit-tap-highlight-color: transparent;
+  55      -webkit-touch-callout: none; }
+  56:   .owl-carousel .owl-item img {
+  57      display: block;
+  58      width: 80%; }
+  59:   .owl-carousel .owl-nav.disabled,
+  60:   .owl-carousel .owl-dots.disabled {
+  61      display: none; }
+  62:   .owl-carousel .owl-nav .owl-prev,
+  63:   .owl-carousel .owl-nav .owl-next,
+  64:   .owl-carousel .owl-dot {
+  65      cursor: pointer;
+  66      cursor: hand;
+  ..
+  70      -ms-user-select: none;
+  71      user-select: none; }
+  72:   .owl-carousel.owl-loaded {
+  73      display: block; }
+  74:   .owl-carousel.owl-loading {
+  75      opacity: 0;
+  76      display: block; }
+  77:   .owl-carousel.owl-hidden {
+  78      opacity: 0; }
+  79:   .owl-carousel.owl-refresh .owl-item {
+  80      visibility: hidden; }
+  81:   .owl-carousel.owl-drag .owl-item {
+  82      -webkit-user-select: none;
+  83      -moz-user-select: none;
+  84      -ms-user-select: none;
+  85      user-select: none; }
+  86:   .owl-carousel.owl-grab {
+  87      cursor: move;
+  88      cursor: grab; }
+  89:   .owl-carousel.owl-rtl {
+  90      direction: rtl; }
+  91:   .owl-carousel.owl-rtl .owl-item {
+  92      float: right; }
+  93
+  94  /* No Js */
+  95: .no-js .owl-carousel {
+  96    display: block; }
+  97
+  ..
+  99   *  Owl Carousel - Animate Plugin
   100   */
   101: .owl-carousel .animated {
   102    animation-duration: 500ms;

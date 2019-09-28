@@ -29,7 +29,7 @@ If you’re looking for the best weather, it’s undeniable that the best months
 
 Expand the Legend on the left for all details
 <p class="responsive-iframe-container">
-	<iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1unYNtzAFLw_WEP9Eh3HRHXd8KAswAlU-" width="640" height="480"></iframe>
+  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1unYNtzAFLw_WEP9Eh3HRHXd8KAswAlU-" width="640" height="480"></iframe>
 </p>
 
 

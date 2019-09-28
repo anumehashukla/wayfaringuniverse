@@ -9,19 +9,19 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Footer
 
 .footer {
-	@include transition(all 0.4s ease-in-out 0.8s);
-	padding: 20px;
+  @include transition(all 0.4s ease-in-out 0.8s);
+  padding: 20px;
   text-align: center;
 
-	@include mq(tabletp) {
-		padding: 40px;
+  @include mq(tabletp) {
+    padding: 40px;
     text-align: center;
-	}
+  }
 
-	@include mq(tabletl) {
-		display: none;
+  @include mq(tabletl) {
+    display: none;
     text-align: left;
-	}
+  }
 
   @include mq(laptop) {
     text-align: left;
@@ -29,18 +29,18 @@
 }
 
 .footer__copyright {
-	display: block;
-	margin-top: 15px;
-	font-size: 13px;
-	color: $text-light-color;
+  display: block;
+  margin-top: 15px;
+  font-size: 13px;
+  color: $text-light-color;
 
-	a {
-		margin-left: 10px;
-		color: $text-light-color;
-		font-weight: $regular-weight;
+  a {
+    margin-left: 10px;
+    color: $text-light-color;
+    font-weight: $regular-weight;
 
-		&:hover {
-			color: $text-medium-color;
-		}
-	}
+    &:hover {
+      color: $text-medium-color;
+    }
+  }
 }
