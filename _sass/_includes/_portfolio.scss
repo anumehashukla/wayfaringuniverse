@@ -13,12 +13,20 @@
 
 }
 
+.portfolio-mobile {
+  display:block;
+
+
+  @include mq(tabletl) {
+    display:none;
+  }
+}
+
 .portfolio-item {
 	position: relative;
 	padding: $grid-spacing/2;
   width: 100%;
   float: left;
-
 
   @include mq(tabletp) {
     width: 50%;
@@ -27,6 +35,19 @@
   @include mq(laptop) {
     width: 50%;
   }
+}
+
+.portfolio-item-mobile {
+ position: relative;
+ border-color: #00000030;
+ border-style: solid;
+ border-width: 1px;
+ padding: 1px;
+ padding-bottom: 55px;
+    h2 {
+      color: $accent_color !important;
+    }
+
 }
 
 .portfolio-item__link {
@@ -41,7 +62,7 @@
 
 			}
       .portfolio-item__image {
-        filter : brightness(100%);
+        /*filter : brightness(100%);*/
         transform: scale(1.02);
       }
 		}
@@ -50,7 +71,7 @@
 
 .portfolio-item__image {
 	width: 100%;
-  filter : brightness(80%);
+  /*filter : brightness(80%);*/
   transition: transform .2s;
 }
 
@@ -60,7 +81,7 @@
 	right: 10px;
 	bottom: 10px;
 	left: 10px;
-	display: flex;
+	/*display: flex;*/
 	/*align-items: center;
 	justify-content: center;
 	background: rgba($overlay-background-color, $overlay -opacity);
@@ -72,12 +93,17 @@
   background: none;
   opacity: 1;
   visibility: visible;
-  align-items: left
 }
 
 .portfolio-item__info {
-	/*text-align: center;*/
   text-align: left;
+}
+.portfolio-item__info__mobile {
+  text-align: center;
+}
+.button__mobile{
+  font-size: 18px;
+  display: inline;
 }
 
 .portfolio-item__title {
@@ -96,6 +122,15 @@
 	@include mq(laptop) {
 		font-size: $grid-item-title-large;
 	}
+}
+
+.portfolio-item__title__mobile {
+  font-family: $grid-item-title-font;
+  color: black;
+  font-size: $grid-item-title-small;
+  font-weight: $grid-item-title-weight;
+  letter-spacing: $grid-item-title-spacing;
+  text-transform: uppercase;
 }
 .portfolio-item__hr{
   margin-top: 15px;

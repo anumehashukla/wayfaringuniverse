@@ -8,13 +8,14 @@
 	visibility: hidden;
 	position: relative;
 	margin: 20px auto;
+  display: none;
 
 	@include mq(tabletp) {
 		margin: 30px auto;
 	}
 
 	@include mq(tabletl) {
-
+    display: block;
 	}
 
 	@include mq(laptop) {
@@ -32,6 +33,8 @@
 
 .gallery__item {
 	position: relative;
+  padding-right:30px;
+  padding-top:30px;
 
 	img {
 		width: 100%;
@@ -47,7 +50,7 @@
 	.gallery__wrap {
 
 	}
-	
+
 	.gallery__item {
 
 	}
@@ -76,7 +79,7 @@
 			height: 12px;
 			border: 0;
 			border-radius: 100%;
-			background: $text-light-color;
+			background: $text-medium-color;
 			@include transition(all 0.2s ease-in-out);
 			cursor: pointer;
 			outline: none;
@@ -98,7 +101,7 @@
 		margin-left: -$grid-spacing/2;
 		margin-right: -$grid-spacing/2;
 	}
-	
+
 	.gallery__item {
 		float: left;
 		width: 50%;

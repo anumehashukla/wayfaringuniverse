@@ -142,7 +142,7 @@
 		left: 0;
 		width: 100%;
 		height: 3px;
-		@include transition(all 0.1s);
+		@include transition(all 0.25s);
 		background: $text-dark-color;
 	}
 
@@ -185,7 +185,8 @@
 	top: 0;
 	right: 0;
 	left: 0;
-	background: rgba($overlay-background-color,0.95);
+	/*background: rgba($overlay-background-color,0.95);*/
+  background: $accent-color;
 	overflow: auto;
 
 	visibility: hidden;
@@ -211,6 +212,7 @@
 	list-style: none;
 	margin: 0 auto;
 	padding: 12px 20px;
+  text-align: center;
 
 	@include mq(tabletp) {
 		padding: 30px 40px;
@@ -283,7 +285,8 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba($overlay-background-color,0.95);
+  /*background: rgba($overlay-background-color,0.95);*/
+  background: $accent-color;
   overflow: auto;
 
   visibility: hidden;
