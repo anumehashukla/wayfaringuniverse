@@ -212,7 +212,7 @@
   list-style: none;
   margin: 0 auto;
   padding: 12px 20px;
-  text-align: center;
+  /*text-align: center;*/
 
   @include mq(tabletp) {
     padding: 30px 40px;
