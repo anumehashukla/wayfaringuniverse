@@ -368,7 +368,7 @@ body.loading {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
 section {
-  margin-top: 40px;
+  /*margin-top: 40px;
 
   @include mq(tabletp) {
     margin-top: 50px;
@@ -380,7 +380,7 @@ section {
 
   @include mq(laptop) {
     margin-top: 80px;
-  }
+  }*/
 }
 
 .wrap {

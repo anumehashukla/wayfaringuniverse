@@ -1,12 +1,12 @@
 ---
-title: Confused where to head next?
+title: Confused, where to head next?
 subtitle:
 description:
 featured_image: /images/about.jpg
 ---
 
 <section class="where-to-go">
-  <h1 class="text-center">Confused where to head next?</h1>
+  <!--<h1 class="text-center">Confused where to head next?</h1>-->
   <!--<div class="dropdown text-center hide">
     <select data-placeholder="Choose when you want to travel">
       {% comment %}{% for value in site.data.settings.when_to_travel %}

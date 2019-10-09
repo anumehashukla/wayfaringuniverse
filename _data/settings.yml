@@ -196,7 +196,7 @@ menu_settings:
       url: '/about'
     - title: 'CONTACT'
       url: '/contact'
-    - title: 'CONFUSED WHERE TO HEAD NEXT?'
+    - title: 'CONFUSED, WHERE TO HEAD NEXT?'
       url: '/travelNext'
 
 grid_settings:
