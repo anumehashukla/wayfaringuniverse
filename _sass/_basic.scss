@@ -181,6 +181,7 @@ blockquote {
   @include mq(laptop) {
     padding: 20px 40px;
     font-size: $blockquote-large;
+    max-width: 85%;
   }
 
   p {
