@@ -1,6 +1,6 @@
 ---
 title: 'Can wee see solar eclipse in other parts of solar system?'
-date: 2014-06-29 00:00:00
+date: 2014-06-29 03:00:00
 description: Total Solar Eclipses in Solar system.
 featured_image: '/images/astronomy/solarEclipse.jpg'
 categories: astronomy

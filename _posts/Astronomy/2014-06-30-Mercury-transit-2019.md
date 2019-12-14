@@ -1,6 +1,6 @@
 ---
 title: 'Mercury Transit 2019'
-date: 2014-06-30 00:00:00
+date: 2014-06-30 01:00:00
 description: Mercury Transit 2019
 featured_image: '/images/astronomy/mercurytransit/mercurytransit.jpg'
 categories: astronomy
@@ -20,8 +20,6 @@ That tiny dot in the picture is Mercury if at all you can spot it! It just remin
 <blockquote>
   <p>“We are not figuratively, but literally stardust. - Neil deGrasse Tyson”</p>
 </blockquote>
-
-
 
 ![](/images/astronomy/mercurytransit/mercurytransit.jpg)
 <center><i>Can you spot it?</i></center>
