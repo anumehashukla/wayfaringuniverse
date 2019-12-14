@@ -22,13 +22,9 @@ Totality, those special minutes of darkness are something very unique and extrao
 
 
 
-
 ![](/images/astronomy/totalsolareclipse/totalsolareclipse.jpg)
-<center><i>Can you spot it?</i></center>
-
 
 ![](/images/astronomy/totalsolareclipse/diamondring.jpg)
-
 
 ![](/images/astronomy/totalsolareclipse/sunflares.jpg)
 
