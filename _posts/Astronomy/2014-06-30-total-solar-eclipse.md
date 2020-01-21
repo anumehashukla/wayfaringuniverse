@@ -1,6 +1,6 @@
 ---
 title: 'Total Solar Eclipse 2017'
-date: 2014-06-30 00:00:00
+date: 2014-06-30 03:00:00
 description: Total Solar Eclipse 2017
 featured_image: '/images/astronomy/totalsolareclipse/diamondring.jpg'
 categories: astronomy

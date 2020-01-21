@@ -1,6 +1,6 @@
 ---
 title: 'Best stargazing sites in california'
-date: 2014-06-30 00:00:00
+date: 2014-06-28 02:00:00
 description: Darkest sites in California.
 featured_image: '/images/astronomy/stargazingCalifornia.jpg'
 categories: astronomy
