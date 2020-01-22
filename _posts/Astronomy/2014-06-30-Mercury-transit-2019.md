@@ -2,7 +2,7 @@
 title: 'Mercury Transit 2019'
 date: 2014-06-30 01:00:00
 description: Mercury Transit 2019
-featured_image: '/images/astronomy/mercurytransit/mercurytransit.jpg'
+featured_image: '/images/astronomy/mercury.jpg'
 categories: astronomy
 ---
 
@@ -21,22 +21,22 @@ That tiny dot in the picture is Mercury if at all you can spot it! It just remin
   <p>“We are not figuratively, but literally stardust. - Neil deGrasse Tyson”</p>
 </blockquote>
 
-![](/images/astronomy/mercurytransit/mercurytransit.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercury.jpg)
 <center><i>Can you spot it?</i></center>
 
-![](/images/astronomy/mercurytransit/mercurytransit_5991.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercurythroughtelescope.jpg)
 <center><i>First time through a Solar telescope</i></center>
 
-![](/images/astronomy/mercurytransit/mercurytransit_5981.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/astronomyevent.jpg)
 
-![](/images/astronomy/mercurytransit/mercurytransit_5987.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/transitofmercury.jpg)
 
-![](/images/astronomy/mercurytransit/mercurytransit_5982.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mtdiabloastronomicalsociety.jpg)
 <center><i>Mt Diablo Astronomical Society</i></center>
 
-![](/images/astronomy/mercurytransit/mercurytransit_5984.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/viewthroughtelescope.jpg)
 
-![](/images/astronomy/mercurytransit/mercurytransit_5988.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercurybeforesun.jpg)
 
 
 
