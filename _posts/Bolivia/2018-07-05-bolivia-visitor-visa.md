@@ -26,7 +26,7 @@ Find out which category your country falls in [here](http://boliviala.org/touris
 ### Application Fee
 
 * Type II country - No fee for type II countries except for China (Along Taiwan and Hong Kong) and Iran, which is 30 USD
-* Type II country - A visa fee of 30 USD is applicable for all type III countries
+* Type III country - A visa fee of 30 USD is applicable for all type III countries
 
 ### Visa process for Type II Country
 
