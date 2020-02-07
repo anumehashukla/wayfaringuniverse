@@ -201,10 +201,11 @@
 
   table {
     margin: 20px auto;
-    width: 50%;
+    width: 100%;
 
     @include mq(tabletp) {
       margin: 30px auto;
+       width: 85%;
     }
 
     @include mq(tabletl) {

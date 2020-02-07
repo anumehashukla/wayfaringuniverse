@@ -59,11 +59,7 @@ ALMA has a panoramic view of the Atacama region. Volcano Lascar is also visible 
 *<center>Transporter</center>*
 
 
-![](/images/astronomy/alma_DSC8180.jpg)
-
-![](/images/astronomy/alma_DSC8175.jpg)
-
-![](/images/astronomy/alma_DSC8167.jpg)
-
-![](/images/astronomy/alma_DSC8173.jpg)
+:--------------------------------------:|:---------------------------------------:
+![](/images/astronomy/alma_DSC8180.jpg) |  ![](/images/astronomy/alma_DSC8175.jpg)
+![](/images/astronomy/alma_DSC8167.jpg) |  ![](/images/astronomy/alma_DSC8173.jpg)
 
