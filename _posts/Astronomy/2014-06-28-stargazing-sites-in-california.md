@@ -31,5 +31,9 @@ categories: astronomy
   21. Anza Borrego State Park
   22. Wagon wheel staging area Near Trona
 
-
+Find these places on the map below <br><br>
+*Expand the Legend on the left for all details*
+<p class="responsive-iframe-container">
+  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1oZWbP2A2m3Cu-n6UGQIHbf8t0YQMiwOc" width="640" height="480"></iframe>
+</p>
 
