@@ -26,12 +26,18 @@ September is undoubtedly a great time to visit this Nordic fairyland.
 Although this is arguably the most challenging time of year to visit, winter in Iceland produces captivating sceneries. Everything covered in snow and having all vistas and space almost entirely to yourselves.  January is the coldest and darkest month of the year. If visiting in January and February, make sure you wrap up warm particularly if you’re heading in search of the Northern Lights.
 Expect cold temperatures, snow flurries, low visibility, and road closures.
 
+<br>
+<hr>
+
 ## Visa
 Iceland is a member of the Schengen Visa Agreement, all persons [requiring visas,](http://utl.is/index.php/en/who-needs-a-visa) not holding a valid Schengen visa in their travel document, must apply for a visa at the applicable embassy/consulate before traveling to Iceland.
 
 In case, you are applying from the United States, check out the detailed procedure of [how to apply for Iceland Visa from the United States](http://wayfaringuniverse.com/iceland/iceland-visitor-visa)
 
 In case, you are applying from the United States, check out the detailed procedure of [how to apply for Iceland Visa from the United States](http://wayfaringuniverse.com/iceland/iceland-visitor-visa)
+
+<br>
+<hr>
 
 ## Iceland road trip itinerary
 
@@ -48,6 +54,9 @@ It's easy to pull over or stop at all the scenic points in Iceland, unlike other
 But there is no such problem in Iceland. So, you are free to pick any direction.
 
 The only reason, **I would do it counterclockwise** is because there are so many stops in the south and you might be too exhausted already, to really enjoy them on your way back to Reykjavík. Again, it entirely depends on your individual preference.
+
+<br>
+<hr>
 
 ## Fuel
 
@@ -120,6 +129,9 @@ the Soup Company many vegan options
 * Akureyri Backpackers are also known as Backpackers Cafe (Great Selection - Veggie Taco, Veggie Burger, Vegan Burger)
 * Blaa Kannan Cafe
 
+<br>
+<hr>
+
 
 ## [Grocery/ Supermarkets](){: name="Grocery"}
 
@@ -140,9 +152,17 @@ Gas Stations across Iceland also have small grocery stores(sometimes bigger ones
 ## Electrical Outlets
 The sockets and power plugs are of type F in Iceland or also called Europlug/Schuko-Plug. The outlet's output 230 volts versus 110 volts in the U.S. So, get your converters/adapters, if necessary. Alternatively, you can buy them at Keflavik Airport or various gas stations across Iceland.
 
+<br>
+<hr>
+
+
 ## SIM
 You can buy SIM at Keflavik airport itself, just outside the arrivals.<br>
 Síminn has the best coverage.
+
+<br>
+<hr>
+
 
 ## Icelandic pronunciations of famous places
 
@@ -173,6 +193,10 @@ Síminn has the best coverage.
 **Krýsuvík** - crews-a-veek<br>
 
 Okay, this is the best one, so Iceland is Ísland in Icelandic and is pronounced as eess-land.
+
+<br>
+<hr>
+
 
 You will find many places ending in Foss; Foss is a waterfall in Icelandic.
 <br>

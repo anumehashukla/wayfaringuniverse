@@ -288,10 +288,10 @@ a {
 }
 
 hr {
-  margin: 40px 0;
+  margin: 20px 0;
   border: 0;
   height: 1px;
-  background: $border-color;
+  background: $accent-color;
 }
 
 ::selection 	 { background: $accent-color; color: $background-color; }

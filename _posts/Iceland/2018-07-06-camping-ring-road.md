@@ -33,15 +33,12 @@ Showers:  500 ISK<br>
 Shower timings 8:00 to 11:00 am<br>
 Restaurant on site<br>
 
-![](/images/iceland/campsites/day1_4305.jpeg)
+:--------------------------------------------:|:--------------------------------------------:
+![](/images/iceland/campsites/day1_4305.jpeg)  |  ![](/images/iceland/campsites/day1_4310.jpeg)
+![](/images/iceland/campsites/day1_4311.jpeg)  |  ![](/images/iceland/campsites/day1_4313.jpeg)
 
-![](/images/iceland/campsites/day1_4310.jpeg)
-
-![](/images/iceland/campsites/day1_4311.jpeg)
-
-![](/images/iceland/campsites/day1_4313.jpeg)
-
-
+<br>
+<hr>
 
 
 ### [Day 2 Skogar Campground](){: name="SkogarCampground"}
@@ -69,6 +66,11 @@ The site is awesome, but amenities are not, restrooms were really filthy. I woul
 
 ![](/images/iceland/campsites/day2_0689.jpg){: .portrait-image}
 
+
+<br>
+<hr>
+
+
 ### [Day 3 Þakgil Campground(Thakgil)](){: name="ÞakgilCampground"}
 Not to be confused with the one at Vik, in fact it is 40 minutes awaya from Vik<br>
 
@@ -78,6 +80,11 @@ Restrooms are extremely clean<br>
 Not a crowded campsite<br>
 Reception is open until 10:30 pm<br>
 There is an awesome picnic area inside a cave and also a small waterfall and creek around the site.<br>
+
+
+<br>
+<hr>
+
 
 
 ### [Day 4 Svinafell Campground](){: name="SvinafellCampground"}
@@ -93,17 +100,15 @@ Washing Machine & Dryer available<br>
 
 I's a gorgeous site, what better can you ask to have stunning glacier views while having your meal. Much better than the Skaftafell campground<br>
 
-![](/images/iceland/campsites/day4_4834.jpg)
+:--------------------------------------------:|:--------------------------------------------:
+![](/images/iceland/campsites/day4_4834.jpg)  |  ![](/images/iceland/campsites/day4_4837.jpg)
+![](/images/iceland/campsites/day4_4825.jpg)  |  ![](/images/iceland/campsites/day4_4832.jpg)
+![](/images/iceland/campsites/day4_4829.jpg)  |  ![](/images/iceland/campsites/day4_4828.jpg)
 
-![](/images/iceland/campsites/day4_4837.jpg)
 
-![](/images/iceland/campsites/day4_4825.jpg)
+<br>
+<hr>
 
-![](/images/iceland/campsites/day4_4832.jpg)
-
-![](/images/iceland/campsites/day4_4829.jpg)
-
-![](/images/iceland/campsites/day4_4828.jpg)
 
 ### [Day 5 Hofn campsite](){: name="HofnCampground"}
 
@@ -113,6 +118,9 @@ Charges 1500 ISK per person plus 300 ISK for 1 tent or car<br>
 Showers are not included<br>
 Shower charges 50 ISK per minute. You will need coins<br>
 
+
+<br>
+<hr>
 
 
 ### [Day 6 Fjalladyrd Möðrudalur campground](){: name="MöðrudalurCampground"}
@@ -140,6 +148,10 @@ The cooking area was small, unlit and smelly, so we cooked outside.
 ![](/images/iceland/campsites/day6_1486.jpg)
 
 
+<br>
+<hr>
+
+
 ### [Day 7 Fosshóll Guesthouse Campground](){: name="FosshóllCampground"}
 
 Price: <br>
@@ -150,19 +162,18 @@ Gas Station, Grocery Store<br>
 
 Next to Godafoss waterfall
 
-![](/images/iceland/campsites/day7_5504.jpg)
 
-![](/images/iceland/campsites/day7_5503.jpg)
-
-![](/images/iceland/campsites/day7_5497.jpg)
-
-![](/images/iceland/campsites/day7_5498.jpg)
-
-![](/images/iceland/campsites/day7_5499.jpg)
+:--------------------------------------------:|:--------------------------------------------:
+![](/images/iceland/campsites/day7_5504.jpg)  |  ![](/images/iceland/campsites/day7_5497.jpg)
+![](/images/iceland/campsites/day7_5499.jpg)  |  ![](/images/iceland/campsites/day7_5498.jpg)
 
 ![](/images/iceland/campsites/day7_5500.jpg)
 
 ![](/images/iceland/campsites/day7_5501.jpg)
+
+<br>
+<hr>
+
 
 ### [Day 8 Grundarfjordur Campground](){: name="GrundarfjordurCampground"}
 Price : Adults: 1.100 ISK ,Seniors/Disabled: 850 ISK, Free for 16 years and younger<br>

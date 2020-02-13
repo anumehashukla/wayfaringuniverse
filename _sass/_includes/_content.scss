@@ -94,16 +94,18 @@
     min-height: 0px;
     hr {
       height:2px;
+      margin-top: -3px;
     }
   }
 
   hr {
     margin: 20px auto;
-    margin-top: -3px;
+    margin-top: -10px;
     background: $accent-color;
 
     @include mq(tabletp) {
       margin-bottom: 40px;
+      margin-top: -30px;
       width: auto;
     }
 

@@ -17,14 +17,26 @@ Please note that many embassies use service providers for receiving applications
 
 *Kindly make an individual appointment for each applicant traveling with you i.e., family member, group of friends or colleagues.*
 
+<br>
+<hr>
+
+
 ### When can I apply?
 “You should apply well in advance and at the latest 15 days before you plan to travel. You can submit your application up to three months before your planned departure.” - States their website, but in my opinion, it would be wise to apply at the beginning of the 3-month window.
+
+<br>
+<hr>
+
 
 ### Application Fee
 The visa fee is EUR 60. Children under six years do not pay a fee. Children from the age of six years and below the age of 12 years shall pay a visa fee of EUR 35. Except for children, please note that you pay the fee when registering the application in the portal. Applicants exempted from the visa fee requirement will have the fee refunded.
 
 Service fee
 The Visa application centre Travisa/ VFA charges a USD 33 service fee.
+
+<br>
+<hr>
+
 
 ### Procedure
 If Denmark represents Iceland
@@ -38,6 +50,10 @@ see [here](http://www.vfsglobal.se/USA/how-to-apply.html)
 
 If Norway represents Iceland
 Applicants travelling to Iceland should select Royal Norwegian Consulate General New York for their online application and choose to submit their documents to the VFS office in San Francisco or Houston.
+
+<br>
+<hr>
+
 
 ### Step 1 :
 
@@ -116,4 +132,3 @@ Click on “Track your application” tab - It will prompt you to enter the refe
 
 
 [Document Checklist](https://www.norway.no/contentassets/a7bc30faaf4144788590ef48e8a7c750/document-checklist-visitors-visa.pdf)
-
