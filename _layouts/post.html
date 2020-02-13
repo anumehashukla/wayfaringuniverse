@@ -15,9 +15,11 @@ layout: default
 </section>
 
 
-{% for category in page.categories %}
+<!-- {% for category in page.categories[0] %} -->
 
+{% assign category = page.categories[0] %}
 {% assign relatedPosts = site.categories[category] %}
+
 
 {% if relatedPosts.size > 1 %}
 
@@ -38,4 +40,4 @@ layout: default
     </div>
   </section>
 {% endif %}
-{% endfor %}
+<!-- {% endfor %} -->
