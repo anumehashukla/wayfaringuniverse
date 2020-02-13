@@ -22,17 +22,17 @@ That tiny dot in the picture is Mercury if at all you can spot it! It just remin
 </blockquote>
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercury.jpg)
-<center><i>Can you spot it?</i></center>
+<center class="image-caption"><i>Can you spot it?</i></center>
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercurythroughtelescope.jpg)
-<center><i>First time through a Solar telescope</i></center>
+<center class="image-caption"><i>First time through a Solar telescope</i></center>
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/astronomyevent.jpg)
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/transitofmercury.jpg)
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mtdiabloastronomicalsociety.jpg)
-<center><i>Mt Diablo Astronomical Society</i></center>
+<center class="image-caption"><i>Mt Diablo Astronomical Society</i></center>
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/viewthroughtelescope.jpg)
 

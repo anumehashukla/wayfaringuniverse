@@ -9,7 +9,7 @@ categories: astronomy
 <i>December 22, 2019</i>
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/solstice/tropicofcapricorn.jpg)
-<center><i>Tropic of Capricorn, San Pedro de Atacama</i></center>
+<center class="image-caption"><i>Tropic of Capricorn, San Pedro de Atacama</i></center>
 <br>
 
 Geography was my favorite subject at school. All the concepts and theories used to fascinate me a lot. Reading about Solstice's, Equinox's, Eclipse's, and many other things always used to make me think if only I could ever witness these wonders.
