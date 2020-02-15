@@ -52,3 +52,19 @@
     color: $background-color;
   }
 }
+.post__share {
+  text-align: center;
+}
+
+.post__item__link {
+  position: relative;
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  font-size: 17px;
+  line-height: 1;
+  color: #000;
+  background: none !important;
+  text-align: center;
+}
