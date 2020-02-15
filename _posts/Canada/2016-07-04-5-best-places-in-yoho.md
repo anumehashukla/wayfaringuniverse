@@ -2,7 +2,7 @@
 title: '5 Best places to see in Yoho National Park'
 date: 2016-07-03 00:00:00
 description: Yoho National Park
-featured_image: '/images/canada/IMG_8399.jpg'
+featured_image: '/images/canada/IMG_8399.JPG'
 categories: canada
 ---
 
