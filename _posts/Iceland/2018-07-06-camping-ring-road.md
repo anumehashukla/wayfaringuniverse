@@ -16,7 +16,8 @@ Here are some of my favourite campgrounds along the ring road.<br><br>
   <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1PVyOyAeYezIacaLzIuhx9ISVXA11Rjc_" width="1200" height="800"></iframe>
 </p>
 
-### [Day 1 Skjol Campground](){: name="SkjolCampground"}
+### Day 1 Skjol Campground
+{: id="SkjolCampground"}
 
 Price : Adults  1.500 ISK , Children 5-15 years 750 ISK, Senior over 70 years  800 ISK<br>
 Showers : 400 ISK per person, Timings - 9:00am to 10:00pm(but were very nice and clean)<br>
@@ -41,7 +42,8 @@ Restaurant on site<br>
 <hr>
 
 
-### [Day 2 Skogar Campground](){: name="SkogarCampground"}
+### Day 2 Skogar Campground
+{: id="SkogarCampground"}
 Price :  3000 ISK for two people<br>
 Showers : 300 ISK per 5 minute<br>
 Restroom price included in camping fee, for visitors(non campers) it is 200 kr<br>
@@ -71,7 +73,8 @@ The site is awesome, but amenities are not, restrooms were really filthy. I woul
 <hr>
 
 
-### [Day 3 Þakgil Campground(Thakgil)](){: name="ÞakgilCampground"}
+### Day 3 Þakgil Campground(Thakgil)
+{: id="ÞakgilCampground"}
 Not to be confused with the one at Vik, in fact it is 40 minutes awaya from Vik<br>
 
 Price : 2.000 Isk per person(showers are included in this)<br>
@@ -87,7 +90,8 @@ There is an awesome picnic area inside a cave and also a small waterfall and cre
 
 
 
-### [Day 4 Svinafell Campground](){: name="SvinafellCampground"}
+### Day 4 Svinafell Campground
+{: id="SvinafellCampground"}
 
 Open : 1 May – 30 Sept<br>
 Price : 2.000 Isk per person(showers are included in camping fee)<br>
@@ -110,7 +114,8 @@ I's a gorgeous site, what better can you ask to have stunning glacier views whil
 <hr>
 
 
-### [Day 5 Hofn campsite](){: name="HofnCampground"}
+### Day 5 Hofn campsite
+{: id="HofnCampground"}
 
 Its just opposite N1 gas station, its usually crowded.<br>
 Kitchen area is available from 8:00am to 22:00<br>
@@ -123,7 +128,8 @@ Shower charges 50 ISK per minute. You will need coins<br>
 <hr>
 
 
-### [Day 6 Fjalladyrd Möðrudalur campground](){: name="MöðrudalurCampground"}
+### Day 6 Fjalladyrd Möðrudalur campground
+{: id="MöðrudalurCampground"}
 
 Price: ISK 1350 per person / Children under 14 years: Free<br>
 Showers: ISK 500<br>
@@ -152,7 +158,8 @@ The cooking area was small, unlit and smelly, so we cooked outside.
 <hr>
 
 
-### [Day 7 Fosshóll Guesthouse Campground](){: name="FosshóllCampground"}
+### Day 7 Fosshóll Guesthouse Campground
+{: id="FosshóllCampground"}
 
 Price: <br>
 Showers: <br>
@@ -175,7 +182,8 @@ Next to Godafoss waterfall
 <hr>
 
 
-### [Day 8 Grundarfjordur Campground](){: name="GrundarfjordurCampground"}
+### Day 8 Grundarfjordur Campground
+{: id="GrundarfjordurCampground"}
 Price : Adults: 1.100 ISK ,Seniors/Disabled: 850 ISK, Free for 16 years and younger<br>
 No showers but there is a swimming pool next to the campground<br>
 No Kitchen or cooking area<br>

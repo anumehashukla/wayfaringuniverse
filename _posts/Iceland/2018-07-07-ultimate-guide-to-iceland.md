@@ -7,6 +7,8 @@ categories: iceland
 ---
 Traveling to Iceland and wondering what are the main highlights of Iceland, how much time you need to visit this beautiful country, and what’s the best itinerary to follow? Are there any fuel stations along the ring road? What are the cheap grocery places? In this post, I am sharing our experience-based suggestions and itinerary ideas for ten days.
 
+[Here is a 10 day road trip itinerary along ring road](/iceland/ring-road)
+
 
 ## Best time to visit Iceland
  There is a saying in Iceland, “If you don´t like the weather, just wait 5 minutes”. That is so true; it could be sunny one moment and raining on the other. But basically, the weather is **cold, cloudy and windy,** for most of the year. To put it simply, there is no single best time. Each period has its advantages and shortcomings, so deciding when to go is entirely up to you. However, I consider that summer would be a strong contender for the best time to visit Iceland as it is the warmest time of year. Of course, with promised long days and the fabled midnight sun ideal for hiking, sightseeing or road tripping, but with not without hordes of crowds.
@@ -32,18 +34,16 @@ Expect cold temperatures, snow flurries, low visibility, and road closures.
 ## Visa
 Iceland is a member of the Schengen Visa Agreement, all persons [requiring visas,](http://utl.is/index.php/en/who-needs-a-visa) not holding a valid Schengen visa in their travel document, must apply for a visa at the applicable embassy/consulate before traveling to Iceland.
 
-In case, you are applying from the United States, check out the detailed procedure of [how to apply for Iceland Visa from the United States](http://wayfaringuniverse.com/iceland/iceland-visitor-visa)
+In case, you are applying from the United States, check out the detailed procedure of [how to apply for Iceland Visa from the United States](/iceland/iceland-visitor-visa)
 
-In case, you are applying from the United States, check out the detailed procedure of [how to apply for Iceland Visa from the United States](http://wayfaringuniverse.com/iceland/iceland-visitor-visa)
+In case, you are applying from the United States, check out the detailed procedure of [how to apply for Iceland Visa from the United States](/iceland/iceland-visitor-visa)
 
-<br>
+<br><br>
 <hr>
 
-## Iceland road trip itinerary
 
-[Here is a 10 day road trip itinerary along ring road](http://wayfaringuniverse.com/iceland/ring-road)
-
-## [Ring road clockwise or counterclockwise?](){: name="ringRoadClockwise"}
+## Ring road clockwise or counterclockwise?
+{: id="ringRoadClockwise"}
 There’s not really a wrong way to drive the ring road; either way is gorgeous. There is no one correct answer.
 
 All the sights will remain where they are, whether you go clockwise or counterclockwise. Therefore hardly matters which way you choose. But definitely, some parts like - the first glimpse of the town of Akureyri is unbeatable when you are driving in the counterclockwise direction. While the views of Vatnajökull(*it is visible from far away, in fact, we could see it's four terminus's, together*) are best seen when traveling clockwise. So there will always be some sections which would be better in one direction while the rest in other.
@@ -133,7 +133,8 @@ the Soup Company many vegan options
 <hr>
 
 
-## [Grocery/ Supermarkets](){: name="Grocery"}
+## Grocery/ Supermarkets
+{: id="Grocery"}
 
 Just like gas, food is also expensive in Iceland. Reykjavik has a lot of options but as you step outside would advise, stock up in Reykjavik if you are hitting the Ring Road or Highlands or especially camping. Get all the stuff that you might need on your trip, in Reykjavik, and only buy perishables along the journey. That way you could save some money, and furthermore, make your trip hassle-free from all the time trying to locate a grocery store.
 
