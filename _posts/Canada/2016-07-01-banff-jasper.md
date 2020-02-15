@@ -2,8 +2,7 @@
 title: 'Banff National Park'
 subtitle: ''
 date: 2018-06-30 00:00:00
-description: The beautiful blue hues of the lakes in Canadian Rockies are too good too believe, that they are often accused of being subject to human tampering. When Canadian-Pacific Railway was attracting tourists from all over the world in 1890’s to compete with the beauty of the Alps, they were accused of achieving such hues by adding dye to the lakes or by painting the lake beds as it looks too beautiful to be real.
-Welcome to Banff !!
+description: The beautiful blue hues of the lakes in Canadian Rockies are too good too believe, that they are often accused of being subject to human tampering. When Canadian-Pacific Railway was attracting tourists from all over the world in 1890’s to compete with the beauty of the Alps, they were accused of achieving such hues by adding dye to the lakes or by painting the lake beds as it looks too beautiful to be real. Welcome to Banff !!
 featured_image: '/images/canada/peyto.jpg'
 categories: canada
 ---

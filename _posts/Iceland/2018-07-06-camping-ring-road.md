@@ -1,8 +1,7 @@
 ---
 title: 'Camping Ring Road'
 date: 2018-07-06 00:00:00
-description: Wild Camping has been banned in Iceland since 2015, please spend the night on  a camgound only. Also, the advantage of sleeping in a campground is you a get tons of facilities - restrooms, showers, kitchen etc. No need to book any site in advance.<br>
-No need to book any site in advance
+description: Wild Camping has been banned in Iceland since 2015, please spend the night on  a camgound only. Also, the advantage of sleeping in a campground is you a get tons of facilities - restrooms, showers, kitchen etc. No need to book any site in advance. No need to book any site in advance.
 featured_image: '/images/iceland/campinRingRoad.jpg'
 categories: iceland
 ---
