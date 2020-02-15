@@ -1,11 +1,10 @@
 ---
 title: '5 Best places to see in Yoho National Park'
 date: 2016-07-03 00:00:00
-description: Yoho National Park
+description: Emerald Lake is a vibrant blue-green coloured lake on the Trans-Candian Highway about 12 km from the town of Field. It is one of the "Must See" viewpoints. If you have some time, Canoes are available for rent or you can walk, the lake also has a wonderful round trail of about 5 km. There is a restaurant in Emerald Lake Lodge and a cafe at the Lake.
 featured_image: '/images/canada/IMG_8399.JPG'
 categories: canada
 ---
-
 
 ### 1.  Emerald Lake
 Emerald Lake is a vibrant blue-green coloured lake on the Trans-Candian Highway about 12 km from the town of Field. It is one of the "Must See" viewpoints. If you have some time, Canoes are available for rent or you can walk, the lake also has a wonderful round trail of about 5 km. There is a restaurant in Emerald Lake Lodge and a cafe at the Lake.

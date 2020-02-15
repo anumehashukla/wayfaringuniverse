@@ -1,7 +1,7 @@
 ---
 title: 'Bolivia Tourist Visa from the United States'
 date: 2019-06-30 00:00:00
-description: Bolivia Tourist Visa.
+description: Bolivia requires many tourists to obtain a visa. You will need to get a tourist visa if your country falls under the Type II or Type III category. Visa is valid for 30 days since the date of entry. It's a single entry visa.
 featured_image: '/images/bolivia.jpg'
 categories: bolivia
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Observing Summer Solstice'
 date: 2014-06-30 02:00:00
-description: Summer Solstice at Tropic of Capricorn
+description: Geography was my favorite subject at school. All the concepts and theories used to fascinate me a lot. Reading about Solstice's, Equinox's, Eclipse's, and many other things always used to make me think if only I could ever witness these wonders.
 featured_image: '/images/astronomy/tropicofcapricorn.jpg'
 categories: astronomy
 ---

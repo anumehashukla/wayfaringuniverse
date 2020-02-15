@@ -1,11 +1,10 @@
 ---
 title: '10 Best places to see in Banff National Park'
 date: 2016-07-02 00:00:00
-description:
+description: Banff National Park was the first national park (third in the world) in Canada. It was established in 1885 as Banff Hot Springs Reserve. It is located in the Rocky Mountains and is part of the Canadian Rocky Mountain Parks World Heritage site. The park was expanded in 1887 and was then named Rocky Mountains Park,later to be known as Banff  National Park. Hundreds of kilometres of hiking trails traverse high mountain passes, turquoise glacial lakes, plunging waterfalls and steep canyons.
 featured_image: '/images/canada/IMG_8278.jpg'
 categories: canada
 ---
-
 
 Banff National Park was the first national park (third in the world) in Canada. It was established in 1885 as Banff Hot Springs Reserve. It is located in the Rocky Mountains and is part of the Canadian Rocky Mountain Parks World Heritage site. The park was expanded in 1887 and was then named Rocky Mountains Park,later to be known as Banff  National Park. Hundreds of kilometres of hiking trails traverse high mountain passes, turquoise glacial lakes, plunging waterfalls and steep canyons.
 
