@@ -58,15 +58,15 @@ The site is awesome, but amenities are not, restrooms were really filthy. I woul
 
 ![](/images/iceland/campsites/day2_4425.jpeg)
 
-![](/images/iceland/campsites/day2_1147.jpg)
+![](/images/iceland/campsites/day2_1147.JPG)
 
-![](/images/iceland/campsites/day2_1011.jpg)
+![](/images/iceland/campsites/day2_1011.JPG)
 
-![](/images/iceland/campsites/day2_0212.jpg)
+![](/images/iceland/campsites/day2_0212.JPG)
 
 ![](/images/iceland/campsites/day2_4488.jpg)
 
-![](/images/iceland/campsites/day2_0689.jpg){: .portrait-image}
+![](/images/iceland/campsites/day2_0689.JPG){: .portrait-image}
 
 
 <br>

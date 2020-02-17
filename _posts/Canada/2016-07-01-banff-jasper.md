@@ -40,7 +40,7 @@ Above, you will find a useful map for driving around Banff and Jasper National P
 
 
 Emerald Lake is a vibrant blue-green coloured lake on the Trans-Candian Highway about 12 km from the town of Field. It is one of the "Must See" viewpoints. If you have some time, Canoes are available for rent or you can walk, the lake also has a wonderful round trail of about 5 km. There is a restaurant in Emerald Lake Lodge and a cafe at the Lake
-![](/images/canada/IMG_8399.jpg)
+![](/images/canada/IMG_8399.JPG)
 
 
 
