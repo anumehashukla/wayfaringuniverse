@@ -23,7 +23,7 @@ Takakkaw Falls is a glorious place to visit for any reason. Whether it’s to go
 ![](/images/canada/f2231104.jpg)        |  ![](/images/canada/f2374464.jpg)
 
 
-![](/images/canada/IMG_8412.jpg)
+![](/images/canada/IMG_8412.JPG)
 
 <br><br>
 <hr>
@@ -60,12 +60,6 @@ Also the trailhead is not marked for westbound traffic on Trans-Canada Highway, 
 Bypass the big cities in favour of some small-town charm.
 Field sits on a river bank and is the gateway to Yoho National Park.<br>
 Enjoy this small picturesque town nestled in the beautiful valley!
-
-
-
-
-
-
 
 
 
