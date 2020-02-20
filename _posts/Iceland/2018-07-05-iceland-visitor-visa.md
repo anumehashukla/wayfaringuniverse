@@ -9,6 +9,8 @@ categories: iceland
 Since Iceland is a member of the Schengen Visa Agreement, all persons requiring visas, not holding a valid Schengen visa in their travel document, must apply for a visa at the applicable embassy/consulate before traveling to Iceland. If you intend to apply for a visa for travel to Iceland in the United States, there are 5 offices in the United States that issue visas on Iceland’s behalf. Please be sure you are applying for your Schengen visa through the correct Embassy or Consulate-General.
 
 ### Embassies/consulates representing Iceland in the United States
+<br>
+<hr>
 * By Denmark in New York and Chicago
 * By Sweden in Washington DC
 * By Norway in San Francisco and Houston
@@ -17,28 +19,22 @@ Please note that many embassies use service providers for receiving applications
 
 *Kindly make an individual appointment for each applicant traveling with you i.e., family member, group of friends or colleagues.*
 
+### When can I apply?
 <br>
 <hr>
-
-
-### When can I apply?
 “You should apply well in advance and at the latest 15 days before you plan to travel. You can submit your application up to three months before your planned departure.” - States their website, but in my opinion, it would be wise to apply at the beginning of the 3-month window.
 
+### Application Fee
 <br>
 <hr>
-
-
-### Application Fee
 The visa fee is EUR 60. Children under six years do not pay a fee. Children from the age of six years and below the age of 12 years shall pay a visa fee of EUR 35. Except for children, please note that you pay the fee when registering the application in the portal. Applicants exempted from the visa fee requirement will have the fee refunded.
 
 Service fee
 The Visa application centre Travisa/ VFA charges a USD 33 service fee.
 
+### Procedure
 <br>
 <hr>
-
-
-### Procedure
 If Denmark represents Iceland
 
 The Danish Consulate General has commissioned VFS Global to operate the Danish Visa Application Centres in the US. Visa applicants must register their application online through [here](https://www.visaselfservice.um.dk/Trunk/VisaPortal/templates/page.aspx?id=86&epslanguage=EN)
@@ -50,9 +46,6 @@ see [here](http://www.vfsglobal.se/USA/how-to-apply.html)
 
 If Norway represents Iceland
 Applicants travelling to Iceland should select Royal Norwegian Consulate General New York for their online application and choose to submit their documents to the VFS office in San Francisco or Houston.
-
-<br>
-<hr>
 
 
 ### Step 1 :

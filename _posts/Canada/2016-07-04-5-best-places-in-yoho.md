@@ -7,15 +7,16 @@ categories: canada
 ---
 
 ### 1.  Emerald Lake
+<br>
+<hr>
 Emerald Lake is a vibrant blue-green coloured lake on the Trans-Candian Highway about 12 km from the town of Field. It is one of the "Must See" viewpoints. If you have some time, Canoes are available for rent or you can walk, the lake also has a wonderful round trail of about 5 km. There is a restaurant in Emerald Lake Lodge and a cafe at the Lake.
 
 ![](/images/canada/IMG_8399.JPG)
 *<center class="image-caption">Emerald Lake</center>*
 
+### 2. Takakkaw Falls
 <br>
 <hr>
-
-### 2. Takakkaw Falls
 Takakkaw Falls is amongst the highest waterfalls in Canada. You can see the falls from the road as you drive into the Valley. There is a small trail from the parking lot that leads up to the base of the falls. As you get closer, you can feel the mist from this powerful waterfall. Get ready to be sprayed. Accessible mid-June until mid-October to small vehicles and bicycles only due to steep, tight switchbacks.
 Takakkaw Falls is a glorious place to visit for any reason. Whether it’s to go for a hike or just enjoy the surroundings, any reason is a good reason.
 
@@ -25,9 +26,9 @@ Takakkaw Falls is a glorious place to visit for any reason. Whether it’s to go
 
 ![](/images/canada/IMG_8412.JPG)
 
-<br><br>
-<hr>
 ### 3. Lake O'Hara
+<br>
+<hr>
 There are four ways to visit Lake O’Hara:
 
 * Come for the day, book with the [Parks Canada Reservation Service](https://reservation.pc.gc.ca/Yoho-LakeO'Hara?_ga=2.102552001.1936047777.1560293045-1963446773.1560293045&gccf=true)
@@ -44,19 +45,18 @@ Inbound    Outbound
 9:45 AM    9:15 AM
 4:45 PM    4:00 PM
 
+### 4. Wapta Falls
 <br>
 <hr>
-### 4. Wapta Falls
 Wapta Falls is a short, easy 2.4 Km (total 4.8 Km) hike in Yoho National Park.The trail through the woods is mostly flat with minimal elevation gain. If you are visiting in winters, the access road to the trailhead may be closed. Check beforehand.
 If you are up for a short hike, these falls are a must.
 
 Note: Type Wapta Falls trailhead in google maps instead of Wapta falls, since it takes you to the other side of the river.
 Also the trailhead is not marked for westbound traffic on Trans-Canada Highway, as there is no left turn lane here. Continue 3 km to the park west boundary, turn and come back.
 
-
+### 5. Village of Field
 <br>
 <hr>
-### 5. Village of Field
 Bypass the big cities in favour of some small-town charm.
 Field sits on a river bank and is the gateway to Yoho National Park.<br>
 Enjoy this small picturesque town nestled in the beautiful valley!

@@ -14,11 +14,13 @@ Welcome to Banff !!
 *<center class="image-caption">Peyto Lake</center>*
 
 ### Best time to visit
-If you’re looking for the best weather, it’s undeniable that the best months to visit Banff & Jasper National Park are mid June through August. These are the months with the best weather – longer days – and warmest temperatures. Unfortunately, that peak season means you’ll be visiting at the same time as every other traveler.
-<br><br><br>
+<br>
 <hr>
-### Approximate travel time between places
+If you’re looking for the best weather, it’s undeniable that the best months to visit Banff & Jasper National Park are mid June through August. These are the months with the best weather – longer days – and warmest temperatures. Unfortunately, that peak season means you’ll be visiting at the same time as every other traveler.
 
+### Approximate travel time between places
+<br>
+<hr>
 * Calgary to Banff  1.5 hrs
 - Banff to Johnston Canyon  26min
 - Johnston - Lake Louise  24 min
@@ -26,9 +28,6 @@ If you’re looking for the best weather, it’s undeniable that the best months
 - Lake Louise - Emerald lake 33 min
 - Lake Louise - Peyto Lake 37 min
 - Peyto - maligne canyon - 3hrs
-<br><br><br>
-<hr>
-
 
 Expand the Legend on the left for all details
 <p class="responsive-iframe-container">

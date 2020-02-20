@@ -13,11 +13,15 @@ ALMA stands for Atacama Large Millimeter Array. It is home to the largest and mo
 ![](/images/astronomy/alma_DSC8184.jpg)
 
 ## Public Visits to ALMA
-You can visit ALMA throughout the year on Saturday and Sundays between 9:00 am to 1:00 pm
-<br><br><br>
+<br>
 <hr>
+You can visit ALMA throughout the year on Saturday and Sundays between 9:00 am to 1:00 pm
+<br><br>
+
 
 ## Registration / Ticketing
+<br>
+<hr>
 Registration for visits is individual, even for minors. The system permits you to request a maximum of four adult and two child tickets for each day.  Children below the age of 4 are not permitted on this tour.
 
 The tour is free of charge; the ticket window is now open for 2019 and 2020. You can register [here](https://welcu.com/alma/visit-2019)
@@ -31,16 +35,17 @@ You can only visit ALMA through this public tour until and unless you work there
 ![](/images/astronomy/alma_DSC8163.jpg)
 *<center class="image-caption">Our guide</center>*
 
-<br><br><br>
-<hr>
+
 ## Pick up time and location
+<br>
+<hr>
 The bus will pick up from Tumisa Street, close to the corner of Pedro de Valdivia Ave, near the San Pedro de Atacama bus terminal. The pick up is at 9:00 am, and you return to the same location around 1:00 pm. Carry your ID; they check it against your reservation before you board the bus.
 If you miss the bus, you may NOT travel in another vehicle to ALMA, because those on the waiting list will take your spot.
 The bus takes around 40 mins from San Pedro to ALMA each way.
-<br><br><br>
-<hr>
 
 ## Tour
+<br>
+<hr>
 Note: The tour does not take you to the Chajnantor Plateau(the Array Operations Site, or AOS, where the antennas are located), due to safety reasons.
 
 Visitors tour the ALMA Operations Support Facility (OSF), where ALMA personnel work. You can observe the control room, laboratories, and antennas under maintenance. Total time of the tour, including the bus ride, is about four hours.
