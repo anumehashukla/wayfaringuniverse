@@ -30,7 +30,7 @@ So mark your calendar for the next Solstice and witness the Sun on this astronom
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/solstice/solsticenoshadow1.jpg)
 
-![]({{site.data.settings.basic_settings.cdn_url}}/solstice/summersolstice.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/solstice/summersolstice.jpg){: .portrait-image}
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/solstice/summersolsticenoshadow.jpg)
 

@@ -21,22 +21,22 @@ That tiny dot in the picture is Mercury if at all you can spot it! It just remin
   <p>“We are not figuratively, but literally stardust. - Neil deGrasse Tyson”</p>
 </blockquote>
 
-![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercury.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercury.jpg){: .portrait-image}
 <center class="image-caption"><i>Can you spot it?</i></center>
 
-![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercurythroughtelescope.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercurythroughtelescope.jpg){: .portrait-image}
 <center class="image-caption"><i>First time through a Solar telescope</i></center>
 
-![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/astronomyevent.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/astronomyevent.jpg){: .portrait-image}
 
-![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/transitofmercury.jpg)
+:--------------------------------------:|:---------------------------------------:
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/transitofmercury.jpg)       |  ![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mtdiabloastronomicalsociety.jpg)
 
-![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mtdiabloastronomicalsociety.jpg)
 <center class="image-caption"><i>Mt Diablo Astronomical Society</i></center>
 
-![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/viewthroughtelescope.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/viewthroughtelescope.jpg){: .portrait-image}
 
-![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercurybeforesun.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercurybeforesun.jpg){: .portrait-image}
 
 
 

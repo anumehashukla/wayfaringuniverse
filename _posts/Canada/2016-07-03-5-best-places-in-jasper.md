@@ -7,23 +7,20 @@ categories: canada
 
 ### 1. Columbia Icefield
 
+![](/images/canada/IMG_5.jpg)
+![](/images/canada/IMG_8663.JPG)
+![](/images/canada/IMG_8697.JPG){: .portrait-image}
 
 
-![](/images/canada/peyto.jpg)
 
 ### 2. Mt Edith Cavell
 
+![](/images/canada/f4484543.jpg)
 
-![](/images/canada/f1182848.jpg)
-
-![](/images/canada/f0848640.jpg)
 ### 3. Maligne Lake
 ### 4. Athabasca Falls
-
-![](/images/canada/IMG_8278.jpg)
 ### 5. Sunwapta Falls
 
-![](/images/canada/f1882432.jpg)
 
 
 

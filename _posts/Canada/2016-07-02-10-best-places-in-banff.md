@@ -31,7 +31,7 @@ The Rockpile Trail Offers the Best View of Moraine Lake. It is a short trail of 
 
 ![](/images/canada/f1182848.jpg)
 
-![](/images/canada/f0848640.jpg)
+![](/images/canada/f0848640.jpg){: .portrait-image}
 ### 3. Johnston Canyon
 ### 4. Bow Valley Parkway
 ![](/images/canada/IMG_8278.jpg)
@@ -44,8 +44,7 @@ The Rockpile Trail Offers the Best View of Moraine Lake. It is a short trail of 
 The 232-kilometre Icefields Parkway, shared with Jasper National Park, is one of the world’s most famous drives. It skirts great glaciers and some of the Rockies’ tallest peaks, while offering chances to see wildlife along the way, from grizzlies to bighorn sheep.
 ![](/images/canada/IMG_5.jpg)
 
-
-![](/images/canada/IMG_8697.JPG)
+![](/images/canada/IMG_8697.JPG){: .portrait-image}
 
 ### 7. Banff Gondola
 

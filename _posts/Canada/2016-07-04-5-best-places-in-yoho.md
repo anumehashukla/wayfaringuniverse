@@ -22,7 +22,7 @@ Takakkaw Falls is a glorious place to visit for any reason. Whether it's to go f
 ![](/images/canada/f2231104.jpg)        |  ![](/images/canada/f2374464.jpg)
 
 
-![](/images/canada/IMG_8412.JPG)
+![](/images/canada/IMG_8412.JPG){: .portrait-image}
 
 ### 3. Lake O'Hara
 <br>

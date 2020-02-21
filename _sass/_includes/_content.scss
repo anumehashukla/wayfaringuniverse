@@ -298,11 +298,11 @@
   margin: 0 auto;
 
   @include mq(tabletl) {
-    width: 80%;
+    width: 90%;
   }
 
   @include mq(desktop) {
-    width: 60%;
+    width: 80%;
   }
 
   &.portrait-image {
