@@ -17,17 +17,17 @@ The lake is fed from the Peyto Glacier to the left of the viewpoint and this giv
 Note: To avoid the crowds arrive early in the morning or late in the afternoon or early evening when the tour buses have gone through for the day.
 
 ![](/images/canada/peyto.jpg)
+*<center class="image-caption">Peyto Lake</center>*
 
 ### 2. Moraine Lake
 The Twenty Dollar View.
 Moraine Lake, a glacier-fed lake is located in the beautiful Valley Of The Ten Peaks. Though the view is more than a million dollar but the iconic image of the Lake and the Valley Of The Ten Peaks was used on the back of Canadian twenty dollar bills issued between 1969 and 1979.
-Moraine Lake
-Trailhead: starts from the lower end of the parking lot across the bridge on the outlet stream.
-Distance: 350 meters
-Elevation: easy elevation of 30 meters
-Time: 40 minutes of return trip
-The Rockpile Trail Offers The Best View of Moraine Lake
-The Rockpile is a short trail of less than half a kilometre with minimal elevation gain. The trail switchbacks along the back of the moraine bringing you to the top of the rocks where there are fantastic views overlooking the lake.
+<br>
+Trailhead: starts from the lower end of the parking lot across the bridge on the outlet stream.<br>
+Distance: 350 meters<br>
+Elevation: easy elevation of 30 meters<br>
+Time: 40 minutes of return trip<br>
+The Rockpile Trail Offers the Best View of Moraine Lake. It is a short trail of less than half a kilometre with minimal elevation gain. The trail switchbacks along the back of the moraine bringing you to the top of the rocks where there are fantastic views overlooking the lake.
 
 ![](/images/canada/f1182848.jpg)
 
@@ -35,24 +35,31 @@ The Rockpile is a short trail of less than half a kilometre with minimal elevati
 ### 3. Johnston Canyon
 ### 4. Bow Valley Parkway
 ![](/images/canada/IMG_8278.jpg)
+*<center class="image-caption">Bow Valley Parkway</center>*
 ### 5. Lake Louise
 ![](/images/canada/f1882432.jpg)
+*<center class="image-caption">Lake Louise</center>*
+
 ### 6. Icefields Parkway
 The 232-kilometre Icefields Parkway, shared with Jasper National Park, is one of the world’s most famous drives. It skirts great glaciers and some of the Rockies’ tallest peaks, while offering chances to see wildlife along the way, from grizzlies to bighorn sheep.
 ![](/images/canada/IMG_5.jpg)
 
 
-![](/images/canada/IMG_8697.jpg)
+![](/images/canada/IMG_8697.JPG)
 
 ### 7. Banff Gondola
-![](/images/canada/IMG_8267.jpg)
 
+Banff Gondola offers the best view of Banff, at the top, every view is staggering. Take all the panoramic pics. Book you tickets [here](https://www.banffjaspercollection.com/attractions/banff-gondola/?pd00=553619486.1582253300)
 
-![](/images/canada/IMG_8270.jpg)
+:-----------------------------------:|:-------------------------:
+![](/images/canada/IMG_8267.JPG)     |  ![](/images/canada/IMG_8270.JPG)
+
 ### 8. Cave and Basin National Historic Site
 
-### 9.
-### 10. Downtown Banff
+### 9. Downtown Banff
+![](/images/canada/downtownbanff.jpg)
+*<center class="image-caption">Downtown Banff</center>*
+### 10. Upper Hot Springs
 
 
 
