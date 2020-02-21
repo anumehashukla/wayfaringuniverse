@@ -60,16 +60,19 @@ h1, .h1 {
 h2, .h2 {
   margin-top: 40px;
   font-size: $h2-small;
-  font-weight: $h2-weight;
+  //font-weight: $h2-weight;
+  font-weight: $h2-small-weight;
   line-height: $h2-lineheight;
   letter-spacing: $h2-spacing;
 
   @include mq(tabletp) {
     font-size: $h2-medium;
+    font-weight: $h2-weight;
   }
 
   @include mq(laptop) {
     font-size: $h2-large;
+    font-weight: $h2-weight;
   }
 }
 

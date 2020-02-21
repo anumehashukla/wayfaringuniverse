@@ -16,7 +16,7 @@ Here are some of my favourite campgrounds along the ring road.<br><br>
   <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1PVyOyAeYezIacaLzIuhx9ISVXA11Rjc_" width="1200" height="800"></iframe>
 </p>
 
-### Day 1 Skjol Campground
+## Day 1 Skjol Campground
 {: id="SkjolCampground"}
 <br>
 <hr>
@@ -41,7 +41,7 @@ Restaurant on site<br>
 ![](/images/iceland/campsites/day1_4311.jpeg)  |  ![](/images/iceland/campsites/day1_4313.jpeg)
 
 
-### Day 2 Skogar Campground
+## Day 2 Skogar Campground
 {: id="SkogarCampground"}
 <br>
 <hr>
@@ -70,7 +70,7 @@ The site is awesome, but amenities are not, restrooms were really filthy. I woul
 ![](/images/iceland/campsites/day2_0689.JPG){: .portrait-image}
 
 
-### Day 3 Þakgil Campground(Thakgil)
+## Day 3 Þakgil Campground(Thakgil)
 {: id="ÞakgilCampground"}
 <br>
 <hr>
@@ -84,7 +84,7 @@ Reception is open until 10:30 pm<br>
 There is an awesome picnic area inside a cave and also a small waterfall and creek around the site.<br>
 
 
-### Day 4 Svinafell Campground
+## Day 4 Svinafell Campground
 {: id="SvinafellCampground"}
 <br>
 <hr>
@@ -106,7 +106,7 @@ I's a gorgeous site, what better can you ask to have stunning glacier views whil
 ![](/images/iceland/campsites/day4_4829.jpg)  |  ![](/images/iceland/campsites/day4_4828.jpg)
 
 
-### Day 5 Hofn campsite
+## Day 5 Hofn campsite
 {: id="HofnCampground"}
 <br>
 <hr>
@@ -117,7 +117,7 @@ Showers are not included<br>
 Shower charges 50 ISK per minute. You will need coins<br>
 
 
-### Day 6 Fjalladyrd Möðrudalur campground
+## Day 6 Fjalladyrd Möðrudalur campground
 {: id="MöðrudalurCampground"}
 <br>
 <hr>
@@ -144,7 +144,7 @@ The cooking area was small, unlit and smelly, so we cooked outside.
 ![](/images/iceland/campsites/day6_1486.jpg)
 
 
-### Day 7 Fosshóll Guesthouse Campground
+## Day 7 Fosshóll Guesthouse Campground
 {: id="FosshóllCampground"}
 <br>
 <hr>
@@ -166,7 +166,7 @@ Next to Godafoss waterfall
 ![](/images/iceland/campsites/day7_5501.jpg)
 
 
-### Day 8 Grundarfjordur Campground
+## Day 8 Grundarfjordur Campground
 {: id="GrundarfjordurCampground"}
 <br>
 <hr>

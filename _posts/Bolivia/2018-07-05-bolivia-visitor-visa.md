@@ -14,7 +14,7 @@ Type II counter - Visa required<br>
 Type III country - Visa required<br>
 Find out which category your country falls in [here](http://boliviala.org/tourist-visa)<br>
 
-### Consulates representing Bolivia in the United States
+## Consulates representing Bolivia in the United States
 <br>
 <hr>
 [Consulado General de Bolivia - Houston, TX](http://www.boliviatx.org/)<br>
@@ -22,14 +22,14 @@ Find out which category your country falls in [here](http://boliviala.org/touris
 [Consulado General de Bolivia - Miami, FL](http://boliviamiami.com/)<br>
 [Consulado General de Bolivia - New York](https://boliviany.org/en/consular-affairs/visas/tourist-visa)
 
-### Application Fee
+## Application Fee
 <br>
 <hr>
 
 * Type II country - No fee for type II countries except for China (Along Taiwan and Hong Kong) and Iran, which is 30 USD
 * Type III country - A visa fee of 30 USD is applicable for all type III countries
 
-### Visa process for Type II Country
+## Visa process for Type II Country
 <br>
 <hr>
 
@@ -69,9 +69,10 @@ After you have handed in your documents to the consulate, it usually takes aroun
 We had applied to the consulate in Los Angeles; they were really quick, it was approved the day they received the documents. Also, you can email them any questions you have regarding the Visa. They are very prompt, and I was very impressed by them.
 
 
-### Visa process for Type III Country
+## Visa process for Type III Country
 <br>
 <hr>
+
 ### Step 1 :
 
 Fill in the application [form/ Sworn Statement Form](http://www.rree.gob.bo/formvisas/)
@@ -105,8 +106,5 @@ Note: Consulado General de Bolivia - Miami, FL, only accepts pre-paid return ser
 
 After you have handed in your documents to the consulate, it will send an official request to the Migration National Service in Bolivia in order to get the approval. This process may take up to three months.<br>
 Once the application has been processed, the consulate will contact the applicant to let him/her know if it is approved or denied.
-
-
-
 
 

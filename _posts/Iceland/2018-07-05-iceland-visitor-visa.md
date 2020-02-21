@@ -8,7 +8,7 @@ categories: iceland
 
 Since Iceland is a member of the Schengen Visa Agreement, all persons requiring visas, not holding a valid Schengen visa in their travel document, must apply for a visa at the applicable embassy/consulate before traveling to Iceland. If you intend to apply for a visa for travel to Iceland in the United States, there are 5 offices in the United States that issue visas on Iceland’s behalf. Please be sure you are applying for your Schengen visa through the correct Embassy or Consulate-General.
 
-### Embassies/consulates representing Iceland in the United States
+## Embassies/consulates representing Iceland in the United States
 <br>
 <hr>
 * By Denmark in New York and Chicago
@@ -19,12 +19,12 @@ Please note that many embassies use service providers for receiving applications
 
 *Kindly make an individual appointment for each applicant traveling with you i.e., family member, group of friends or colleagues.*
 
-### When can I apply?
+## When can I apply?
 <br>
 <hr>
 “You should apply well in advance and at the latest 15 days before you plan to travel. You can submit your application up to three months before your planned departure.” - States their website, but in my opinion, it would be wise to apply at the beginning of the 3-month window.
 
-### Application Fee
+## Application Fee
 <br>
 <hr>
 The visa fee is EUR 60. Children under six years do not pay a fee. Children from the age of six years and below the age of 12 years shall pay a visa fee of EUR 35. Except for children, please note that you pay the fee when registering the application in the portal. Applicants exempted from the visa fee requirement will have the fee refunded.
@@ -32,7 +32,7 @@ The visa fee is EUR 60. Children under six years do not pay a fee. Children from
 Service fee
 The Visa application centre Travisa/ VFA charges a USD 33 service fee.
 
-### Procedure
+## Procedure
 <br>
 <hr>
 If Denmark represents Iceland
@@ -48,27 +48,27 @@ If Norway represents Iceland
 Applicants travelling to Iceland should select Royal Norwegian Consulate General New York for their online application and choose to submit their documents to the VFS office in San Francisco or Houston.
 
 
-### Step 1 :
+## Step 1 :
 
 Create a user account on [Application Portal](https://selfservice.udi.no/?epslanguage=en-GB)
 
 
-### Step 2 :
+## Step 2 :
 
 Create a new Visa application.
 
 Note: Your application details are saved for 15 calendar days in case no activity is observed. Once you schedule an appointment, your application will be available until your appointment date.
 
-### Step 3 :
+## Step 3 :
 
 Once you have registered, you will receive a confirmation by email, with a cover letter attached. The cover letter will verify that you have filled in the application form and paid the fee. You need to print this letter and submit it together with the other necessary documentation. <br>
 Note: The application is not submitted until you have handed in the documents on your checklist.
 
-### Step 4 :
+## Step 4 :
 
 After you have received the Cover letter and filled in the application form on the portal, you must hand in your application documents in person at your nearest VFS global office. To hand in the documents, you must schedule an appointment with the embassy or the Visa Application Centre. Once you have booked the date, you will receive a confirmation by email.
 
-### Step 5 :
+## Step 5 :
 
 Documents for Iceland Schengen Visa Application:<br>
 * Your Appointment Letter received through email after taking an appointment
@@ -107,7 +107,7 @@ In case the applicant is not paying for the trip and someone is sponsoring the a
 * Sponsor’s bank Statements of last three months or statement from the employer or last year’s tax return<br>
 * Proof of Marriage( original document in English, or certified translation) in case sponsor is a spouse<br>
 
-### Step 6 :
+## Step 6 :
 
 After you have handed in your documents to the embassy or Visa Application Centre, the embassy will process your application. Please see the embassy website for information about case processing times.
 
@@ -118,7 +118,7 @@ To get the latest update and track your application, click
 Click on “Track your application” tab - It will prompt you to enter the reference number and last name. [Note: It’s really tricky, just enter the numerals without the hyphen]
 
 
-### Some important Links
+## Some important Links
 
 
 [Iceland Visa Application Official Site](http://www.utl.is/index.php/en/visas)

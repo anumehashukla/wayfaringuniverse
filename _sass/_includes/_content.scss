@@ -101,12 +101,11 @@
 
   hr {
     margin: 20px auto;
-    margin-top: -10px;
+    margin-top: -30px;
     background: $accent-color;
 
     @include mq(tabletp) {
       margin-bottom: 40px;
-      margin-top: -30px;
       width: auto;
     }
 

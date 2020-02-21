@@ -10,8 +10,6 @@ Like most of you, for years, I have seen pictures of Fly Geyser all over the int
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/flygeyser/flygeyserafternoon.jpg)
 <center class="image-caption"><i>Fly geyser is one of the best-kept secrets in Nevada.</i></center>
-<br>
-
 
 ## What is Fly Geyser?
 <br>
@@ -26,7 +24,6 @@ In 2016, the Burning Man Project bought the Fly Ranch, and just recently, in dec
 
 ![](/images/flygeyser.jpg)
 <center class="image-caption"><i>Fly geyser</i></center>
-<br>
 
 ## Tickets & Tour
 <br>
@@ -45,7 +42,7 @@ Since very few people know about this place, getting a spot on tour is easy. You
 <hr>
 It's just a few miles away from the Burning Man site near the Black Rock Desert. It takes 2 hrs to drive from Reno.
 
-#### Where to sleep
+### Where to sleep
 Gerlach is a very small town with limited facilities. It has a gas station, a restaurant and a [motel](https://visitgerlach.com/brunos-country-club/). The best place to spend overnight would be Reno, which is easily accessible and just 2 hrs away from Gerlach. The other option is to camp in the Black Rock Desert or nearby public lands. You can find some camping spots [here.](http://blackrockdesert.org/camping-in-the-nca/)
 
 
