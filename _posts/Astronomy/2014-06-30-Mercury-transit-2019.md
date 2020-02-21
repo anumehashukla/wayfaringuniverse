@@ -31,13 +31,8 @@ That tiny dot in the picture is Mercury if at all you can spot it! It just remin
 
 :--------------------------------------:|:---------------------------------------:
 ![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/transitofmercury.jpg)       |  ![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mtdiabloastronomicalsociety.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/viewthroughtelescope.jpg)       |  ![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercurybeforesun.jpg)
 
 <center class="image-caption"><i>Mt Diablo Astronomical Society</i></center>
-
-![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/viewthroughtelescope.jpg){: .portrait-image}
-
-![]({{site.data.settings.basic_settings.cdn_url}}/mercurytransit/mercurybeforesun.jpg){: .portrait-image}
-
-
-
+<br>
 Transits of Mercury only happen about 13 times per century and won’t happen again until 2032.
