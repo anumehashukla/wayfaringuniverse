@@ -158,12 +158,12 @@ Next to Godafoss waterfall
 
 
 :--------------------------------------------:|:--------------------------------------------:
-![](/images/iceland/campsites/day7_5504.jpg)  |  ![](/images/iceland/campsites/day7_5497.jpg)
-![](/images/iceland/campsites/day7_5499.jpg)  |  ![](/images/iceland/campsites/day7_5498.jpg)
+![](/images/iceland/campsites/day7_5504.jpg)  |  ![](/images/iceland/campsites/day7_5497.JPG)
+![](/images/iceland/campsites/day7_5499.JPG)  |  ![](/images/iceland/campsites/day7_5498.JPG)
 
-![](/images/iceland/campsites/day7_5500.jpg){: .portrait-image}
+![](/images/iceland/campsites/day7_5500.JPG){: .portrait-image}
 
-![](/images/iceland/campsites/day7_5501.jpg)
+![](/images/iceland/campsites/day7_5501.JPG)
 
 
 ## Day 8 Grundarfjordur Campground
