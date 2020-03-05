@@ -55,6 +55,5 @@ Also, the trailhead is not marked for westbound traffic on Trans-Canada Highway,
 ### 5. Village of Field
 <br>
 <hr>
-Bypass the big cities in favor of some small-town charm.
-Field sits on a riverbank and is the gateway to Yoho National Park.<br>
+Located between three mountain ranges, close six of Canada's most stunning national parks, and sitting at the confluence of two historic rivers. In fact, the town is in the middle of the highest concentration of national parks in the world. Field BC is a paradise for outdoor adventure, spectacular scenery, and wildlife.<br>
 Enjoy this small picturesque town nestled in the beautiful valley!

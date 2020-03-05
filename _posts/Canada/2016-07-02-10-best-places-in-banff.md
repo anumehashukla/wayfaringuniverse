@@ -48,7 +48,12 @@ The 232-kilometre Icefields Parkway, shared with Jasper National Park, is one of
 
 ### 7. Banff Gondola
 
-Banff Gondola offers the best view of Banff, at the top, every view is staggering. Take all the panoramic pics. Book you tickets [here](https://www.banffjaspercollection.com/attractions/banff-gondola/?pd00=553619486.1582253300)
+Soar to the top of Sulphur Mountain to experience a stunning bird's eye view of six incredible mountain ranges.
+Popular all year round Banff Gondola offers the best view of Banff. View more mountains in a moment than most see in a lifetime.<br>
+Enclosed boardwalk section with a souvenir shop and cafe. 4 seat gondolas provide all window seats and in 8-minute rise to 7500 ft upper terminal. At the top, every view is staggering.<br>
+
+<br>
+Book you tickets [here](https://www.banffjaspercollection.com/attractions/banff-gondola/?pd00=553619486.1582253300)
 
 :-----------------------------------:|:-------------------------:
 ![](/images/canada/IMG_8267.JPG)     |  ![](/images/canada/IMG_8270.JPG)
