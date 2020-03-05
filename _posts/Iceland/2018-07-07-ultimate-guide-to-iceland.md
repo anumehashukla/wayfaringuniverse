@@ -13,7 +13,7 @@ Traveling to Iceland and wondering what are the main highlights of Iceland, how 
 ## Best time to visit Iceland
 <br>
 <hr>
- There is a saying in Iceland, “If you don´t like the weather, just wait 5 minutes”. That is so true; it could be sunny one moment and raining on the other. But basically, the weather is **cold, cloudy and windy,** for most of the year. To put it simply, there is no single best time. Each period has its advantages and shortcomings, so deciding when to go is entirely up to you. However, I consider that summer would be a strong contender for the best time to visit Iceland as it is the warmest time of year. Of course, with promised long days and the fabled midnight sun ideal for hiking, sightseeing or road tripping, but with not without hordes of crowds.
+ There is a saying in Iceland, “If you don't like the weather, just wait 5 minutes”. That is so true; it could be sunny one moment and raining on the other. But basically, the weather is **cold, cloudy and windy,** for most of the year. To put it simply, there is no single best time. Each period has its advantages and shortcomings, so deciding when to go is entirely up to you. However, I consider that summer would be a strong contender for the best time to visit Iceland as it is the warmest time of year. Of course, with promised long days and the fabled midnight sun ideal for hiking, sightseeing or road tripping, but with not without hordes of crowds.
 
 Here's an overview of the weather in Iceland:
 
@@ -200,3 +200,4 @@ Also, you will find many places ending in Foss; Foss is a waterfall in Icelandic
 <p class="responsive-iframe-container">
 <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1T_pbLh2G0ejBgu1YzuRaNc2pJl_0NvKs" width="640" height="480"></iframe>
 </p>
+<br>

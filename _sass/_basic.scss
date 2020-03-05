@@ -149,6 +149,7 @@ p, ul, ol {
 
   @include mq(tabletp) {
     font-size: $p-medium;
+    color: $text-medium-color;
   }
 
   @include mq(laptop) {

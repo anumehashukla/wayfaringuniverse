@@ -239,7 +239,7 @@ color_settings:
   background_color: '#ffffff'
   background_alt_color: '#ffffff'
   text_dark_color: '#000000'
-  text_medium_color: '#616161'
+  text_medium_color: '#000000a3'
   text_light_color: '#ABB7B7'
   accent_color: '#f1c00b'
   border_color: '#dddddd'
@@ -297,9 +297,9 @@ font_settings:
     letter_spacing: 0.08
     line_height: 1.2
   h2:
-    small_size: 25
-    medium_size: 27
-    large_size: 29
+    small_size: 27
+    medium_size: 28
+    large_size: 32
     weight: 100
     small_weight: 300
     letter_spacing: 0
