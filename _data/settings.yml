@@ -238,6 +238,7 @@ social_settings:
 color_settings:
   background_color: '#ffffff'
   background_alt_color: '#ffffff'
+  title_color: '#404040'
   text_dark_color: '#000000'
   text_medium_color: '#000000a3'
   text_light_color: '#ABB7B7'
@@ -249,9 +250,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,500&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Roboto:100,300&display=swap" rel="stylesheet">'
-  title_font: '"Work Sans", sans-serif'
-  body_font: "'Work Sans', sans-serif;"
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,500&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Roboto:100,300&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">'
+  title_font: '"Pacifico", cursive'
+  body_font: "'Work Sans', sans-serif"
   regular_weight: 300
   bold_weight: 500
   grid_item_title_font: '"Roboto", sans-serif'
@@ -259,8 +260,8 @@ font_settings:
   grid_item_bold_weight: 300
 
   site_title:
-    small_size: 25
-    medium_size: 35
+    small_size: 40
+    medium_size: 40
     large_size: 45
     weight: 300
     letter_spacing: -0.02

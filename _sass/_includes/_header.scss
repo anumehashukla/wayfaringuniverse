@@ -9,7 +9,8 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-  padding: 20px;
+  padding: 20px 50px;
+  text-align: center;
 
   @include mq(tabletp) {
     padding: 40px;
@@ -35,7 +36,7 @@
   }
 
   @include mq(laptop) {
-    padding: 60px 60px 145px;
+    padding: 40px 60px 145px;
   }
 }
 
@@ -60,7 +61,8 @@
   font-weight: $sitetitle-weight;
   letter-spacing: $sitetitle-spacing;
   line-height: 1;
-  color: $text-dark-color;
+  color: $title-color;
+  font-family: $title-font;
 
   &:hover {
     color: $accent-color;
@@ -104,7 +106,7 @@
   }
 
   @include mq(laptop) {
-    margin-top: 30px;
+    margin-top: 80px;
   }
 }
 
@@ -320,14 +322,9 @@
   display: none;
 
   @include mq(tabletl) {
-    display: block;
     position: absolute;
-    bottom: 30px;
-    left: 40px;
-  }
-
-  @include mq(laptop) {
-    bottom: 40px;
-    left: 60px;
+    display: block;
+    width: 70%;
+    bottom: 10px;
   }
 }

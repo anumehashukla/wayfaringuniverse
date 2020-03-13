@@ -32,7 +32,7 @@ body {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $title-font;
+  font-family: $body-font;
   color: $text-dark-color;
 
   &:first-child {
@@ -327,12 +327,6 @@ body.loading {
     @include transition(all 0.4s ease-in-out, transform 0s ease-in-out 0.4s);
     @include translate(0,20px);
   }
-
-  .footer {
-    opacity: 0;
-    visibility: hidden;
-    @include transition(all 0.4s ease-in-out);
-  }
 }
 
 .loader {
@@ -368,7 +362,20 @@ body.loading {
   }
 }
 
+.footer__mobile {
 
+  display: block;
+  @include mq(tabletp) {
+  }
+
+  @include mq(tabletl) {
+    display: none;
+  }
+
+  @include mq(laptop) {
+    display: none;
+  }
+}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 

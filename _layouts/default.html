@@ -101,8 +101,12 @@
 
   </div>
 
+  <div class="footer__mobile">
 
-  {% include footer.html %}
+      {% include footer.html %}
+
+  </div>
+
   </div>
 
   <!-- Javascript Assets -->
@@ -110,12 +114,6 @@
   <script src="/js/index-min.js"></script>
   <script src="/js/plugins/wayfaring-accordion.js"></script>
   <script src="/js/custom.js"></script>
-
-  {% if site.data.settings.advanced_settings.footer_js %}
-  <!-- Extra Footer JS Code -->
-  {{ site.data.settings.advanced_settings.footer_js }}
-  {% endif %}
-
 
 </body>
 

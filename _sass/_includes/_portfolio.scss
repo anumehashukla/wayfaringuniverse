@@ -5,7 +5,7 @@
 // - - - - - - - - - - - - - - - - - -
 
 .portfolio {
-  margin-top: 0;
+  margin-top: 20px;
   padding: $grid-spacing/2;
 }
 
@@ -29,6 +29,9 @@
   float: left;
 
   @include mq(tabletp) {
+
+  }
+  @include mq(tabletl) {
     width: 50%;
   }
 
