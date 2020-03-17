@@ -19,7 +19,7 @@ featured_image: /images/about.jpg
   </div>-->
 
     <section class="accordion">
-      {% for month in site.data.settings.when_to_travel %}
+      {% for month in site.data.placestovisit.when_to_travel %}
 
         {% capture month_name %}{{month[0]}}{% endcapture %}
 

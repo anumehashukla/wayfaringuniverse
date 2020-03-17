@@ -1,0 +1,182 @@
+when_to_travel:
+  January:
+    headings:
+      - title: "Early January"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - Chichen Itza, Mexico
+      - title: "Late January"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - Chichen Itza, Mexico
+  February:
+    headings:
+      - title: "Early February"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - Chichen Itza, Mexico
+      - title: "Late February"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - Chichen Itza, Mexico
+          - Yosemite National Park Firefall, US
+          - Death Valley National Park, US
+  March:
+    headings:
+      - title: "Early March"
+        places:
+          - The Wave, AZ, US
+          - Death Valley National Park, US
+          - Chichen Itza, Mexico
+      - title: "Late March"
+        places:
+          - The Wave, AZ, US
+          - Death Valley National Park, US
+          - Chichen Itza, March Equinox, Mexico
+  April:
+    headings:
+      - title: "Early April"
+        places:
+          - Skagit Valley Tulip festival Seattle, US
+          - Arches National Park, US
+          - Zion National Park, US
+      - title: "Late April"
+        places:
+          - Skagit Valley Tulip festival, Seattle, US
+          - Arches National Park, US
+          - Zion National Park, US
+          - Everest Base Camp Trek, Nepal
+          - Bryce Canyon National Park, US
+          - Canyonlands National Park, US
+          - Inca trail, Machu Pichu, Peru
+  May:
+    headings:
+      - title: "Early May"
+        places:
+          - Gaumukh Trek, India
+          - Arches National Park, US
+          - Everest Base Camp Trek, Nepal
+          - Bryce Canyon National Park, US
+          - Capital Reef National Park, US
+          - Canyonlands National Park, US
+          - Inca trail, Machu Pichu, Peru
+      - title: "Late May"
+        places:
+          - Gaumukh Trek, India
+          - Capital Reef National Park, US
+          - Inca trail, Machu Pichu, Peru
+  June:
+    headings:
+      - title: "Early June"
+        places:
+          - Inca trail, Machu Pichu, Peru
+      - title: "Late June"
+        places:
+          - Inca trail, Machu Pichu, Peru
+  July:
+    headings:
+      - title: "Early July"
+        places:
+          - Inca trail, Machu Pichu, Peru
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Banff National Park, Canada
+          - Jasper National Park, Canada
+          - YOHO National Park, Canada
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Valley of Flowers, India
+
+      - title: "Late July"
+        places:
+          - Inca trail, Machu Pichu, Peru
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Valley of Flowers, India
+          - Crater Lake National Park, US
+          - Lassen Volcanic National Park, US
+  August:
+    headings:
+      - title: "Early August"
+        places:
+          - Perseids Meteor Shower, Northern Hemisphere
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Valley of Flowers, India
+          - Crater Lake National Park, US
+          - Lassen Volcanic National Park, US
+      - title: "Late August"
+        places:
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Valley of Flowers, India
+          - Crater Lake National Park, US
+          - Lassen Volcanic National Park, US
+  September:
+    headings:
+      - title: "Early September"
+        places:
+          - Yellowstone National Park, US
+          - Grand Teton National Park, US
+          - Valley of Flowers, India
+          - Crater Lake National Park, US
+          - Lassen Volcanic National Park, US
+      - title: "Late September"
+        places:
+          - Crater Lake National Park, US
+          - Lassen Volcanic National Park, US
+          - Amtrak California Zephyr, US
+  October:
+    headings:
+      - title: "Early October"
+        places:
+          -
+          - Alburquque balloon fiesta, US
+          - Everest Base Camp Trek, Nepal
+          - Gaumukh Trek, India
+          - Arches National Park, US
+          - Everest Base Camp Trek, Nepal
+          - Bryce Canyon National Park, US
+          - Capital Reef National Park, US
+          - Canyonlands National Park, US
+          -
+      - title: "Late October"
+        places:
+          - Everest Base Camp Trek, Nepal
+          - Everest Base Camp Trek, Nepal
+          - Gaumukh Trek, India
+          - Arches National Park, US
+          - Everest Base Camp Trek, Nepal
+          - Bryce Canyon National Park, US
+          - Capital Reef National Park, US
+          - Canyonlands National Park, US
+          - Ziopn National Park, US
+          - Death Valley National Park, US
+  November:
+    headings:
+      - title: "Early November"
+        places:
+          - The Wave, AZ, US
+          - Death Valley National Park, US
+      - title: "Late November"
+        places:
+          - The Wave, AZ, US
+          - Death Valley National Park, US
+  December:
+    headings:
+      - title: "Early December"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - The Wave, AZ, US
+          - Death Valley National Park, US
+      - title: "Late December"
+        places:
+          - Torres Del Paine, Chile
+          - Atacama Desert, Chile
+          - Chichen Itza, Mexico
+          - Death Valley National Park, US
