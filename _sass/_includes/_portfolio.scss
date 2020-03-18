@@ -58,6 +58,9 @@
   display: block;
 
   @include mq(tabletl) {
+    .portfolio-item__image {
+        filter : brightness(85%);
+      }
 
     &:hover {
 
@@ -65,8 +68,12 @@
 
       }
       .portfolio-item__image {
-        /*filter : brightness(100%);*/
-        transform: scale(1.02);
+        filter : brightness(100%);
+        transform: scale(1.04);
+      }
+      .portfolio-item__hr {
+        width: 160px;
+        @include transition(all 0.2s ease-in-out)
       }
     }
   }
@@ -74,7 +81,7 @@
 
 .portfolio-item__image {
   width: 100%;
-  /*filter : brightness(80%);*/
+  filter : brightness(100%);
   transition: transform .2s;
 }
 
