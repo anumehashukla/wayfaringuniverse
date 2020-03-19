@@ -1,22 +1,3 @@
-//
-//
-// Index JS
-//
-//
-
-
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Plugins
-
-// @codekit-prepend "/plugins/history.js"
-// @codekit-prepend "/plugins/imagesloaded.js"
-// @codekit-prepend "/plugins/masonry.js"
-// @codekit-prepend "/plugins/debounce.js"
-// @codekit-prepend "/plugins/fluidbox.js"
-// @codekit-prepend "/plugins/owl.js"
-// @codekit-prepend "/plugins/waypoints.js"
-
-
 
 (function ($) {
   'use strict';
@@ -77,6 +58,31 @@
 
   });
 
+  // - - - - - - - - - - - - - - - - - -
+
+  // Scroll to top
+
+  // - - - - - - - - - - - - - - - - - -
+
+  function scrollToTop() {
+    var duration = 700;
+    $('html, body').animate({ scrollTop: 0 }, duration);
+    return false;
+  }
+
+  function toggleScrollToTopButton() {
+    var windowHeight = $(window).height();
+    var threshold = windowHeight*6;
+
+    if ($(window).scrollTop() > threshold) {
+      $('.scroll-to-top').css("visibility","visible");
+      $('.scroll-to-top').fadeIn('slow');
+    } else if ($(window).scrollTop() < windowHeight) {
+      console.log("scroll "+$(window).scrollTop());
+      console.log("window height "+windowHeight);
+      $('.scroll-to-top').fadeOut('slow');
+    }
+  }
 
   // On clicking a link
 
@@ -157,6 +163,8 @@
 
   function pageFunctions() {
 
+     $(".scroll-to-top").on('click', scrollToTop);
+     $(window).scroll(toggleScrollToTopButton);
 
     // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Show content
 

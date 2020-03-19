@@ -412,3 +412,16 @@ section {
 
   }
 }
+
+.scroll-to-top {
+  visibility: hidden;
+  position: fixed;
+  font-size: 35px;
+  bottom: 6%;
+  right: 4%;
+  opacity: 1;
+  z-index: 1000;
+  cursor: pointer;
+  color: $accent-color;
+  border-width: 0;
+}
