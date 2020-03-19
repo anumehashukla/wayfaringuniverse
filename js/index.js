@@ -253,8 +253,9 @@
             pullDrag: false,
             dots: true,
             autoplay: false,
-            autoplayTimeout: 6000,
-            autoWidth: true,
+            singleItem: true,
+            autoplayTimeout: 3000,
+            autoHeight: true,
             animateOut: 'fadeOut'
           });
 
