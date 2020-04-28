@@ -2,7 +2,7 @@
 title: 'Total Solar Eclipse 2017'
 date: 2014-06-30 03:00:00
 description: October 24, 1995, I was an eight-year-old kid when I saw the total eclipse of the sun for the first time, it was more special because it coincided with Diwali, the festivals of light in India. I remember we had to drive all night to see this ultimate astronomy event. We parked our cars on a bridge to get a 360 view of the sky.
-featured_image: '/images/astronomy/totalsolareclipse/diamondring.jpg'
+featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/totalSolarEclipse.jpg'
 categories: astronomy
 ---
 
@@ -18,15 +18,17 @@ Today the United States witnessed one of the most brilliant and splendid phenome
 The totality lasted 2 minutes, and we could sun flares and see Baily's beads effect. It was so still and calm, a total sensory spectacle, I just wanted to absorb everything. My husband would ask me several times before this, how does it feel like seeing a total solar eclipse, and I always fell short of words. in fact, it is very difficult to describe that emotion. You just know it, but you can't explain it. And now he couldn't agree more.
 <br><br>
 
+![]({{site.data.settings.basic_settings.cdn_url}}/astronomy/totalsolareclipse/totalsolareclipse.jpg)
+<center class="image-caption"><i>Sun or Moon? Actually Both</i></center>
+
+![]({{site.data.settings.basic_settings.cdn_url}}/astronomy/totalsolareclipse/diamondring.jpg)
+<center class="image-caption"><i>Diamond Ring</i></center>
+
+![]({{site.data.settings.basic_settings.cdn_url}}/astronomy/totalsolareclipse/sunflares.jpg)
+<div class="image-caption image-caption-long"><i>Rare to see Solar Flares. These flares are sudden bursts of magnetic energy, along with vast releases of light & solar particles.</i></div><br>
+
+![]({{site.data.settings.basic_settings.cdn_url}}/astronomy/totalsolareclipse/totality.jpg)
+<center class="image-caption"><i>Moment of Totality</i></center>
+
+
 Totality, those special minutes of darkness are something very unique and extraordinary as a human experience. After experiencing it two times can’t wait to see it again.
-
-
-
-![](/images/astronomy/totalsolareclipse/totalsolareclipse.jpg)
-
-![](/images/astronomy/totalsolareclipse/diamondring.jpg)
-
-![](/images/astronomy/totalsolareclipse/sunflares.jpg)
-
-![](/images/astronomy/totalsolareclipse/totality.jpg)
-

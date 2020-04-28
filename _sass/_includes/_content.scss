@@ -341,6 +341,30 @@
     }
 }
 
+.image-caption-long {
+  padding-left: 3%;
+  padding-right: 3%;
+    @include mq(tabletp) {
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+
+    @include mq(tabletl) {
+      padding-left: 15%;
+      padding-right: 15%;
+    }
+
+    @include mq(laptop) {
+      padding-left: 18%;
+      padding-right: 18%;
+    }
+
+    @include mq(desktop) {
+      padding-left: 25%;
+      padding-right: 25%;
+    }
+}
+
 .video {
   position: relative;
   width: 100%;

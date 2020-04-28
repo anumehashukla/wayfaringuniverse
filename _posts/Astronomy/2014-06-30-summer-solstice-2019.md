@@ -2,14 +2,14 @@
 title: 'Observing Summer Solstice'
 date: 2014-06-30 02:00:00
 description: Geography was my favorite subject at school. All the concepts and theories used to fascinate me a lot. Reading about Solstice's, Equinox's, Eclipse's, and many other things always used to make me think if only I could ever witness these wonders.
-featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/solstice/tropicofcapricorn.jpg'
+featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/solstice/summersolstice.jpg'
 categories: astronomy
 ---
 
 <i>December 22, 2019</i>
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/solstice/tropicofcapricorn.jpg)
-<center class="image-caption"><i>Tropic of Capricorn, San Pedro de Atacama</i></center>
+<center class="image-caption"><i>Tropic of Capricorn, San Pedro de Atacama, Chile</i></center>
 <br>
 
 Geography was my favorite subject at school. All the concepts and theories used to fascinate me a lot. Reading about Solstice's, Equinox's, Eclipse's, and many other things always used to make me think if only I could ever witness these wonders.
@@ -29,8 +29,6 @@ So mark your calendar for the next Solstice and witness the Sun on this astronom
 ![]({{site.data.settings.basic_settings.cdn_url}}/solstice/solsticenoshadow.jpg)
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/solstice/solsticenoshadow1.jpg)
-
-![]({{site.data.settings.basic_settings.cdn_url}}/solstice/summersolstice.jpg){: .portrait-image}
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/solstice/summersolsticenoshadow.jpg)
 
