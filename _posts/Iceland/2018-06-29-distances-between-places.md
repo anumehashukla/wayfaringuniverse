@@ -6,7 +6,7 @@ featured_image: '/images/iceland/ringRoad/diamondbeach_DSC3038.jpg'
 categories: iceland
 ---
 
-Iceland is big, and with an overwhelming amount of places to visit, it could be hard to plan and organize things.
+Iceland is big and with an overwhelming amount of places to visit, it could be hard to plan and organize things.
 The following chart outlines the distances and time to drive between all the lookout points in Iceland. The table is aligned with the places mentioned in my [10 Day Self Drive tour Ring Road](/iceland/ring-road) itinerary if you are following that.<br>
 This will help you plan, optimize, and save time on your journey.
 

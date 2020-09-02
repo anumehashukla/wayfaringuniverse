@@ -36,6 +36,7 @@ Meet the group at [Friends of Black Rock High Rock Visitor Centre](https://goo.g
 The tour usually lasts 3 hours. Currently, they are running trips only on Fridays, Saturdays, and Sundays. They have one or two time slots every day, from 9:00 am to 12:00 pm and 1:00 pm to 4:00 pm. *[Update 2020: They are only running one-time slot this year, 9:00 to 1:00 pm].* <br>
 Since very few people know about this place, getting a spot on tour is easy. You make a little walking trip around the ranch, can see a few hot springs before ending the tour at the Fly Geyser. They give you around 45 mins to take pictures and explore the area on your own.
 
+![](/images/flygeysernevada.jpg)
 
 ## How to get there
 <br>
@@ -50,5 +51,4 @@ Gerlach is a very small town with limited facilities. It has a gas station, a re
 <br>
 <hr>
 
-Go on a sunny day.
-The colors of the mineral deposits look best when there is the sun. I would strongly suggest checking out the weather forecast before booking a spot.
+Go on a sunny day. The colors of the mineral deposits look best when there is sun. I strongly suggest checking out the weather forecast before booking a spot.
