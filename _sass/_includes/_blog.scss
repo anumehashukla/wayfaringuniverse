@@ -1,116 +1,74 @@
 // - - - - - - - - - - - - - - - - - -
 
-// Blog
+// Personal Blog
 
 // - - - - - - - - - - - - - - - - - -
 
 .blog {
-  margin-top: 0;
-  padding: $grid-spacing/2;
-}
 
-.blog-wrap {
+  padding : 0 3% 2% 2%;
+  &-item {
+    border-bottom: 1px solid gray;
+    color: black;
+    display: block;
+    padding: 2rem 0;
 
-}
+    &:hover .blog-line,
+    &:focus .blog-line {
+      color: $accent-color;
+      width: 5em;
+    }
 
-.blog-post {
-  position: relative;
-  padding: $grid-spacing/2;
-  float: left;
-  width: 50%;
-}
+    &:hover .blog-title {
+      color: $accent-color;
+    }
 
-.blog-post__link {
-  position: relative;
-  display: block;
+    &:hover .blog-date {
+      color: $accent-color;
+    }
 
-  @include mq(tabletl) {
+    &:hover .blog-reading-time {
+      color: $accent-color;
+    }
 
-    &:hover {
-
-      .blog-post__content {
-        opacity: 1;
-        visibility: visible;
-      }
+    &:last-child {
+      border: 0;
     }
   }
-}
 
-.blog-post__image {
-  width: 100%;
-}
-
-.blog-post__content {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: rgba($overlay-background-color, $overlay-opacity);
-
-  opacity: 0;
-  visibility: hidden;
-  @include transition(all 0.2s ease-in-out);
-}
-
-.blog-post__info {
-  text-align: center;
-}
-
-.blog-post__title {
-  color: $overlay-text-color;
-  font-size: $grid-item-title-small;
-  font-weight: $grid-item-title-weight;
-  letter-spacing: $grid-item-title-spacing;
-
-  @include mq(tabletp) {
-    font-size: $grid-item-title-medium;
+  &-date {
+    color: $text-medium-color;
+    font-family: serif;
+    letter-spacing: .9px;
+  }
+  &-reading-time {
+    color: $text-medium-color;
+    font-family: serif;
+    letter-spacing: .9px;
+    padding-left: .5rem;
+    font-style: italic;
+    display: inline;
   }
 
-  @include mq(laptop) {
-    font-size: $grid-item-title-large;
-  }
-}
-
-.blog-post__subtitle {
-  margin-top: 5px;
-  color: rgba($overlay-text-color, 0.7);
-  font-size: $grid-item-subtitle-small;
-  font-weight: $grid-item-subtitle-weight;
-  letter-spacing: $grid-item-subtitle-spacing;
-
-  @include mq(tabletp) {
-    font-size: $grid-item-subtitle-medium;
-  }
-
-  @include mq(laptop) {
-    font-size: $grid-item-subtitle-large;
-  }
-}
-
-.pagination {
-  margin-top: 0;
-  padding: 0 $grid-spacing/2 $grid-spacing;
-}
-
-.pagination__prev,
-.pagination__next {
-  width: 50%;
-  padding: 0 $grid-spacing/2;
-
-  .button {
+  &-title {
     display: block;
-    text-align: center;
+    font-family: serif;
+    margin: .5rem 0;
+    text-align: left;
+    text-transform: none;
+    max-width:100% !important;
   }
-}
 
-.pagination__prev {
-  float: left;
-}
+  &-content {
+    font-family: sans-serif;
+    max-width:100% !important;
+  }
 
-.pagination__next {
-  float: right;
+  &-line {
+    @include transition(all .3s ease-out);
+    border-top: .2rem solid;
+    color: $text-dark-color;
+    display: block;
+    width: 2rem;
+  }
 }

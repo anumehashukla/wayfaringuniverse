@@ -1,43 +1,72 @@
 ---
 layout: default
 title: Blog
-description: Index includes a simple blog with pagination.
+description: anumeha shukla's blog.
 featured_image: /images/social.jpg
-sitemap: false
 ---
 
-<section class="blog">
+{% capture category_name %}{{ page.title | downcase | remove: " " }}{% endcapture %}
+<section class="single">
 
-  <div class="content-wrap blog-wrap">
+  <div class="wrap">
 
-    {% for post in paginator.posts %}
 
-    <article class="blog-post">
+<div class="blog">
+  {% for post in site.categories[category_name] %}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="blog-item">
+      <div>
+        <time datetime="{{ post.date }}" class="blog-date">{{ post.date | date: "%B %d, %Y" }}</time>
+        <div class="blog-reading-time">{% include read-time.html content = post.content %}</div>
+        <h1 class="blog-title">{{ post.title }}</h1>
+        <div class="blog-line"></div>
 
-      <a class="blog-post__link" href="{{ post.url }}">
+        <p class="blog-content">
+          {{ post.content | strip_html | truncatewords: 30, " ...." }}
+        </p>
 
-        <div class="blog-post__image">
-          <img src="{{ post.featured_image  }}" alt="{{ post.title }}">
-        </div>
-
-        <div class="blog-post__content">
-          <div class="blog-post__info">
-            <h2 class="blog-post__title">{{ post.title }}</h2>
-            <p class="blog-post__subtitle">{{ post.date | date_to_long_string }}</p>
-          </div>
-        </div>
-
-      </a>
-
-    </article>
-
-    {% endfor %}
+      </div>
+    </a>
+  {% endfor %}
+</div>
 
   </div>
 
 </section>
 
-{% if paginator.total_pages > 1 %}
+
+<!--<section class="blog">
+
+    <div class="content-wrap blog-wrap">
+      {% capture category_name %}{{ page.title | downcase | remove: " " }}{% endcapture %}
+      {% for post in site.categories[category_name] %}
+
+        <article class="blog-post">
+
+            <a class="blog-post__link" href="{{ post.url }}">
+
+              <div class="blog-post__image">
+               <img src="{{ post.featured_image  }}" alt="{{ post.title }}">
+              </div>
+
+              <div class="blog-post__content">
+          <div class="blog-post__info">
+            <h2 class="blog-post__title">{{ post.title }}</h2>
+            <p class="blog-post__subtitle">{{ post.date | date_to_long_string }}</p>
+          </div>
+              </div>
+
+            </a>
+
+        </article>
+
+
+      {% endfor %}
+
+    </div>
+
+</section> -->
+
+<!--{% if paginator.total_pages > 1 %}
 
 <section class="pagination">
 
@@ -54,4 +83,4 @@ sitemap: false
 
 </section>
 
-{% endif %}
+{% endif %}-->

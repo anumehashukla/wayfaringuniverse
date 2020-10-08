@@ -9,9 +9,9 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'ABOUT'
-      url: '/about'
-    - title: 'CONTACT'
+    - title: 'blog'
+      url: '/blog'
+    - title: 'contact'
       url: '/contact'
 
 grid_settings:
