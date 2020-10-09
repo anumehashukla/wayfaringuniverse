@@ -102,11 +102,11 @@
 .menu {
 
   @include mq(tabletl) {
-    margin-top: 40px;
+    margin-top: 60px;
   }
 
   @include mq(laptop) {
-    margin-top: 80px;
+    margin-top: 75px;
   }
 }
 
@@ -296,7 +296,7 @@
   @include transition(all 0.2s ease-in-out);
 
   @include mq(tabletl) {
-    top : 20px;
+    top : 40px;
     position: relative;
     background: transparent;
     visibility: visible;
@@ -306,7 +306,7 @@
   }
 
   @include mq(laptop) {
-    margin-top: 30px;
+    margin-top: 40px;
   }
 }
 
