@@ -59,7 +59,7 @@
 
   @include mq(tabletl) {
     .portfolio-item__image {
-        filter : brightness(85%);
+        filter : brightness(100%);
       }
 
     &:hover {
@@ -68,7 +68,7 @@
 
       }
       .portfolio-item__image {
-        filter : brightness(100%);
+        filter : brightness(40%);
         transform: scale(1.04);
       }
       .portfolio-item__hr {
@@ -123,6 +123,7 @@
   font-weight: $grid-item-title-weight;
   letter-spacing: $grid-item-title-spacing;
   text-transform: uppercase;
+  opacity: 1;
 
 
   @include mq(tabletp) {
