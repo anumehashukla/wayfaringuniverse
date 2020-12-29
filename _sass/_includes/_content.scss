@@ -70,7 +70,7 @@
     padding: 60px $grid-spacing;
   }
 
-  h1, h2, h3, h4, h5, h6, p, ul, ol {
+  h1, h2, h3, h4, h5, h6, p, ul, ol, .comments {
     margin-left: auto;
     margin-right: auto;
 
@@ -88,6 +88,10 @@
     @include mq(desktop) {
       max-width: 65%;
     }
+  }
+
+  .comments {
+    padding: 5%;
   }
 
   &.related {

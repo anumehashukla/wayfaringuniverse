@@ -23,6 +23,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+      comments: true
   -
     scope:
       path: ""

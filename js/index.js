@@ -78,8 +78,6 @@
       $('.scroll-to-top').css("visibility","visible");
       $('.scroll-to-top').fadeIn('slow');
     } else if ($(window).scrollTop() < windowHeight) {
-      console.log("scroll "+$(window).scrollTop());
-      console.log("window height "+windowHeight);
       $('.scroll-to-top').fadeOut('slow');
     }
   }
