@@ -300,12 +300,11 @@
 .image-wrap img {
   margin: 0 auto;
 
-  @include mq(tabletl) {
-    width: 90%;
-  }
-
   @include mq(desktop) {
     width: 80%;
+  }
+  @include mq(tabletl) {
+    width: 90%;
   }
 
   &.portrait-image {
@@ -328,6 +327,7 @@
 .image-caption {
   margin-top: -.5rem;
   color: gray;
+  font-size: 16px;
     @include mq(tabletp) {
       margin-top: -1.5rem;
     }
