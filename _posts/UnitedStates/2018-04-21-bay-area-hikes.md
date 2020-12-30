@@ -5,7 +5,7 @@ description: A collection of bay area hikes with some trips and tricks about the
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: unitedstates
 ---
-We have lived in San Francisco for five years now but never got a chance to explore many hikes in the area due to our extensive travels. Apart from a handful of the most popular ones. When the pandemic started, I remember how we would go to our secret spot on the Coastal Fire Road to smell the trees. Then in June, I finally decided to find some unpopular hikes(so that we don't come across many people) in the bay area :) for some forest bathing and to stay active. Since then, we have completed 43 hikes and at least 50+ walks to Oyster Point(another hidden gem). Many exciting experiences on these hikes, saw so much wildlife - coming across snakes on at least six different trails, so many cute bunnies, a few coyotes, tons of Elks. The other thing that happened was, for the first time, we got to see the downtowns of so many bay area towns, like, Tiburon, San Anselmo, Livermore, Fairfax, Hayward, Corte Madera, Saratoga, Felton, Moraga.<br><br>
+We have lived in San Francisco for five years now but never got a chance to explore many hikes in the area due to our extensive travels. Apart from a handful of the most popular ones. When the pandemic started, I remember how we would go to our secret spot on the Coastal Fire Road to smell the trees. Then in June, I finally decided to find some unpopular hikes(so that we don't come across many people) in the bay area :) for some forest bathing and to stay active. Since then, we have completed 44 hikes and at least 50+ walks to Oyster Point(another hidden gem). Many exciting experiences on these hikes, saw so much wildlife - coming across snakes on at least six different trails, so many cute bunnies, a few coyotes, tons of Elks. The other thing that happened was, for the first time, we got to see the downtowns of so many bay area towns, like, Tiburon, San Anselmo, Livermore, Fairfax, Hayward, Corte Madera, Saratoga, Felton, Moraga.<br><br>
 There are few things that I noticed while hiking these trails which might help anyone interested in doing them:
 <br>
 * Some of you might not find these hikes as beautiful, so we did ninety percent of them around sunset. Doing them around sunset made a huge difference. Those spectacular sunsets, pink hues on the other side, I can't put it in words. And the other thing was our main goal was to stay active and spend some time in nature.
@@ -14,7 +14,7 @@ There are few things that I noticed while hiking these trails which might help a
 * I usually chose light and moderately trafficked ones, leaving the few heavily trafficked ones we did on weekdays.
 <br>
 <br>
-* In the morning vs. afternoon, afternoons faired much better in finding a parking spot. I always thought that morning was the best time to go hiking. I am afraid I was wrong. Afternoon means lesser crowds and easily available parking.
+* In the morning vs. afternoon debate, afternoons faired much better when it comes down to finding a parking spot. I always thought that morning was the best time to go hiking. I am afraid I was wrong. Afternoon means lesser crowds and easily available parking.
 <br>
 <br>
 * Longer hikes, fewer people. No matter how much the parking lots were full, we hardly came across, I would say, not more than ten people on such trails. Loved the quietness and the solitude.
