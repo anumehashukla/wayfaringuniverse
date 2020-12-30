@@ -46,7 +46,7 @@
   <!-- Facebook OpenGraph -->
   <meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
   <meta property="og:description" content="{{ page.description }}" />
-  <meta property="og:image" content="{{ site.url }}{{ page.featured_image }}" />
+  <meta property="og:image" content="{{ page.featured_image }}" />
 
   {% if site.data.settings.font_settings.font_embed %}
   <!-- Font Embed Code -->
