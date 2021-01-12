@@ -1,6 +1,6 @@
 ---
 title: 'Visiting ALMA'
-date: 2017-12-23 00:00:00
+date: 2021-01-12 10:30:00
 description: ALMA stands for Atacama Large Millimeter Array. It is home to the largest and most expensive astronomical telescope project in the world, situated on the Chajnantor plateau, one of the highest and driest places on earth. It is an astronomical interferometer of radio telescopes in the Atacama desert consisting of sixty-six 12-meter (39 ft) and 7-meter (23 ft) diameter radio telescopes observing at millimeter and submillimeter wavelengths.
 featured_image: '/images/astronomy/alma_DSC8184.jpg'
 categories: [chile, astronomy]

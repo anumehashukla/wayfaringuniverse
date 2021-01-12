@@ -1,6 +1,6 @@
 ---
 title: 'Total Solar Eclipse 2017'
-date: 2014-06-30 03:00:00
+date: 2021-01-12 10:00:00
 description: October 24, 1995, I was an eight-year-old kid when I saw the total eclipse of the sun for the first time, it was more special because it coincided with Diwali, the festivals of light in India. I remember we had to drive all night to see this ultimate astronomy event. We parked our cars on a bridge to get a 360 view of the sky.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/totalSolarEclipse.jpg'
 categories: astronomy
