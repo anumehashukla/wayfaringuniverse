@@ -1,6 +1,6 @@
 ---
 title: 'Distances between major attractions in Iceland'
-date: 2018-06-29 00:00:00
+date: 2021-01-12 07:10:00
 description: Iceland is big, and with an overwhelming amount of places to visit, it could be hard to plan and organize things. The following chart outlines the distances and time to drive between all the lookout points in Iceland. This will help you plan, optimize, and save time on your journey.
 featured_image: '/images/iceland/ringRoad/diamondbeach_DSC3038.jpg'
 categories: iceland

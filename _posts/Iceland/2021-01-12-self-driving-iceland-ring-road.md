@@ -1,6 +1,6 @@
 ---
 title: '10 Day Self Drive tour Ring Road'
-date: 2018-07-08 00:00:00
+date: 2021-01-12 11:10:00
 description: Iceland’s Ring Road encircles the entire country covering over 1300 km on Route 1 or Highway 1. While you could technically drive the whole thing in less than 24 hours, the truth is it will take you at least a week with stops on along the way.
 featured_image: '/images/iceland/gridPicture.jpg'
 categories: iceland

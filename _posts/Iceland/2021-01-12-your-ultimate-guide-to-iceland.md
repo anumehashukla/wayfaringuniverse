@@ -1,6 +1,6 @@
 ---
 title: 'Your Ultimate guide to Iceland'
-date: 2018-07-07 00:00:00
+date: 2021-01-12 10:10:00
 description: Traveling to Iceland and wondering what are the main highlights of Iceland, how much time you need to visit this beautiful country, and what’s the best itinerary to follow? Are there any fuel stations along the ring road? What are the cheap grocery places? In this post, I am sharing our experience-based suggestions and itinerary ideas for ten days.
 featured_image: '/images/iceland/ultimateGuide.jpg'
 categories: iceland
