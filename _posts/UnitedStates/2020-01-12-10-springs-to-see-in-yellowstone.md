@@ -1,6 +1,6 @@
 ---
 title: '10 hot springs not to miss in Yellowstone'
-date: 2018-05-21 01:00:00
+date: 2021-01-12 10:00:00
 description: A lot of people plan their trip to Yellowstone in the offseason or shoulder season, which absolutely has its charms and appeal. Yellowstone is such a unique place that it offers so much, no matter when you visit. But if it is your first trip there, I would recommend going in summer, preferably on sunny days to enjoy those vibrant colors.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/yellowstoneSpringsthumbnail.jpg'
 categories: unitedstates

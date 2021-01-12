@@ -1,11 +1,10 @@
 ---
 title: 'Fly Geyser'
-date: 2018-09-21 01:00:00
-description:
+date: 2021-01-12 11:00:00
+description: Like most of you, for years, I have seen pictures of Fly Geyser all over the internet. It is advertised as a man-made geyser everywhere which made me always wonder why would someone create a fountain in the middle of the desert, why not someplace near a city.  I honestly thought for a long time that the structure and colors and everything were all man-made.
 featured_image: '/images/flygeyser.jpg'
 categories: unitedstates
 ---
-
 Like most of you, for years, I have seen pictures of Fly Geyser all over the internet. It is advertised as a man-made geyser everywhere which made me always wonder why would someone create a fountain in the middle of the desert, why not someplace near a city.  I honestly thought for a long time that the structure and colors and everything were all man-made. Hence, I had little interest in seeing this human creation until 2018, when I came across some articles where I read about an interesting story about its inception. And that piece of information just blew me away.  So the only "Man-Made" part in this entire thing was the hole which was just accidentally dug into the earth, rest everything is mother nature. That's the only human-made part. I went back, saw those pictures all over again, and just thought how beautiful it is,  as impressive as Grand Prismatic but "not famous." This made me want to visit this place and fortunately got an opportunity to see it in September of 2018.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/flygeyser/flygeyserafternoon.jpg)

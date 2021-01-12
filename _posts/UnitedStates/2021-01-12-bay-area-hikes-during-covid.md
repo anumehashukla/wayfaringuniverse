@@ -1,6 +1,6 @@
 ---
 title: ' Bay Area Hikes in times of Covid'
-date: 2018-04-21 01:00:00
+date: 2021-01-12 09:00:00
 sortorder: 1
 description: A collection of bay area hikes with some trips and tricks about them based on our hiking experience during the pandemic.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
