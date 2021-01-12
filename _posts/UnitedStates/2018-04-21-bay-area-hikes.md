@@ -1,6 +1,7 @@
 ---
-title: ' Bay Area Hikes during Covid'
+title: ' Bay Area Hikes in times of Covid'
 date: 2018-04-21 01:00:00
+sortorder: 1
 description: A collection of bay area hikes with some trips and tricks about them based on our hiking experience during the pandemic.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: unitedstates
@@ -208,6 +209,25 @@ I highly recommend this one!!
 <br> 2 mile trail in Presidio. It was a mistake to go on this one, it the most crowded trail of the year.
 <br>
 <br>
+<br>
+<hr>
+
+## 2021
+
+
+45. [Lake Merced Loop](https://www.alltrails.com/trail/us/california/lake-merced-loop)<i> - 4.5 mile</i>
+<br>4.5 miles heavily trafficked, easy walk. There are several parking lots, since it's a loop, you can start from anywhere. I wouldn’t recommend it, a lot of people without masks! (did it on a weekday)
+<br>
+<br>
+46. [Bon Tempe and Lagunitas Lakes Trail](https://www.alltrails.com/explore/trail/us/california/bon-tempe-and-lagunitas-lakes-trail)<i> - 6 mile</i>
+<br>Easy trail, partially shaded. It is more than 6 miles; alltrails inaccurately lists it as 5.5 miles. Again since it's a loop, you can start from anywhere. There are three parking lots. There is a parking fee of $8. We did it on a Sunday afternoon, and the parking lots were full. We thought it's going to be crowded. But apparently, most of the people were there for fishing, very few people hiking. The lakes are beautiful, it's a must-do!!
+<br>
+<br>
+47. [Point Pinole Trail](https://www.alltrails.com/trail/us/california/point-pinole-cooks-point-marsh-owl-alley-china-cove-pinole-point-and-bay-view-trails)<i> - 4.2 mile</i>
+<br>4.2 miles lightly trafficked trail. It's a beautiful walk in the woods & by the bay (yep, you get both the worlds). Came across very few people, great view of the bay! There is a nice pier as well!
+<br>
+<br>
+
 
 *Expand the Legend on the left for trailhead*
 {: id="trailheadsMap"}
