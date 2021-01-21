@@ -344,7 +344,7 @@
 
     // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Images
 
-    $('.single p li > img').each( function() {
+    $('.single p > img').each( function() {
       var thisP = $(this).parent('p');
       $(this).insertAfter(thisP);
       $(this).wrapAll('<div class="image-wrap"></div>');
