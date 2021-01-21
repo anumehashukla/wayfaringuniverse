@@ -1,4 +1,6 @@
-
+/**
+  Compile to index-min.js: uglifyjs -o js/index-min.js --source-map -- js/plugins/* js/index.js
+**/
 (function ($) {
   'use strict';
 
@@ -342,7 +344,7 @@
 
     // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Images
 
-    $('.single p > img').each( function() {
+    $('.single > img').each( function() {
       var thisP = $(this).parent('p');
       $(this).insertAfter(thisP);
       $(this).wrapAll('<div class="image-wrap"></div>');
