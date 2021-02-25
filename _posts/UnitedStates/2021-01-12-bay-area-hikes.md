@@ -27,12 +27,13 @@ So if you just want to get out and move, here are some good options. I have comp
 
 *[See on map](/unitedstates/bay-area-hikes#trailheadsMap){: .js-no-ajax}*
 <br>
+<br>
 
 1. [Tomales Point Trail ](https://www.alltrails.com/trail/us/california/tomales-point-trail)*- 10 mile*
 <br>10 miles out and back trail, no shade. One of the best trails we did this year. Excellent hike! Lots of Elks, amazing views at the end and all throughout. We encountered a snake as well and saw one of the coolest sunsets ever.
 I highly recommend this one!!
-![](/images/alamaden_quicksilver.jpg)
-<center class="image-caption"><i>Fly geyser is one of the best-kept secrets in Nevada.</i></center>
+<br>
+<br>
 2. [Berry Creek Falls Loop ](https://www.alltrails.com/trail/us/california/berry-creek-falls-trail)*- 13 mile*
 <br>It's a 13 mile moderately hard trail with lots of shade. Great workout hike. Took us 4hrs 13 mins to complete it. Make sure to have some snacks & enough water, it's a strenuous hike. Also, have the trail map handy because if you get lost or take some detour, it will add more miles and time and only make it harder.
 <br>
@@ -55,10 +56,9 @@ I highly recommend this one!!
 <br>
 <br>
 7. [Almaden Quicksilver McAbee Mine Trail New Almaden Trail ](https://www.alltrails.com/trail/us/california/almaden-quicksilver-mcabee-mine-trail-new-almaden-trail) *- 9.5 mile*
-9.5 mile easy trail. Usually, it is heavily trafficked, so we did it on a weekday. Also, there was a warning of a mountain lion at the trailhead. There were many people on the trails not wearing masks or making any effort to distance, specially the runners.
-
-![](/images/alamaden_quicksilver.jpg)
-
+<br>9.5 mile easy trail. Usually, it is heavily trafficked, so we did it on a weekday. Also, there was a warning of a mountain lion at the trailhead. There were many people on the trails not wearing masks or making any effort to distance, specially the runners.
+<br>
+<br>
 8. [Old Springs, Miwok, Wolf Ridge, Coastal and Tennessee Valley Loop ](https://www.alltrails.com/trail/us/california/old-springs-miwok-wolf-ridge-coastal-and-tennessee-valley-loop)*- 4.9 mile*
 <br>4.9 miles, almost no shade. This trail and Tennessee Valley trail share the same trailhead. We did this hike on a weekday, though it is not a popular trail but the parking lot was almost full around 6:00 pm when we reached. I guess most of the traffic was for Tennessee Beach and other hikes that start from this trailhead. We only came across a handful of people on the trail. If you are looking for a less crowded hike on a weekday, I would certainly suggest this one.
 <br>
