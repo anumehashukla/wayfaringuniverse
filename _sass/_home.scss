@@ -1,3 +1,44 @@
+.vimeo__homepage {
+  visibility: hidden;
+  display: none;
+
+  @include mq(tabletp) {
+
+  }
+
+  @include mq(tabletl) {
+    visibility: visible;
+    position:relative;
+    padding:56.25% 0 0 0;
+    display: block;
+  }
+
+  @include mq(laptop) {
+
+  }
+}
+
+.vimeo__player {
+  position: absolute;
+  width: 99%;
+  height: 99%;
+
+  @include mq(tabletl) {
+    top:8%;
+    right:3%;
+  }
+
+  @include mq(laptop) {
+    top:7%;
+    right:3%;
+  }
+
+  @include mq(desktop) {
+    top:4%;
+    right:4%;
+  }
+}
+
 .where-to-go {
   padding: 0 5%;
 

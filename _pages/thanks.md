@@ -2,8 +2,8 @@
 title: Thank you
 subtitle: Your message was sent successfully.
 description:
-featured_image: /images/generic.jpg
+featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/wayfaringuniverse.jpg'
 sitemap: false
 ---
 
-![](/images/generic.jpg)
+![]({{site.data.settings.basic_settings.cdn_url}}/thumbnails/wayfaringuniverse.jpg)

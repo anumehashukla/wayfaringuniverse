@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Wayfaring Universe
-  favicon_image: /images/favicon.png
+  favicon_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/favicon.png'
   cdn_url: 'https://wayfaringuniversecdn.azureedge.net/image-container'
 
 header_settings:
