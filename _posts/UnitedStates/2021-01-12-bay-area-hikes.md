@@ -1,7 +1,7 @@
 ---
-title: ' Bay Area Hikes in times of Covid'
+title: 'Bay Area Hikes in times of Covid'
 date: 2021-01-12 09:00:00
-description: A collection of bay area hikes with some trips and tricks about them based on our hiking experience during the pandemic.
+description: A collection of bay area hikes with some tips and tricks about them based on our hiking experience during the pandemic.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: unitedstates
 ---
@@ -30,7 +30,7 @@ So if you just want to get out and move, here are some good options. I have comp
 <br>
 
 1. [Tomales Point Trail ](https://www.alltrails.com/trail/us/california/tomales-point-trail)*- 10 mile*
-<br>10 miles out and back trail, no shade. One of the best trails we did this year. Excellent hike! Lots of Elks, amazing views at the end and all throughout. We encountered a snake as well and saw one of the coolest sunsets ever.
+<br>10 miles out and back trail, no shade. One of the best trails we did this year. Excellent hike! Lots of Elks, amazing views at the end and throughout. We encountered a snake as well and saw one of the coolest sunsets ever.
 I highly recommend this one!!
 <br>
 <br>
@@ -44,31 +44,31 @@ I highly recommend this one!!
 <br>
 4. [Rodeo Valley Loop and Slacker Hill ](https://www.alltrails.com/trail/us/california/rodeo-valley-loop-and-slacker-hill)*- 6.2 mile*
 <br> 6.2 miles moderate hike, gradual elevation gain, no shade. Black Sands Beach via Julian Trail and this trail share the same trailhead. Also, this is a loop, so you can start from some other trailhead. 5 years of living in the bay area and not been to Slacker hill, I know that's embarrassing. :)
-<br>The viewpoint is super amazing, with awesome views of the GGB, city, ocean and the bay. A must do! Just avoid weekends.
+<br>The viewpoint is super amazing, with awesome views of the GGB, city, ocean and the bay. A must-do! Just avoid weekends.
 <br>
 <br>
-5. [Fordyce Falls Via Spaulding Lake Trail ](https://www.alltrails.com/explore/trail/us/california/fordyce-falls-via-spaulding-lake-trail)*- 11 mile*
-<br>11 mile moderate hike. I think it's rated moderate only because of the distance. Please download some offline maps or read the map before heading to this trail. The trail is not even marked in google maps.
+5. [Fordyce Falls Via Spaulding Lake Trail ](https://www.alltrails.com/explore/trail/us/california/fordyce-falls-via-spaulding-lake-trail)*- 11 miles*
+<br>11 mile moderate hike. I think it's rated moderate only because of the distance. Please download some offline maps or read the map before heading to this trail. The trail is not even marked on google maps.
 <br>
 <br>
 6. [Point Lobos Loop Trail ](https://www.alltrails.com/trail/us/california/point-lobos-loop-trail)*- 6.7 mile*
-<br>6.7 miles easy hike, gorgeous views, specially the pelican area. Since this is a loop, you can start from anywhere, there are multiple parking lots. A tiny section of the trail was closed for restoration.
+<br>6.7 miles easy hike, gorgeous views, especially the pelican area. Since this is a loop, you can start from anywhere, there are multiple parking lots. A tiny section of the trail was closed for restoration.
 <br>
 <br>
 7. [Almaden Quicksilver McAbee Mine Trail New Almaden Trail ](https://www.alltrails.com/trail/us/california/almaden-quicksilver-mcabee-mine-trail-new-almaden-trail) *- 9.5 mile*
-<br>9.5 mile easy trail. Usually, it is heavily trafficked, so we did it on a weekday. Also, there was a warning of a mountain lion at the trailhead. There were many people on the trails not wearing masks or making any effort to distance, specially the runners.
+<br>9.5 mile easy trail. Usually, it is heavily trafficked, so we did it on a weekday. Also, there was a warning of a mountain lion at the trailhead. Many people on the trails were not wearing masks or making any effort to distance themselves, especially the runners.
 <br>
 <br>
 8. [Old Springs, Miwok, Wolf Ridge, Coastal and Tennessee Valley Loop ](https://www.alltrails.com/trail/us/california/old-springs-miwok-wolf-ridge-coastal-and-tennessee-valley-loop)*- 4.9 mile*
-<br>4.9 miles, almost no shade. This trail and Tennessee Valley trail share the same trailhead. We did this hike on a weekday, though it is not a popular trail but the parking lot was almost full around 6:00 pm when we reached. I guess most of the traffic was for Tennessee Beach and other hikes that start from this trailhead. We only came across a handful of people on the trail. If you are looking for a less crowded hike on a weekday, I would certainly suggest this one.
+<br>4.9 miles, almost no shade. This trail and the Tennessee Valley trail share the same trailhead. We did this hike on a weekday, though it is not a popular trail but the parking lot was almost full around 6:00 pm when we reached. I guess most of the traffic was for Tennessee Beach and other hikes that start from this trailhead. We only came across a handful of people on the trail. If you are looking for a less crowded hike on a weekday, I would certainly suggest this one.
 <br>
 <br>
 9. [McNee Ranch to Planet of the Apes ](https://www.alltrails.com/trail/us/california/mcnee-ranch-to-planet-of-the-apes)*- 5.8 mile*
 <br>Nice hike! Mostly not shaded. A couple of steep sections. I would suggest wearing proper footwear since coming down could be a problem. Very limited parking at the trailhead on Highway 1, could only fit about six cars or so. But you can always park at the Montara State Beach parking, which is just .2 miles from the trailhead. Alltrails shows an inaccurate distance of 4.8miles. Did it counterclockwise and it happened to be around 5.8 miles (moderately difficult counterclockwise)
 <br>
 <br>
-10. [Lake Chabot: West Shore, Bass Cove, Columbine, Honker Bay, East Shore Loop ](https://www.alltrails.com/explore/trail/us/california/lake-chabot-west-shore-bass-cove-columbine-honker-bay-east-shore-loop)*- 9.3 mile*
-<br>9.3ish mile trail around the lake. Most of the section is paved and broad making it easier to maintain social distancing. Since it is a heavily trafficked trail, we did it on a weekday and it wasn't crowded.
+10. [Lake Chabot: West Shore, Bass Cove, Columbine, Honker Bay, East Shore Loop ](https://www.alltrails.com/explore/trail/us/california/lake-chabot-west-shore-bass-cove-columbine-honker-bay-east-shore-loop)*- 9.3 miles*
+<br>9.3ish mile trail around the lake. Most of the section is paved and broad, making it easier to maintain social distancing. Since it is a heavily trafficked trail, we did it on a weekday and it wasn't crowded.
 <br>
 <br>
 11. [Mount Tamalpais Middle Peak Loop Trail ](https://www.alltrails.com/explore/trail/us/california/mount-tamalpais-middle-peak-loop-trail)*- 5.3 mile*
@@ -88,19 +88,19 @@ I highly recommend this one!!
 <br>
 <br>
 15. [King Canyon Loop Trail ](https://www.alltrails.com/trail/us/california/kings-canyon-loop-trail)*- 7.3 mile*
-<br>Alltrails shows 6.4 miles, but I recorded 7.32 miles on alltrails and 7.1 on my watch, so I am not sure how much it would be, but definitely more than 6.4. It was quite empty considering we did it on Sunday afternoon, it was overcast that day. So probably clouds and cold was the reason we came across very few people.
+<br>Alltrails shows 6.4 miles, but I recorded 7.32 miles on alltrails and 7.1 on my watch, so I am not sure how much it would be, but definitely more than 6.4. It was quite empty considering we did it on Sunday afternoon, it was overcast that day. So probably clouds and cold were the reason we came across very few people.
 <br>
 <br>
 16. [Sawyer Camp Trail: San Andreas Lake to Lower Crystal Springs Reservoir ](https://www.alltrails.com/trail/us/california/sawyer-camp-trail-san-andreas-lake-to-lower-crystal-springs-reservoir)*- 6 mile*
 <br>6 miles easy walk. Not much crowded on a weekday, a lot of bikers though. Awesome views of San Andreas Lake.
 <br>
 <br>
-17. [Hazelnut Trail and Weiler Ranch Loop ](https://www.alltrails.com/explore/trail/us/california/hazelnut-trail-and-weiler-ranch-loop)*- 4.7 mile*
+17. [Hazelnut Trail and Weiler Ranch Loop ](https://www.alltrails.com/explore/trail/us/california/hazelnut-trail-and-weiler-ranch-loop)*- 4.7 miles*
 <br> 4.7 mile moderate hike, partially shaded. Since it was a one-way trail, didn’t encounter a lot of people. The park gate closes at sunset, so you could park outside on the street. Warning of a mountain lion at the trailhead.
 <br>
 <br>
 18. [Saddle Loop Trail ](https://www.alltrails.com/trail/us/california/saddle-loop-trail)*- 3 mile*
-<br>3 miles easy trail,partly shaded. Stunning around sunset! Gorgeous views of the SF skyline and the bay!
+<br>3 miles easy trail, partly shaded. Stunning around sunset! Gorgeous views of the SF skyline and the bay!
 <br>
 <br>
 19. [Cogswell Marsh Trail ](https://www.alltrails.com/trail/us/california/cogswell-marsh-hayward-regional-shoreline)*- 6 mile*
@@ -121,19 +121,19 @@ I highly recommend this one!!
 <br>
 <br>
 23. [Black Sands Beach via Julian Trail ](https://www.alltrails.com/explore/trail/us/california/black-sands-beach-via-julian-trail)*- 4.2 mile*
-<br>4.2 mile moderate hike in Marin Headlands, no shade. Steep at some spots, and need to climb down/up some stairs going to the beach. The black sand beach is gorgeous. Rodeo Valley Loop and Slacker Hill and this trail share the same trailhead. Did it on a weekday so wasn't much crowded. A must visit.
+<br>4.2 mile moderate hike in Marin Headlands, no shade. Steep at some spots and you need to climb down/up some stairs going to the beach. The black sand beach is gorgeous. Rodeo Valley Loop and Slacker Hill and this trail share the same trailhead. Did it on a weekday so wasn't much crowded. A must-visit.
 <br>
 <br>
 24. [Sweeney Ridge ](https://www.alltrails.com/trail/us/california/sweeney-ridge--2?ref=result-card)*- 5 mile*
-<br>5 mile easy hike, paved, no shade. My favourite hike this year. It was so amazing to see fog flowing in when we reached the ridge. It was one o the best sunsets this year. Do it around sunset when there is fog.
+<br>5 mile easy hike, paved, no shade. My favorite hike this year. It was so amazing to see fog flowing in when we reached the ridge. It was one o the best sunsets this year. Do it around sunset when there is fog.
 <br>
 <br>
 25. [Baquiano Trail ](https://www.alltrails.com/trail/us/california/baquaiano-trail?ref=result-card)*- 3.4 mile*
-<br>3.4 miles roundtrip, no shade. This one also goes up to Sweeney ridge which is so beautiful during foggy evenings. One of my top ten hikes this year(only if there is fog:) )
+<br>3.4 miles roundtrip, no shade. This one also goes up to Sweeney ridge, which is so beautiful during foggy evenings. One of my top ten hikes this year(only if there is fog:) )
 <br>
 <br>
 26. [Sweeney Ridge Trail via Mori Ridge ](https://www.alltrails.com/trail/us/california/sweeney-ridge-trail-via-mori-ridge)*- 5 mile*
-<br>5 mile moderate hike in Pacifica. The first mile is quite a killer, specially hurts your knees so bad while coming down. All three trails join the Sweeney Ridge and the views are spectacular, ocean on one side and bay on the other.
+<br>5 mile moderate hike in Pacifica. The first mile is quite a killer, particularly hurts your knees so bad while coming down. All three trails join the Sweeney Ridge and the views are spectacular, ocean on one side and bay on the other.
 <br>
 <br>
 27. [Cooley Landing Trail ](https://www.alltrails.com/explore/trail/us/california/cooley-landing-trail)*- 3.2 mile*
@@ -145,15 +145,15 @@ I highly recommend this one!!
 <br>
 <br>
 29. [Clarkia, Sunset, Live Oak and Serpentine Loop ](https://www.alltrails.com/explore/trail/us/california/clarkia-sunset-live-oak-and-serpentine-loop)*- 3 mile*
-<br> 3 mile roundtrip, no special views, just if you want a nature walk without the crowds. There is no designated parking, but you can park by the side of the road.
+<br> 3 mile roundtrip, no spectacular views, just if you want a nature walk without the crowds. There is no designated parking, but you can park by the side of the road.
 <br>
 <br>
 30. [East Shore, Ridgeline, East Ridge Loop ](https://www.alltrails.com/trail/us/california/east-shore-ridgeline-east-ridge-loop)*- 5.3 mile*
-<br>5.3 mile easy hike, beautiful views of Lake Del Valle, lightly trafficked, almost no shade. It was so quiet and peaceful!
+<br>5.3 mile easy hike, lightly trafficked, almost no shade. Lovely views of Lake Del Valle, it was so quiet and peaceful!
 <br>
 <br>
 31. [Tennessee Valley Trail ](https://www.alltrails.com/trail/us/california/tennessee-valley-trail)*- 3.6 mile*
-<br> 3.6 mile easy walk, almost no shade. Super heavily trafficked. Initially, we had planned for another trail that day but I guess we got late to reach the trailhead and were turned away by the park ranger. So we did Tennessee Valley on a Saturday evening. Although the beach was very beautiful at sunset, it was very crowded. We intend to go there again after the pandemic. But if you could, please avoid this one for the time being.
+<br> 3.6 mile easy walk, almost no shade. Super heavily trafficked. Initially, we had planned for another trail that day, but I guess we got late to reach the trailhead and were turned away by the park ranger. So we did Tennessee Valley on a Saturday evening. Although the beach was stunning at sunset, it was way too crowded. We intend to go there again after the pandemic. But if you could, please avoid this one for the time being.
 <br>
 <br>
 32. [San Francisco Bay Trail Loop San Leandro ](https://www.alltrails.com/trail/us/california/san-francisco-bay-trail-loop--3)*- 3 mile*
@@ -161,11 +161,11 @@ I highly recommend this one!!
 <br>
 <br>
 33. [Los Trancos Trail Loop ](https://www.alltrails.com/trail/us/california/los-trancos-trail-loop)*- 7.7 mile*
-<br>7.7 miles easy hike, great for forest bathing. I just loved it, the smell of the tress after the rains, it was heavenly. Pretty gradual elevation gain. The best thing was it was one way due to Covid making it pretty safe to hike and without worrying about crossing anyone.
+<br>7.7 miles easy hike, great for forest bathing. I just loved it, the smell of the trees after the rains, it was heavenly. Pretty gradual elevation gain. The best thing was it was one way due to Covid making it pretty safe to hike and without worrying about crossing anyone.
 <br>
 <br>
 34. [Alta Trail ](https://www.alltrails.com/trail/us/california/alta-trail--2)*- 4.9 mile*
-<br>4.9 miles very easy trail, great views of Sausalito, Bay and the Ocean. Do it around sunset.
+<br>4.9 miles easy trail, great views of Sausalito, Bay and the Ocean. Do it around sunset.
 <br>
 <br>
 35. [Ring Mountain Fire Road ](https://www.alltrails.com/trail/us/california/ring-mountain-fire-road)*- 4.7 mile*
@@ -177,11 +177,11 @@ I highly recommend this one!!
 <br>
 <br>
 37. [Bullhead Flat to Back Ranch Meadows Campground via Shoreline Trail ](https://www.alltrails.com/explore/trail/us/california/bullhead-flat-to-back-ranch-meadows-campground-via-shoreline-trail)*- 8.2 mile*
-<br>8.2 miles easy out & back hike. Awesome views of the bay. There is a $3 fee for hikers/runners and $5 for a car park. Although there is limited parking at the vistor station but there are plently of spots on the side of the road. Mainly this trail is used by the bikers and sadly most of them were not wearing masks. Since the trails is narrow, we ended up stepping off the trail quite a bit( I mean really every 10 steps) to make room for these unmasked bikers.
+<br>8.2 miles easy out & back hike. Awesome views of the bay. There is a $3 fee for hikers/runners and a $5 for a car park. Although there is limited parking at the vistor station but there are plently of spots on the side of the road. Mainly this trail is used by the bikers and sadly most of them were not wearing masks. Since the trails is narrow, we ended up stepping off the trail quite a bit( I mean every 10 steps) to make room for these unmasked bikers.
 <br>
 <br>
 38. [Milagra Overlook Trail ](https://www.alltrails.com/explore/trail/us/california/milagra-overlook-trail)*- 2.8 mile*
-<br>2.8 mile easy roundtrip trail. A few steep sections. We started it from the Connemara dr parking lot instead of Sharp Park Road trailhead. Parking is very limited at both the trailheads. It was beautiful at sunset, you get sweeping views of the Ocean and Pacifica. We came across only 4-5 people.
+<br>2.8 mile easy roundtrip trail. A few steep sections. We started it from the Connemara dr parking lot instead of Sharp Park Road trailhead. Parking is minimal at both the trailheads. It was beautiful at sunset, you get sweeping views of the Ocean and Pacifica. We came across only 4-5 people.
 <br>
 <br>
 39. [Newark Slough Trail ](https://www.alltrails.com/trail/us/california/don-edwards-san-francisco-bay-national-wildlife-refuge-newark-slough-trail)*- 6.5 mile*
@@ -201,11 +201,11 @@ I highly recommend this one!!
 <br>
 <br>
 43. [Philosopher's Way ](https://www.alltrails.com/explore/trail/us/california/philosophers-way)*- 2.9 mile*
-<br>The Philosopher's Way or walk is shaped after a similar designed walking paths in Japan, Germany and Canada. There are stations or musings placed at some intervals not to just show you the way but they are a point to pause and reflect on mind, body ans soul in conjunction with the natural surrounding.
+<br>The Philosopher's Way or walk is shaped after similar designed walking paths in Japan, Germany, and Canada. There are stations or musings placed at some intervals not just to show you the way but they are a point to pause and reflect on mind, body and soul in conjunction with the natural surrounding.
 <br>
 <br>
 44. [Ecology Trail and Lovers' Lane Loop ](https://www.alltrails.com/trail/us/california/ecology-trail-and-lovers-lane-loop)*- 2 mile*
-<br> 2 mile trail in Presidio. It was a mistake to go on this one, it the most crowded trail of the year.
+<br> 2 mile trail in Presidio. It was a mistake to go on this one, it was the most crowded trail of the year.
 <br>
 <br>
 <br>
@@ -215,29 +215,35 @@ I highly recommend this one!!
 
 
 45. [Lake Merced Loop ](https://www.alltrails.com/trail/us/california/lake-merced-loop)*- 4.5 mile, Elevation Gain 127 ft*
-<br>Heavily trafficked, easy walk. There are several parking lots, since it's a loop, you can start from anywhere. I wouldn’t recommend it, a lot of people without masks! (did it on a weekday)
+<br>Heavily trafficked, easy walk. There are several parking lots since it's a loop, you can start from anywhere. I wouldn’t recommend it, a lot of people without masks! (did it on a weekday)
 <br>
 <br>
 46. [Bon Tempe and Lagunitas Lakes Trail ](https://www.alltrails.com/explore/trail/us/california/bon-tempe-and-lagunitas-lakes-trail)*- 6 mile, Elevation Gain 505 ft*
-<br>Easy trail, partially shaded. It is more than 6 miles; alltrails inaccurately lists it as 5.5 miles. Again since it's a loop, you can start from anywhere. There are three parking lots. There is a parking fee of $8. We did it on a Sunday afternoon, and the parking lots were full. We thought it's going to be crowded. But apparently, most of the people were there for fishing, very few people hiking. The lakes are beautiful, it's a must-do!!
+<br>Easy trail, partially shaded. It is more than 6 miles; alltrails inaccurately list it as 5.5 miles. Again since it's a loop, you can start from anywhere. There are three parking lots. There is a parking fee of $8. We did it on a Sunday afternoon, and the parking lots were full. We thought it's going to be crowded. But apparently, most of the people were there for fishing, very few people hiking. The lakes are beautiful, it's a must-do!!
 <br>
 <br>
-47. [Point Pinole Trail ](https://www.alltrails.com/trail/us/california/point-pinole-cooks-point-marsh-owl-alley-china-cove-pinole-point-and-bay-view-trails)*- 4.2 mile, Elevation Gain 177 ft*
-<br>4.2 miles lightly trafficked. It's a beautiful walk in the woods & by the bay (yep, you get both the worlds). Came across very few people, great view of the bay! There is a nice pier as well!
+47. [Montara Mountain Trail ](https://www.alltrails.com/trail/us/california/montara-mountain-trail--3)*- 7 mile, Elevation Gain 1,677 ft*
+<br>Moderate trail, partially shaded. The ascent is pretty gradual. I was very surprised that we started around 8:00 am on a Sunday, and still, we met very few people on the trail. The views are impressive; you get to see both - the bay and the ocean. I recommend it; the sun could be really harsh later in the day, so either plan for early morning or late afternoon.
 <br>
 <br>
-48. [Rodeo Beach Coastal Trail Loop ](https://www.alltrails.com/trail/us/california/rodeo-beach-coastal-trail-loop)*- 5.1 mile, Elevation Gain 1,030 ft*
+48. [Point Pinole Trail ](https://www.alltrails.com/trail/us/california/point-pinole-cooks-point-marsh-owl-alley-china-cove-pinole-point-and-bay-view-trails)*- 4.2 mile, Elevation Gain 177 ft*
+<br>4.2 miles lightly trafficked. It's a beautiful walk in the woods & by the bay (yep, you get both the worlds). Came across very few people with great views of the bay! There is a nice pier as well!
+<br>
+<br>
+49. [Rodeo Beach Coastal Trail Loop ](https://www.alltrails.com/trail/us/california/rodeo-beach-coastal-trail-loop)*- 5.1 mile, Elevation Gain 1,030 ft*
 <br>Moderate trail, no shade. Panoramic views of the Ocean and Rodeo Beach! There are a couple of steep sections, but manageable. We did it on a Sunday afternoon; surprisingly, the trail was quite empty despite the beach being too crowded. The parking lot is huge, and we easily got a spot. And most of the people were wearing masks!
 <br>
 <br>
-49. [Kirby Cove ](https://www.alltrails.com/trail/us/california/kirby-cove)*- 3 mile, Elevation Gain 561 ft*
-<br>3 mile easy trail, not shaded. The views are gorgeous. Although it is a heavily trafficked trail, but if you plan to go on a weekday, it shouldn't be that bad. We did it on a Wednesday evening, didn't come across a single person. Plenty of parking at the trailhead.
+50. [Kirby Cove ](https://www.alltrails.com/trail/us/california/kirby-cove)*- 3 mile, Elevation Gain 561 ft*
+<br>3 mile easy trail, not shaded. The views are gorgeous. Although it is a heavily trafficked trail, it shouldn't be that bad if you plan to go on a weekday. We did it on a Wednesday evening, didn't come across a single person. Plenty of parking at the trailhead.
 <br>
 <br>
-50. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elevation Gain 43 ft*
+51. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elevation Gain 43 ft*
 <br>Easy walk, not shaded. Very few people, lots of birds. Do it around sunset.
 <br>
 <br>
+
+
 
 
 
