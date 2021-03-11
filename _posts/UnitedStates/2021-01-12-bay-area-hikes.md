@@ -238,7 +238,11 @@ I highly recommend this one!!
 <br>3 mile easy trail, not shaded. The views are gorgeous. Although it is a heavily trafficked trail, it shouldn't be that bad if you plan to go on a weekday. We did it on a Wednesday evening, didn't come across a single person. Plenty of parking at the trailhead.
 <br>
 <br>
-51. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elevation Gain 43 ft*
+51. [Nora Trail ](https://www.alltrails.com/trail/us/california/nora-trail)*- 4 mile, Elevation Gain 800 ft*
+<br>Moderate trail, shaded. Pretty awesome!! Hardly any people on the trail. We did it on Sunday evening and was easy to find parking. It was around 4 miles and more than 800 ft of elevation gain (alltrails has different stats). So plan accordingly.
+<br>
+<br>
+52. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elevation Gain 43 ft*
 <br>Easy walk, not shaded. Very few people, lots of birds. Do it around sunset.
 <br>
 <br>
