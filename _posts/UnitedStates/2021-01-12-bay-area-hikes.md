@@ -1,6 +1,6 @@
 ---
 title: 'Bay Area Hikes in times of Covid'
-date: 2021-01-12 09:00:00
+date: 2021-03-17 09:00:00
 description: A collection of bay area hikes with some tips and tricks about them based on our hiking experience during the pandemic.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: unitedstates
@@ -214,12 +214,13 @@ I highly recommend this one!!
 ## 2021
 
 
-45. [Lake Merced Loop ](https://www.alltrails.com/trail/us/california/lake-merced-loop)*- 4.5 mile, Elevation Gain 127 ft*
-<br>Heavily trafficked, easy walk. There are several parking lots since it's a loop, you can start from anywhere. I wouldn’t recommend it, a lot of people without masks! (did it on a weekday)
-<br>
-<br>
-46. [Bon Tempe and Lagunitas Lakes Trail ](https://www.alltrails.com/explore/trail/us/california/bon-tempe-and-lagunitas-lakes-trail)*- 6 mile, Elevation Gain 505 ft*
+45. [Bon Tempe and Lagunitas Lakes Trail ](https://www.alltrails.com/explore/trail/us/california/bon-tempe-and-lagunitas-lakes-trail)*- 6 mile, Elevation Gain 505 ft*
 <br>Easy trail, partially shaded. It is more than 6 miles; alltrails inaccurately list it as 5.5 miles. Again since it's a loop, you can start from anywhere. There are three parking lots. There is a parking fee of $8. We did it on a Sunday afternoon, and the parking lots were full. We thought it's going to be crowded. But apparently, most of the people were there for fishing, very few people hiking. The lakes are beautiful, it's a must-do!!
+<br>
+<br>
+46. [Mount Diablo Grand Loop Trail ](https://www.alltrails.com/trail/us/california/mount-diablo-grand-loop)*- 7 mile, Elevation Gain 2,000 ft*
+<br>It's a challenging hike with lots of elevation. Begins downhill, then a constant exhausting climb to the Mt Diablo summit. Could be very narrow at certain spots. We did it clockwise on a Sunday evening, there were hardly any people. Parking was easily available at the Diablo Valley Overlook. The views were gorgeous. We made it just in time to catch a fantastic sunset from the summit.<br>
+Must do!
 <br>
 <br>
 47. [Montara Mountain Trail ](https://www.alltrails.com/trail/us/california/montara-mountain-trail--3)*- 7 mile, Elevation Gain 1,677 ft*
@@ -242,13 +243,19 @@ I highly recommend this one!!
 <br>Moderate trail, shaded. Pretty awesome!! Hardly any people on the trail. We did it on Sunday evening and was easy to find parking. It was around 4 miles and more than 800 ft of elevation gain (alltrails has different stats). So plan accordingly.
 <br>
 <br>
-52. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elevation Gain 43 ft*
+52. [Fort Point - Baker Beach Coast Trail ](https://www.alltrails.com/trail/us/california/fort-point-baker-beach-coast-trail)*- 4 mile, Elevation Gain 800 ft*
+<br>Easy trail, not shaded. Lots of stairs, the views are amazing. It was pretty crowded for a tuesday evening.
+Ninenty percent of the people were unmasked. So avoid it until the Covid ends.
+<br>
+<br>
+53. [Lake Merced Loop ](https://www.alltrails.com/trail/us/california/lake-merced-loop)*- 4.5 mile, Elevation Gain 127 ft*
+<br>Heavily trafficked, easy walk. There are several parking lots since it's a loop, you can start from anywhere. I wouldn’t recommend it, a lot of people without masks! (did it on a weekday)
+<br>
+<br>
+54. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elevation Gain 43 ft*
 <br>Easy walk, not shaded. Very few people, lots of birds. Do it around sunset.
 <br>
 <br>
-
-
-
 
 
 

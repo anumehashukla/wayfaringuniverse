@@ -1,6 +1,6 @@
 ---
 title: 'The Atacama Giant'
-date: 2021-01-12 11:12:00
+date: 2021-03-17 11:12:00
 description: 2019 had been a year of geoglyphs for us, the mighty Nazca lines in July, Blythe in November, and then the most intriguing geoglyphs of the Atacama desert in December.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/chile/atacamagiant.jpg'
 categories: chile
@@ -38,7 +38,7 @@ It is 92 km North-East of Iquique and lies 250 km south of Arica. Both cities ha
 
 <center class="image-caption"><i>Entrance</i></center><br>
 
-<b>In my opinion, there is no need to take a guided tour at all.</b> Just rent a car, and you are all set. We faced no problem reaching there. Google maps is off by a Kilometer and takes you a little ahead; otherwise, the driving directions are pretty straightforward.
+<b>In my opinion, there is no need to take a guided tour at all.</b> Just rent a car, and you are all set. We faced no problem at all reaching there. Google maps is off by a Kilometer and takes you a little ahead; otherwise, the driving directions are pretty straightforward.
 <br><br>
 
 Also, visit the 'Geoglifos de pintados' and 'Geoglyphs of Tiliviche' if you are in the area.
