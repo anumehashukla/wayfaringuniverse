@@ -1,6 +1,6 @@
 ---
 title: 'Bay Area Hikes in times of Covid'
-date: 2021-03-17 09:00:00
+date: 2021-03-22 09:00:00
 description: A collection of bay area hikes with some tips and tricks about them based on our hiking experience during the pandemic.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: unitedstates
@@ -25,8 +25,12 @@ There are few things that I noticed while hiking these trails which might help a
 
 So if you just want to get out and move, here are some good options. I have compiled all the hikes we did, with their details, links to Alltrails. <br><br>
 
-*[See on map](/unitedstates/bay-area-hikes#trailheadsMap){: .js-no-ajax}*
-<br>
+
+*Expand the Legend on the left for trailhead details*
+{: id="trailheadsMap"}
+<p class="responsive-iframe-container">
+  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1B66udruawoYj9ZbjHlQEP8OstAR0J2kn" width="640" height="480"></iframe>
+</p>
 <br>
 
 1. [Tomales Point Trail ](https://www.alltrails.com/trail/us/california/tomales-point-trail)*- 10 mile*
@@ -38,7 +42,7 @@ I highly recommend this one!!
 <br>It's a 13 mile moderately hard trail with lots of shade. Great workout hike. Took us 4hrs 13 mins to complete it. Make sure to have some snacks & enough water, it's a strenuous hike. Also, have the trail map handy because if you get lost or take some detour, it will add more miles and time and only make it harder.
 <br>
 <br>
-[3. Fall Creek and Lost Empire Trail Loop ](https://www.alltrails.com/trail/us/california/fall-creek)*- 11 mile*
+3. [Fall Creek and Lost Empire Trail Loop ](https://www.alltrails.com/trail/us/california/fall-creek)*- 11 mile*
 <br>11 mile hard trail, lots of shade. I felt this was harder than the Berry Creek Falls trail, although it is marked 'moderate' on alltrails. Again carry plenty of water and food, and download an offline map.
 <br>
 <br>
@@ -239,29 +243,33 @@ Must do!
 <br>3 mile easy trail, not shaded. The views are gorgeous. Although it is a heavily trafficked trail, it shouldn't be that bad if you plan to go on a weekday. We did it on a Wednesday evening, didn't come across a single person. Plenty of parking at the trailhead.
 <br>
 <br>
-51. [Nora Trail ](https://www.alltrails.com/trail/us/california/nora-trail)*- 4 mile, Elevation Gain 800 ft*
+51. [Eagle Peak Loop ](https://www.alltrails.com/trail/us/california/eagle-peak-loop)*- 8.4 mile, Elevation Gain 2,200 ft*
+<br>Moderately hard trail with partial shade. Did it counterclockwise, the ascent was gradual, but the downhill section was pretty bad. A couple of very steep sections and loose gravel, I wish we had hiking poles. It was tough on knees. The first 3 miles of the hike are shaded. We started around 4:00 pm, and it took us around 3hrs 40 mins to finish it. We only encountered only a handful of people at trailhead, so it was just us on the trail.
+There is a parking fee of $6 at the entrance. Please carry a pen and some cash, since you have to do self-registration.
+<br>
+<br>
+52. [Nora Trail ](https://www.alltrails.com/trail/us/california/nora-trail)*- 4 mile, Elevation Gain 800 ft*
 <br>Moderate trail, shaded. Pretty awesome!! Hardly any people on the trail. We did it on Sunday evening and was easy to find parking. It was around 4 miles and more than 800 ft of elevation gain (alltrails has different stats). So plan accordingly.
 <br>
 <br>
-52. [Fort Point - Baker Beach Coast Trail ](https://www.alltrails.com/trail/us/california/fort-point-baker-beach-coast-trail)*- 4 mile, Elevation Gain 800 ft*
+53. [Fort Point - Baker Beach Coast Trail ](https://www.alltrails.com/trail/us/california/fort-point-baker-beach-coast-trail)*- 4 mile, Elevation Gain 800 ft*
 <br>Easy trail, not shaded. Lots of stairs, the views are amazing. It was pretty crowded for a tuesday evening.
 Ninenty percent of the people were unmasked. So avoid it until the Covid ends.
 <br>
 <br>
-53. [Lake Merced Loop ](https://www.alltrails.com/trail/us/california/lake-merced-loop)*- 4.5 mile, Elevation Gain 127 ft*
+54. [Round Top, Volcanic and Skyline Trail Loop  ](https://www.alltrails.com/trail/us/california/round-top-volcanic-and-skyline-trail-loop)*- 3.8 mile, Elevation Gain 554 ft*
+<br>Easy hike, mostly shaded. It was flooded at a few spots otherwise a great trail. Did it on Saturday evening, parking was easily available.
+<br>
+<br>
+55. [Lake Merced Loop ](https://www.alltrails.com/trail/us/california/lake-merced-loop)*- 4.5 mile, Elevation Gain 127 ft*
 <br>Heavily trafficked, easy walk. There are several parking lots since it's a loop, you can start from anywhere. I wouldn’t recommend it, a lot of people without masks! (did it on a weekday)
 <br>
 <br>
-54. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elevation Gain 43 ft*
+56. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elevation Gain 43 ft*
 <br>Easy walk, not shaded. Very few people, lots of birds. Do it around sunset.
 <br>
 <br>
 
-
-
-*Expand the Legend on the left for trailhead*
-{: id="trailheadsMap"}
-<p class="responsive-iframe-container">
-  <iframe class="responsive-iframe" src="https://www.google.com/maps/d/embed?mid=1B66udruawoYj9ZbjHlQEP8OstAR0J2kn" width="640" height="480"></iframe>
-</p>
+*[See on map](/unitedstates/bay-area-hikes#trailheadsMap){: .js-no-ajax}*
+<br>
 <br>
