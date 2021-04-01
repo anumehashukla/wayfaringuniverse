@@ -1,13 +1,13 @@
 ---
 title: '10 hot springs not to miss in Yellowstone'
-date: 2021-01-12 10:00:00
+date: 2021-04-01 10:00:00
 description: A lot of people plan their trip to Yellowstone in the offseason or shoulder season, which absolutely has its charms and appeal. Yellowstone is such a unique place that it offers so much, no matter when you visit. But if it is your first trip there, I would recommend going in summer, preferably on sunny days to enjoy those vibrant colors.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/yellowstoneSpringsthumbnail.jpg'
 categories: unitedstates
 ---
 A lot of people plan their trip to Yellowstone in the winters or shoulder season, which absolutely has its charms and appeal. Yellowstone is such a unique place that it offers so much, no matter when you visit. But if it is your first trip there, I would recommend going in summer, preferably on sunny days to enjoy those vibrant colors.
 
-What colors you will see essentially depends on what time of the day you are visiting. Keep this in my mind whenever you are planning a trip to Yellowstone. Usually, the springs display their best colors at midday when their depths are fully lighted, and there are no shadows and, of course, when it is sunny. Also, the amount of steam rising is at its lowest. **This is Yellowstone 101 - you want the best views - choose a sunny day.**
+What colors you will see essentially depends on what time of the day you are visiting. Keep this in my mind whenever you are planning a trip to Yellowstone. Usually, the springs display their best colors at midday when their depths are fully lighted, and there are no shadows and, of course, when it is sunny. Also, the amount of steam rising is at its lowest. **This is Yellowstone 101 - if you want the best views - choose a sunny day.**
 
 However, if it is not at all possible to plan a longer trip (doing all the pools, geysers, etc. will take a long time) or during summers or don't have much time at hand, just shortlist your top 5 or 10 pools and make sure you visit them when there is full sunlight. I would say 12:00 pm to 4:00 pm is the best time to hit them up during summers.<br>
 
