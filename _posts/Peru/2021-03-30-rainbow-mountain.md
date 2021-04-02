@@ -66,7 +66,7 @@ We did it in July 2019, it was pretty chilly. But we were glad there was no wind
 ![]({{site.data.settings.basic_settings.cdn_url}}/peru/rainbowmountain/rainbowmountaintrail.jpg)
 <center class="image-caption"><i>Rainbow Mountain Trail</i></center>
 
-The photo does absolutely no justice to how steep this grade was. Initially, the trail was not bad in terms of grade, but further on, let's just say it was sick—everyone was gasping for air at 17000 ft above sea level. I guess it's the altitude that makes it really hard it might not feel that steep otherwise. Thanks to Carlos for pushing us all the way up.<br><br>
+The photo does absolutely no justice to how steep this grade was. Initially, the trail was not bad in terms of grade, but further on, let's just say it was sick—everyone was gasping for air at 17000 ft above sea level. I guess it's the altitude that makes it really hard it might not feel that steep otherwise. Thanks to Carlos for pushing us all the way up. **Please take altitude very seriously, it is almost the height of Everest Base camp.** Spend at least two days in Cusco before heading up there.<br><br>
 There is also an option of hiring a horse for about 90 soles for approximately 3 hours at the trailhead. You cannot book it in advance, it has to be done on the day of the hike. Also it is subject to availability. <br>I wouldn't recommend it since they do not take you up to the top. Even if you hire a horse, you would still have to hike the last steep section.
 
 :--------------------------------------------:|:--------------------------------------------:
