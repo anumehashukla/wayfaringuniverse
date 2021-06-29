@@ -1,6 +1,6 @@
 ---
 title: 'Bay Area Hikes in times of Covid'
-date: 2021-03-22 09:00:00
+date: 2021-06-23 09:00:00
 description: A collection of bay area hikes with some tips and tricks about them based on our hiking experience during the pandemic.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: unitedstates
@@ -218,55 +218,95 @@ I highly recommend this one!!
 ## 2021
 
 
-45. [Bon Tempe and Lagunitas Lakes Trail ](https://www.alltrails.com/explore/trail/us/california/bon-tempe-and-lagunitas-lakes-trail)*- 6 mile, Elevation Gain 505 ft*
+1. [Bon Tempe and Lagunitas Lakes Trail ](https://www.alltrails.com/explore/trail/us/california/bon-tempe-and-lagunitas-lakes-trail)*- 6 mile, Elevation Gain 505 ft*
 <br>Easy trail, partially shaded. It is more than 6 miles; alltrails inaccurately list it as 5.5 miles. Again since it's a loop, you can start from anywhere. There are three parking lots. There is a parking fee of $8. We did it on a Sunday afternoon, and the parking lots were full. We thought it's going to be crowded. But apparently, most of the people were there for fishing, very few people hiking. The lakes are beautiful, it's a must-do!!
 <br>
 <br>
-46. [Mount Diablo Grand Loop Trail ](https://www.alltrails.com/trail/us/california/mount-diablo-grand-loop)*- 7 mile, Elevation Gain 2,000 ft*
+2. [Mount Diablo Grand Loop Trail ](https://www.alltrails.com/trail/us/california/mount-diablo-grand-loop)*- 7 mile, Elevation Gain 2,000 ft*
 <br>It's a challenging hike with lots of elevation. Begins downhill, then a constant exhausting climb to the Mt Diablo summit. Could be very narrow at certain spots. We did it clockwise on a Sunday evening, there were hardly any people. Parking was easily available at the Diablo Valley Overlook. The views were gorgeous. We made it just in time to catch a fantastic sunset from the summit.<br>
 Must do!
 <br>
 <br>
-47. [Montara Mountain Trail ](https://www.alltrails.com/trail/us/california/montara-mountain-trail--3)*- 7 mile, Elevation Gain 1,677 ft*
+3. [Montara Mountain Trail ](https://www.alltrails.com/trail/us/california/montara-mountain-trail--3)*- 7 mile, Elevation Gain 1,677 ft*
 <br>Moderate trail, partially shaded. The ascent is pretty gradual. I was very surprised that we started around 8:00 am on a Sunday, and still, we met very few people on the trail. The views are impressive; you get to see both - the bay and the ocean. I recommend it; the sun could be really harsh later in the day, so either plan for early morning or late afternoon.
 <br>
 <br>
-48. [Point Pinole Trail ](https://www.alltrails.com/trail/us/california/point-pinole-cooks-point-marsh-owl-alley-china-cove-pinole-point-and-bay-view-trails)*- 4.2 mile, Elevation Gain 177 ft*
-<br>4.2 miles lightly trafficked. It's a beautiful walk in the woods & by the bay (yep, you get both the worlds). Came across very few people with great views of the bay! There is a nice pier as well!
-<br>
-<br>
-49. [Rodeo Beach Coastal Trail Loop ](https://www.alltrails.com/trail/us/california/rodeo-beach-coastal-trail-loop)*- 5.1 mile, Elevation Gain 1,030 ft*
-<br>Moderate trail, no shade. Panoramic views of the Ocean and Rodeo Beach! There are a couple of steep sections, but manageable. We did it on a Sunday afternoon; surprisingly, the trail was quite empty despite the beach being too crowded. The parking lot is huge, and we easily got a spot. And most of the people were wearing masks!
-<br>
-<br>
-50. [Kirby Cove ](https://www.alltrails.com/trail/us/california/kirby-cove)*- 3 mile, Elevation Gain 561 ft*
-<br>3 mile easy trail, not shaded. The views are gorgeous. Although it is a heavily trafficked trail, it shouldn't be that bad if you plan to go on a weekday. We did it on a Wednesday evening, didn't come across a single person. Plenty of parking at the trailhead.
-<br>
-<br>
-51. [Eagle Peak Loop ](https://www.alltrails.com/trail/us/california/eagle-peak-loop)*- 8.4 mile, Elevation Gain 2,200 ft*
-<br>Moderately hard trail with partial shade. Did it counterclockwise, the ascent was gradual, but the downhill section was pretty bad. A couple of very steep sections and loose gravel, I wish we had hiking poles. It was tough on knees. The first 3 miles of the hike are shaded. We started around 4:00 pm, and it took us around 3hrs 40 mins to finish it. We only encountered only a handful of people at trailhead, so it was just us on the trail.
+4. [Eagle Peak Loop ](https://www.alltrails.com/trail/us/california/eagle-peak-loop)*- 8.4 mile, Elevation Gain 2,200 ft*
+<br>Moderately hard trail with partial shade. Did it counterclockwise, the ascent was gradual, but the downhill section was pretty bad. A couple of very steep sections and loose gravel, I wish we had hiking poles. It was tough on knees. The first 3 miles of the hike are shaded. We started around 4:00 pm, and it took us around 3hrs 40 mins to finish it. We only encountered only a handful of people at the trailhead, so it was just us on the trail.
 There is a parking fee of $6 at the entrance. Please carry a pen and some cash, since you have to do self-registration.
 <br>
 <br>
-52. [Nora Trail ](https://www.alltrails.com/trail/us/california/nora-trail)*- 4 mile, Elevation Gain 800 ft*
+5. [Rodeo Beach, Coastal Trail, and Miwok Trail ](https://www.alltrails.com/trail/us/california/rodeo-beach-coastal-trail-and-miwok-trail)*- 5.3 mile, Elevation Gain 1,076 ft*
+<br>Moderate trail, no shade. Panoramic views of the Ocean and Rodeo Beach! There are a couple of steep sections, but manageable. We did it on a Sunday afternoon; surprisingly, the trail was quite empty despite the beach being too crowded. The parking lot is huge, and we easily got a spot.
+<br>
+<br>
+6. [Point Pinole Trail ](https://www.alltrails.com/trail/us/california/point-pinole-cooks-point-marsh-owl-alley-china-cove-pinole-point-and-bay-view-trails)*- 4.2 mile, Elevation Gain 177 ft*
+<br>4.2 miles lightly trafficked. It's a beautiful walk in the woods & by the bay (yep, you get both the worlds). Came across very few people with great views of the bay! There is a nice pier as well!
+<br>
+<br>
+7. [High Ridge Loop Trail ](https://www.alltrails.com/trail/us/california/high-ridge-loop-trail)*- 5.8 mile, Elevation Gain 1,223 ft*
+<br>Amazing views, it was overcast and very beautiful. Although I wouldn’t rate it as hard, it was more of a moderate trail.
+<br>
+<br>
+8. [Kirby Cove ](https://www.alltrails.com/trail/us/california/kirby-cove)*- 3 mile, Elevation Gain 561 ft*
+<br>3 mile easy trail, not shaded. The views are gorgeous. Although it is a heavily trafficked trail, it shouldn't be that bad if you plan to go on a weekday. We did it on a Wednesday evening, didn't come across a single person. Plenty of parking at the trailhead.
+<br>
+<br>
+9. [Purisima Creek to Grabtown Gulch to Borden Hatch Mill Loop ](https://www.alltrails.com/trail/us/california/puriisma-grabtown-gulch-borden-hatch-mill-loop)*- 6.5 mile, Elevation Gain 1,624 ft*
+<br>Moderate hike near Half moon bay with lots of shade, no crowds. So many Banana slugs on the trail. Parking spots are limited but we easily got one since we started around 4:00 pm.
+<br>
+<br>
+10. [Gerbode Valley Loop trail ](https://www.alltrails.com/trail/us/california/gerbode-valley-loop)*- 6.1 mile, Elevation Gain 1,100 ft*
+<br>Easy hike near Rodeo beach. The climb is gradual, but just be prepared for zero shade. We did it in the evening on a weekday, so there was no other car than ours at the trailhead. Weekends could be busier. Great trail with views of the Ocean, City, Bay, GGB, and Sausalito. The best thing about this trail was neither there were no steep ascents nor descents.
+<br>
+<br>
+11. [Nora Trail ](https://www.alltrails.com/trail/us/california/nora-trail)*- 4 mile, Elevation Gain 800 ft*
 <br>Moderate trail, shaded. Pretty awesome!! Hardly any people on the trail. We did it on Sunday evening and was easy to find parking. It was around 4 miles and more than 800 ft of elevation gain (alltrails has different stats). So plan accordingly.
 <br>
 <br>
-53. [Fort Point - Baker Beach Coast Trail ](https://www.alltrails.com/trail/us/california/fort-point-baker-beach-coast-trail)*- 4 mile, Elevation Gain 800 ft*
+12. [Fort Point - Baker Beach Coast Trail ](https://www.alltrails.com/trail/us/california/fort-point-baker-beach-coast-trail)*- 4 mile, Elevation Gain 800 ft*
 <br>Easy trail, not shaded. Lots of stairs, the views are amazing. It was pretty crowded for a tuesday evening.
 Ninenty percent of the people were unmasked. So avoid it until the Covid ends.
 <br>
 <br>
-54. [Round Top, Volcanic and Skyline Trail Loop  ](https://www.alltrails.com/trail/us/california/round-top-volcanic-and-skyline-trail-loop)*- 3.8 mile, Elevation Gain 554 ft*
+13. [Round Top, Volcanic & Skyline Trail Loop  ](https://www.alltrails.com/trail/us/california/round-top-volcanic-and-skyline-trail-loop)*- 3.8 mile, Elevation Gain 554 ft*
 <br>Easy hike, mostly shaded. It was flooded at a few spots otherwise a great trail. Did it on Saturday evening, parking was easily available.
 <br>
 <br>
-55. [Lake Merced Loop ](https://www.alltrails.com/trail/us/california/lake-merced-loop)*- 4.5 mile, Elevation Gain 127 ft*
+14. [Lake Merced Loop ](https://www.alltrails.com/trail/us/california/lake-merced-loop)*- 4.5 mile, Elevation Gain 127 ft*
 <br>Heavily trafficked, easy walk. There are several parking lots since it's a loop, you can start from anywhere. I wouldn’t recommend it, a lot of people without masks! (did it on a weekday)
 <br>
 <br>
-56. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elevation Gain 43 ft*
+15. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elevation Gain 43 ft*
 <br>Easy walk, not shaded. Very few people, lots of birds. Do it around sunset.
+<br>
+<br>
+16. [Lafayette Reservoir and Rim Trail Loop ](https://www.alltrails.com/explore/trail/us/california/lafayette-reservoir-and-rim-trail-loop)*- 4 mile, Elevation Gain 595 ft*
+<br>Moderate trail near Moraga, not shaded. A couple of steep parts. I highly recommend doing it counterclockwise since the last section is extremely steep, it's not good going downhill on that. Parking space for only 4 cars probably.
+<br>
+<br>
+17. [Dusky-Footed Woodrat & Cordilleras Trail ](https://www.alltrails.com/explore/trail/us/california/dusky-footed-woodrat-and-cordilleras-trails)*- 3.7 mile, Elevation Gain 695 ft*
+<br>Easy trail near Redwood City, very little shade, since we did it around sunset, so the sun was not a concern. There is a one-way trail directive in place that mandates that you go counterclockwise.
+<br>
+<br>
+18. [Stream Trail via Skyline Blvd ](https://www.alltrails.com/explore/trail/us/california/stream-trail-via-skyline-blvd)*- 5.2 mile, Elevation Gain 718 ft*
+<br>Moderate trail in Redwood Regional Park. Lots of shade and the redwoods are beautiful.
+<br>
+<br>
+19. [Hamilton Wetlands ](https://www.alltrails.com/explore/trail/us/california/san-francisco-bay-trail-to-hamilton-field-path) *- 4.4 mile, Elevation Gain 49 ft*
+<br>Hidden gem. It was so beautiful and peaceful in the evening. Weidrly when we did Alltrails had a separate page for this, now it is linked to San Francisco Bay trail to Hamilton wetlands which a 9.6 mile walk. Also it was closed 0.3 miles before the trail ends.
+<br>
+<br>
+20. [Alambique, Meadow, Redwood and Bear Gulch Trail Loop ](https://www.alltrails.com/trail/us/california/alambique-meadow-redwood-and-bear-gulch-trail-loop)*- 6 mile, Elevation Gain 1,174 ft*
+<br>Nice easy hike. Lots of shade.
+<br>
+<br>
+21. [Canyon Meadow Staging Area to Stream, Tres Sendas, French, Orchard, Bridle and Stream Trail Loop ](https://www.alltrails.com/trail/us/california/canyon-meadow-staging-area-to-stream-tres-sendas-french-orchard-bridle-and-stream-trai?ref=result-card)*- 6.5 mile, Elevation Gain 980 ft*
+<br>This is a beautiful hike with shade throughout. Definitely a moderate trail; the elevation gain is steep in certain parts. You walk through the forest almost from start to finish—plenty of vegetation.
+<br>
+<br>
+22. [North Peak via Montara Mountain Trail ](https://www.alltrails.com/trail/us/california/north-peak-via-montara-mountain-trail?ref=result-card)*- 6.8 mile, Elevation Gain 1,669 ft*
+<br>Moderate hike, very little shade. Beautiful coastal trail with panoramic views of the ocean. Do it early morning or in the evening since it could become very hot.
 <br>
 <br>
 
