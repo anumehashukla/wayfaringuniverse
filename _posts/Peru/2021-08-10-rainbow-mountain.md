@@ -1,6 +1,6 @@
 ---
 title: 'Your guide to Rainbow Mountain & Red Valley'
-date: 2021-04-01 10:00:00
+date: 2021-08-10 11:00:00
 description: Rainbow Mountain, or Vinicunca as the locals like to call it, is a geological spectacle of the world. Located in the high altitudes of the Andes, it's a 3.5-hour bumpy ride from Cusco. It is famous for its otherworldly colors that imitate a rainbow painted over the top of a mountain.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/peru/rainbowMountainThumbnail.jpg'
 categories: peru
