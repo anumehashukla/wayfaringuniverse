@@ -1,6 +1,6 @@
 ---
 title: 'Observing Summer Solstice'
-date: 2021-01-12 09:00:00
+date: 2021-08-11 17:06:00
 description: Geography was my favorite subject at school. All the concepts and theories used to fascinate me a lot. Reading about Solstice's, Equinox's, Eclipse's, and many other things always used to make me think if only I could ever witness these wonders.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/solstice/summersolstice.jpg'
 categories: astronomy

@@ -1,6 +1,6 @@
 ---
 title: 'Mercury Transit 2019'
-date: 2021-01-12 07:00:00
+date: 2021-08-11 17:04:00
 description: Today the west coast woke up to the rare event of Mercury transiting across the sun! The transit already began at 4:35 a.m. PST much before the sunrise. By the time the Sun rose on the West Coast, Mercury had already been transiting the Sun for nearly two hours. We were lucky to have clear skies today to witness this singular beauty.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/astronomy/mercurytransit/mercury.jpg'
 categories: astronomy

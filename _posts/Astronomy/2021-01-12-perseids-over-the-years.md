@@ -1,6 +1,6 @@
 ---
 title: 'Perseids over the years'
-date: 2021-01-12 08:00:00
+date: 2021-08-11 17:03:00
 description: This was our very first time experiencing the meteor showers (camping too). I remember how chilly it was at the Fremont Peak that night didn't seem like, the summer vibe at all, the Perseids are associated with. Nevertheless, it was a dream come true. Meteor showers were the reason I got into amateur astronomy in the first place. So Perseids that year has a special place in my heart.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/perseidMeteorShower.jpg'
 categories: [astronomy]
@@ -24,7 +24,7 @@ This was our very first time experiencing the meteor showers (and camping too). 
 <center><h2>2016</h2></center>
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/astronomy/perseids/perseidmeteorshower2016.jpg)
-<center class="image-caption"><i>Red Rock Canyon State PArk</i></center>
+<center class="image-caption"><i>Red Rock Canyon State Park</i></center>
 I think this is my best shot of all the showers to date. Also, my second best experience of the meteor showers (Geminds 2015 were the best I have ever seen).
 Red Rock Canyon State Park is one my favorites for stargazing (sans the rattlesnakes) absolutely love this place. Though it suffers some light pollution at the horizon from Mojave, but all in all it's a quite dark site. Unlike the freezing temperatures of 2015, 2016 was pretty hot, with temperatures soaring up to the 90s late in the night. I remember the campground was full even in the middle of the week. Undoubtedly they hold the top place for being the most popular of the celestial events.
 
