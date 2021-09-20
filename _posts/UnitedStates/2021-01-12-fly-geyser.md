@@ -1,6 +1,6 @@
 ---
 title: 'Fly Geyser'
-date: 2021-01-12 11:00:00
+date: 2021-09-20 12:00:00
 description: Like most of you, for years, I have seen pictures of Fly Geyser all over the internet. It is advertised as a man-made geyser everywhere which made me always wonder why would someone create a fountain in the middle of the desert, why not someplace near a city.  I honestly thought for a long time that the structure and colors and everything were all man-made.
 featured_image: '/images/flygeyser.jpg'
 categories: unitedstates
