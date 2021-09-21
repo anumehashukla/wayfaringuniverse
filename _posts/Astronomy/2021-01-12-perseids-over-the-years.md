@@ -1,6 +1,6 @@
 ---
 title: 'Perseids over the years'
-date: 2021-09-01 17:03:00
+date: 2021-09-20 17:03:00
 description: This was our very first time experiencing the meteor showers (camping too). I remember how chilly it was at the Fremont Peak that night didn't seem like, the summer vibe at all, the Perseids are associated with. Nevertheless, it was a dream come true. Meteor showers were the reason I got into amateur astronomy in the first place. So Perseids that year has a special place in my heart.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/perseidMeteorShower.jpg'
 categories: [astronomy]

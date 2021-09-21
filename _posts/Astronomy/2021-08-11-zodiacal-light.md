@@ -1,6 +1,6 @@
 ---
 title: 'Zodiacal Light or False Dawn'
-date: 2021-09-01 17:05:00
+date: 2021-09-20 17:05:00
 description: Zodiacal Light or 'False Dawn or Dusk' is a white glow visible in the eastern or western sky before dawn and after dusk. This faint glow extending up from the horizon is from the scattering of sunlight off the cloud of tiny dust particles orbiting the Sun.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/astronomy/zodiacallight.jpg'
 categories: [astronomy]

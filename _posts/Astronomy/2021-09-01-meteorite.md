@@ -1,6 +1,6 @@
 ---
 title: 'Metorite- From holding it once to owning it now'
-date: 2021-09-01 17:18:00
+date: 2021-09-20 17:18:00
 description: My whole point of getting into amateur astronomy was my fascination, no actually obsession, for meteors. Back in the 90s, I saw some pictures of meteor showers. It was one of those stacked photos which had multiple meteors falling from the sky. So my brain had only registered that image of the showers. My two biggest dreams were to see Everest and meteor showers at least once in my lifetime. So my quest continued; after moving to Delhi in 2010, I started researching how to watch them and where to see them. That's how I found AAAD (Amateur Astronomer Association of Delhi) in 2012, and there I learned what really meteor showers were( not the picture I had imagined all those years). Unfortunately, I didn't get a chance to see them in India, and it was finally in 2015 I was fortunate enough to see them in California (and what better way to start this journey than seeing the Perseids). Now every year, at least we try to catch these celestial fireworks if there is no moon.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/astronomy/meteoritethumbnail.jpg'
 categories: astronomy
