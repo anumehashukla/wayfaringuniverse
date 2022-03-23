@@ -5,22 +5,16 @@ description:
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/treks-hikes/glaciernationalparkhikethumbnail.jpg'
 categories: [treks-hikes, unitedstates]
 ---
-## Hiking prep
 
-<br>
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+Glacier National Park has over 700 miles of hiking trails. I have picked up five hikes which is a varied selection of moderate and easy hikes.
 
-<br>
+## Points to note
 
 * <mark>Bear Spray.</mark> Carry Bear Spray. Be sure you know how to use it. (there are tons of youtube videos on this). Stow bear spray inside your backpack (not in the side pockets) when you are not hiking. This prevents an accidental discharge in crowded areas and otherwise. Please note Bear sprays are not allowed either in carry-on or checked-in luggage.
 * <mark>Waterproof hiking shoes.</mark> Proper footwear is necessary. Wear waterproof hiking shoes.
 * <mark>Layered clothing.</mark> - since the weather conditions could change quickly.
 * <mark>Water & snacks.</mark> Bring plenty of water and snacks to stay hydrated and energized.
 * <mark>Offline Maps.</mark> Although all the popular trails are well-marked and crowded, having offline maps on the phone could sometimes be helpful.
-
-
 
 
 <br>
