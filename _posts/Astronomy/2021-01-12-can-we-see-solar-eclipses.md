@@ -1,6 +1,6 @@
 ---
 title: 'Can wee see solar eclipse in other parts of solar system?'
-date: 2021-09-20 17:01:00
+date: 2022-04-01 11:01:00
 description: Neither of them has a moon. Even if they had one, it would be challenging to cover the entire surface of the sun by their moons, since they are too close to the sun.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/solarEclipse.jpg'
 categories: astronomy
