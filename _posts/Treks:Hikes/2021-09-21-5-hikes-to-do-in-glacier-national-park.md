@@ -1,6 +1,6 @@
 ---
 title: '5 hikes not to miss in Glacier National Park'
-date: 2022-03-21 10:00:00
+date: 2022-04-05 10:00:00
 description:
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/treks-hikes/glaciernationalparkhikethumbnail.jpg'
 categories: [treks-hikes, unitedstates]
