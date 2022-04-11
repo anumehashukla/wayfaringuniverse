@@ -1,4 +1,4 @@
-         ---
+---
 title: 'Best stargazing sites in california'
 date: 2022-04-01 11:02:00
 description: Darkest sites in California.
@@ -7,7 +7,6 @@ categories: astronomy
 ---
 
 #### Here is a list of darkest sites in California. *[Go to Map](/astronomy/stargazing-sites-in-california#stargazingMap){: .js-no-ajax}*
-
 
   1.  Death Valley National Park (Racetrack Playa)
   2.  Mojave National Preserve (Hole in the Wall Campground)
