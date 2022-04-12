@@ -1,10 +1,13 @@
 ---
-title: 'Best stargazing sites in california'
+title: 'Best stargazing sites in California'
 date: 2022-04-01 11:02:00
 description: Darkest sites in California.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/stargazingCalifornia.jpg'
 categories: astronomy
 ---
+
+![]({{site.data.settings.basic_settings.cdn_url}}/astronomy/stargazingcalifornia/milky-way-panaroma.jpg)
+*<center class="image-caption">Trona Pinnacles</center>*
 
 #### Here is a list of darkest sites in California. *[Go to Map](/astronomy/stargazing-sites-in-california#stargazingMap){: .js-no-ajax}*
 
@@ -26,7 +29,7 @@ categories: astronomy
   16. Cuddeback Lake
   17. Condon Peak Recreation Area
   18. Baum Lake
-  19. Panoche hill
+  19. Panoche hills
   20. Trona pinnacles
   21. Anza Borrego State Park
   22. Wagon wheel staging area Near Trona
