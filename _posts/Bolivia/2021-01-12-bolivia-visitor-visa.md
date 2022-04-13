@@ -1,10 +1,15 @@
 ---
 title: 'Bolivia Tourist Visa from the United States'
-date: 2021-01-12 11:00:00
+date: 2022-04-13 11:00:00
 description: Bolivia requires many tourists to obtain a visa. You will need to get a tourist visa if your country falls under the Type II or Type III category. Visa is valid for 30 days since the date of entry. It's a single entry visa.
-featured_image: '/images/bolivia.jpg'
+featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/bolivia/boliviavisathumbnail.jpg'
 categories: bolivia
 ---
+
+![]({{site.data.settings.basic_settings.cdn_url}}/bolivia/boliviavisa.jpg)
+*<center class="image-caption">Salar de Uyuni</center>*
+<br>
+
 
 Bolivia requires many tourists to obtain a visa. You will need to get a tourist visa if your country falls under the Type II or Type III category. Visa is valid for 30 days since the date of entry. It's a single entry visa.
 
@@ -16,7 +21,8 @@ Find out which category your country falls in [here](http://boliviala.org/touris
 
 ## Consulates representing Bolivia in the United States
 <br>
-<hr>
+
+---
 [Consulado General de Bolivia - Houston, TX](http://www.boliviatx.org/)<br>
 [Consulado General de Bolivia - Los Angeles](http://boliviala.org/)<br>
 [Consulado General de Bolivia - Miami, FL](http://boliviamiami.com/)<br>
@@ -24,15 +30,15 @@ Find out which category your country falls in [here](http://boliviala.org/touris
 
 ## Application Fee
 <br>
-<hr>
 
+---
 * Type II country - No fee for type II countries except for China (Along Taiwan and Hong Kong) and Iran, which is 30 USD
 * Type III country - A visa fee of 30 USD is applicable for all type III countries
 
 ## Visa process for Type II Country
 <br>
-<hr>
 
+---
 ### Step 1 :
 
 Fill in the application [form/ Sworn Statement Form](http://www.rree.gob.bo/formvisas/)
@@ -71,8 +77,8 @@ We had applied to the consulate in Los Angeles; they were really quick, it was a
 
 ## Visa process for Type III Country
 <br>
-<hr>
 
+---
 ### Step 1 :
 
 Fill in the application [form/ Sworn Statement Form](http://www.rree.gob.bo/formvisas/)
@@ -106,5 +112,3 @@ Note: Consulado General de Bolivia - Miami, FL, only accepts pre-paid return ser
 
 After you have handed in your documents to the consulate, it will send an official request to the Migration National Service in Bolivia in order to get the approval. This process may take up to three months.<br>
 Once the application has been processed, the consulate will contact the applicant to let him/her know if it is approved or denied.
-
-
