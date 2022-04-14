@@ -1,8 +1,8 @@
 ---
 title: '10 Day Self Drive tour Ring Road'
-date: 2021-01-12 11:10:00
+date: 2022-04-13 11:10:00
 description: Iceland’s Ring Road encircles the entire country covering over 1300 km on Route 1 or Highway 1. While you could technically drive the whole thing in less than 24 hours, the truth is it will take you at least a week with stops on along the way.
-featured_image: '/images/iceland/gridPicture.jpg'
+featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/iceland/10dayicelanditinerary.jpg'
 categories: iceland
 ---
 
@@ -24,7 +24,8 @@ Wondering ring road to do clockwise or anticlockwise, [check this out](/iceland/
 If you are hitting the ring road, it would be wise to stock up all the grocery and other stuff in Reykjavik itself. *[Find out more about grocery shopping here](/iceland/ultimate-guide-to-iceland#Grocery){: .js-no-ajax}*
 
 <br><br>
-<hr>
+
+---
 
 *Below is an interactive map of major attractions along ring road and daywise itinerary. Expand the Legend on the left for all details.*<br>
 <p class="responsive-iframe-container">
@@ -38,8 +39,8 @@ Here is a breakdown of my Iceland Ring Road itinerary to help you plan yours. Al
 
 # DAY 1
 <br>
-<hr>
 
+---
 ## 1. Krýsuvík
   There is a boardwalk - easy walk
   <br>
@@ -79,7 +80,8 @@ Geothermal area
 
 # DAY 2
 <br>
-<hr>
+
+---
 ## 1. Seljalandsfoss waterfall and Gljufurarfoss waterfall
 
 You might have seen many mighty waterfalls in the world, but ever imagined going behind one of them. Iceland is a magical place, and Seljalandsfoss is one of its magic. Seljalandsfoss is one of the most famous and photographed waterfalls in Western Europe. <br>
@@ -118,7 +120,8 @@ There are two viewpoints for Skogafoss. One is just from parking to the base of 
 
 # DAY 3
 <br>
-<hr>
+
+---
 ## 1. Dyrhólaey
 
 Dyrhólaey translates to Door Hill; it is a massive rock arch.
@@ -182,7 +185,8 @@ Vik is a charming small town in southern Iceland. Stop by for a hot cup of coffe
 
 # DAY 4
 <br>
-<hr>
+
+---
 ## 1. Scenic Green Lava Walk
 
 ![](/images/iceland/ringRoad/lavawalk_DSC2918.jpg)
@@ -212,8 +216,8 @@ Vik is a charming small town in southern Iceland. Stop by for a hot cup of coffe
 
 # DAY 5
 <br>
-<hr>
 
+---
 ## 1. Fjallsárlón
 
 ![](/images/iceland/ringRoad/fjallsárlón_DSC3076_1.jpg)
@@ -241,8 +245,8 @@ Coordinates for Diamond Beach: 64.044512, -16.177440
 
 # DAY 6
 <br>
-<hr>
 
+---
 ## 1. Vestahorn
 Vestahorn is best viewed from Stokksnes(*coordinates 64°14'41.6"N 14°58’10.8"W*)
 Indeed very photogenic!!
@@ -258,8 +262,8 @@ Small beautiful town, definitely a must stop along ring road.
 
 # DAY 7
 <br>
-<hr>
 
+---
 ## 1. Dettifoss waterfall
 
 Dettifoss is reachable by two separate roads, by Route 864 on the East and Route 862 on the west, depending on which side of the falls you want to be on. If you're going to get to the east side, the road (Route 864) is not that great, its a gravel road. While the other "west side" is considerably better. The distance between the two sides is quite a bit, so choose accordingly. (66 KM between the two parking areas )
@@ -292,7 +296,7 @@ Do not get confused Hverir, Namafjall and Hverarond are the same
 
 ## 6. Blue lake
 
-  No detour required, it is on Route 1
+No detour required, it is on Route 1
 
 ![](/images/iceland/ringRoad/bluelake_IMG_1522.jpg)
 
@@ -303,7 +307,7 @@ Do not get confused Hverir, Namafjall and Hverarond are the same
 
 ## 8. Grjótagjá cave
 
-  You can totally skip this one, not worth visiting.
+You can totally skip this one, not worth visiting.
 <br>
 
 ![](/images/iceland/ringRoad/grjótagjácave_IMG_1524.jpg)
@@ -315,8 +319,8 @@ Do not get confused Hverir, Namafjall and Hverarond are the same
 
 # DAY 8
 <br>
-<hr>
 
+---
 ## 1. Godafoss Waterfall
 
 ## 2. Akureyri
@@ -328,8 +332,8 @@ Do not get confused Hverir, Namafjall and Hverarond are the same
 
 # DAY 9
 <br>
-<hr>
 
+---
 ## 1. Kirkjufellsfoss
 
 ![](/images/iceland/ringRoad/Kirkjufellsfoss_DSC3264.jpg)
@@ -342,8 +346,8 @@ Spend Night in Reykjavik
 
 # DAY 10
 <br>
-<hr>
 
+---
 ## 1. Reykjavík
 
   Explore the City on Foot

@@ -1,43 +1,51 @@
 ---
 title: 'How to apply for Iceland Visitor Visa from the United States'
-date: 2021-01-12 08:10:00
-description: Since Iceland is a member of the Schengen Visa Agreement, all persons requiring visas, not holding a valid Schengen visa in their travel document, must apply for a visa at the applicable embassy/consulate before traveling to Iceland. If you intend to apply for a visa for travel to Iceland in the United States, there are 5 offices in the United States that issue visas on Iceland’s behalf. Please be sure you are applying for your Schengen visa through the correct Embassy or Consulate-General.
-featured_image: '/images/iceland/visitorVisa.jpg'
+date: 2022-04-13 08:10:00
+description: Since Iceland is a member of the Schengen Visa Agreement, all persons requiring visas, not holding a valid Schengen visa in their travel document, must apply for a visa at the applicable embassy/consulate before traveling to Iceland. If you intend to apply for a visa to travel to Iceland in the United States, there are five offices in the United States that issue visas on Iceland’s behalf. Please be sure you are applying for your Schengen visa through the correct Embassy or Consulate-General.
+featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/iceland/icelandvisitorvisathumbnail.jpg'
 categories: iceland
 ---
 
-Since Iceland is a member of the Schengen Visa Agreement, all persons requiring visas, not holding a valid Schengen visa in their travel document, must apply for a visa at the applicable embassy/consulate before traveling to Iceland. If you intend to apply for a visa for travel to Iceland in the United States, there are 5 offices in the United States that issue visas on Iceland’s behalf. Please be sure you are applying for your Schengen visa through the correct Embassy or Consulate-General.
+![]({{site.data.settings.basic_settings.cdn_url}}/iceland/jokusarlon.jpg)
+*<center class="image-caption">Jökulsárlón</center>*
+<br>
+
+Since Iceland is a member of the Schengen Visa Agreement, all persons requiring visas, not holding a valid Schengen visa in their travel document must apply for a visa at the applicable embassy/consulate before traveling to Iceland. If you intend to apply for a visa to travel to Iceland in the United States, there are five offices in the United States that issue visas on Iceland’s behalf. Therefore, please be sure you are applying for your Schengen visa through the correct Embassy or Consulate-General.
 
 ## Embassies/consulates representing Iceland in the United States
 <br>
-<hr>
+
+---
 * By Denmark in New York and Chicago
 * By Sweden in Washington DC
 * By Norway in San Francisco and Houston
 
-Please note that many embassies use service providers for receiving applications. Visa Application Centres accept applications, but the embassies issue visas. If all required documentation is supplied and it is deemed that no further documentation is required, the processing time for a visa is approximately 2 weeks. All applicants must book an appointment and visit the visa application center in person.
+Please note that many embassies use service providers for receiving applications. ***Visa Application Centres accept applications, but the embassies issue visas.*** If all required documentation is supplied and it is deemed that no further documentation is required, the processing time for a visa is approximately 2 weeks. All applicants must book an appointment and visit the visa application center in person.
 
 *Kindly make an individual appointment for each applicant traveling with you i.e., family member, group of friends or colleagues.*
 
 ## When can I apply?
 <br>
-<hr>
+
+---
 “You should apply well in advance and at the latest 15 days before you plan to travel. You can submit your application up to three months before your planned departure.” - States their website, but in my opinion, it would be wise to apply at the beginning of the 3-month window.
 
 ## Application Fee
 <br>
-<hr>
+
+---
 The visa fee is EUR 60. Children under six years do not pay a fee. Children from the age of six years and below the age of 12 years shall pay a visa fee of EUR 35. Except for children, please note that you pay the fee when registering the application in the portal. Applicants exempted from the visa fee requirement will have the fee refunded.
 
-Service fee
-The Visa application centre Travisa/ VFA charges a USD 33 service fee.
+***Service fee***<br>
+The Visa application center Travisa/ VFA charges a USD 33 service fee.
 
 ## Procedure
 <br>
-<hr>
+
+---
 If Denmark represents Iceland
 
-The Danish Consulate General has commissioned VFS Global to operate the Danish Visa Application Centres in the US. Visa applicants must register their application online through [here](https://www.visaselfservice.um.dk/Trunk/VisaPortal/templates/page.aspx?id=86&epslanguage=EN)
+The Danish Consulate General has commissioned VFS Global to operate the Danish Visa Application Centres in the US. Visa applicants must register their application online.
 
 Upon registration and payment of the visa fee, the applicant must print out the Visa Self Service Cover Letter and submit it with the required documents on the checklist. No two-sided copies are allowed.
 
@@ -70,7 +78,7 @@ After you have received the Cover letter and filled in the application form on t
 
 ## Step 5 :
 
-Documents for Iceland Schengen Visa Application:<br>
+***Documents for Iceland Schengen Visa Application:***<br>
 * Your Appointment Letter received through email after taking an appointment
 * Signed cover letter
 * Receipt for the Application
@@ -87,12 +95,12 @@ Documents for Iceland Schengen Visa Application:<br>
 * Documents confirming financial means or income of applicants in United States
 * Bank Statements of the last three months or statement from the employer or last year’s tax return<br><br>
 
-If employed:<br>
+***If employed:***<br>
 * Employment contract
 * Current bank statement of the latest 6 months
 * No-objection certificate from employer
 * Income Tax Return (ITR) form or Certificate of Income Tax deducted at the source of salary<br><br>
-If self-employed:<br>
+***If self-employed:***<br>
 * A copy of your business license
 * Company bank statement of the latest 6 months
 * Income Tax Return (ITR)
@@ -113,9 +121,9 @@ After you have handed in your documents to the embassy or Visa Application Centr
 
 
 To get the latest update and track your application, click
-[here](http://www.vfsglobal.com/norway/usa)
+[here](https://www.vfsvisaonline.com/Global-Passporttracking/Track/Index?q=shSA0YnE4pLF9Xzwon/x/D7iv2ugvZ5d5YCUV9wLJWrdDcjkcpEENphCS4hK2HcQ1xsbbhtF/U6HLRmSZcyVgqvR6EV6IBxazDpDpX7VgGk=)
 
-Click on “Track your application” tab - It will prompt you to enter the reference number and last name. [Note: It’s really tricky, just enter the numerals without the hyphen]
+Click on “Track your application” tab - It will prompt you to enter the reference number and last name. <mark>(Note: It’s really tricky, just enter the numerals without the hyphen)</mark>
 
 
 ## Some important Links
