@@ -31,7 +31,7 @@ Glacier National Park has over 700 miles of hiking trails. I have picked up five
 An 11.2-mile hike with 1800 ft of elev gain in the Many Glaciers region. It's the number one hike in Glacier National Park. Panoramic views of the lake Josephine and Grinnel lake. A must-do!
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/treks-hikes/glaciernationalparkhikes/grinellglacier.jpg){: .portrait-image}
-<center class="image-caption"><i>Grinnel Lake</i></center>
+*<center class="image-caption">Grinnel Lake</center>*
 
 You can take off 3 miles from the entire hike by taking a boat across Swiftcurrent and Lake Josephine. It's a small boat ride; we took the 8:30 a.m. Scenic Tour, and it was $33 per person ($35 in 2022). Book your boat rides from the [Glacier Boat Company](https://glacierparkboats.com/) by choosing Many Glaciers as the tour location. Round trip tickets guarantee a return boat trip however, seating is on an availability basis. Restrooms are not available on the boats.
 <br>
@@ -39,7 +39,7 @@ You can take off 3 miles from the entire hike by taking a boat across Swiftcurre
 If you have a boat tour reservation at Many Glacier and would like to travel the Going-to-the-Sun corridor during the high season, a ticketed entry reservation will be required; boat tour reservation is not valid to enter the park.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/treks-hikes/glaciernationalparkhikes/manyglaciersunrise.jpg)
-<center class="image-caption"><i>Catching sunrise from the boat dock</i></center>
+*<center class="image-caption">Catching sunrise from the boat dock</center>*
 
 ## 2. Avalanche Lake via the Trail of the Cedars
 <br>
@@ -51,10 +51,10 @@ If you have a boat tour reservation at Many Glacier and would like to travel the
 This trail also covers the Trail of cedars ( a 0.9-mile trail), which is another popular and beautiful hike in Glacier NP.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/treks-hikes/glaciernationalparkhikes/avalanchelake.jpg)
-<center class="image-caption"><i>Avalanche Lake</i></center>
+*<center class="image-caption">Avalanche Lake</center>*
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/treks-hikes/glaciernationalparkhikes/avalanchelakeglaciernationalpark.jpg)
-<center class="image-caption"><i>Avalanche Lake</i></center>
+*<center class="image-caption">Avalanche Lake</center>*
 
 
 ## 3. St. Mary and Virginia Falls Trail
@@ -67,10 +67,10 @@ This trail also covers the Trail of cedars ( a 0.9-mile trail), which is another
 Alltrails shows the trailhead at the St Mary Shuttle stop, but I am afraid that section is closed as of Sept 2021, and you can't park there. So instead, park at St Mary Falls Parking lot. Nice hike, multiple waterfalls. Virginia falls is definitely the highlight of the hike.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/treks-hikes/glaciernationalparkhikes/virginiafalls.jpg)
-<center class="image-caption"><i>Virginia Falls</i></center>
+*<center class="image-caption">Virginia Falls</center>*
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/treks-hikes/glaciernationalparkhikes/stmaryfallstrail.jpg)
-<center class="image-caption"><i>Virginia Falls trail</i></center>
+*<center class="image-caption">Virginia Falls trail</center>*
 
 
 ## 4. Paradise Point Trail
@@ -92,7 +92,7 @@ Paradise Point trail is in the Two Medicine Lake area. I would highly recommend 
 Nice short, well-marked hike/walk. Unique waterfall coming out of a rock. Most of the trail is paved. It is also wheelchair accessible.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/treks-hikes/glaciernationalparkhikes/runningeaglefalls.jpg)
-<center class="image-caption"><i>Running Eagle Falls</i></center>
+*<center class="image-caption">Running Eagle Falls</center>*
 
 
 <br>
