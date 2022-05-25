@@ -1,6 +1,6 @@
 ---
 title: 'Bay Area Hikes'
-date: 2022-05-25 15:00:00
+date: 2022-05-24 15:00:00
 description: A collection of bay area hikes with some tips and tricks about them based on our hiking experience during the pandemic.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: [unitedstates, treks-hikes]
