@@ -1,9 +1,9 @@
 ---
-title: 'Bay Area Hikes in times of Covid'
-date: 2021-11-14 12:00:00
+title: 'Bay Area Hikes'
+date: 2022-05-25 15:00:00
 description: A collection of bay area hikes with some tips and tricks about them based on our hiking experience during the pandemic.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
-categories: unitedstates
+categories: [unitedstates, treks-hikes]
 ---
 We have lived in San Francisco for five years now but never got a chance to explore many hikes in the area due to our extensive travels. Apart from a handful of the most popular ones. When the pandemic started, I remember how we would go to our secret spot on the Coastal Fire Road to smell the trees. Then in June, I finally decided to find some unpopular hikes(so that we don't come across many people) in the bay area :) for some forest bathing and to stay active. Since then, we have completed 44 hikes and at least 50+ walks to Oyster Point (another hidden gem). Many exciting experiences on these hikes, saw so much wildlife - coming across snakes on at least six different trails, so many cute bunnies, a few coyotes, tons of Elks. The other thing that happened was, for the first time, we got to see the downtowns of so many bay area towns, like, Tiburon, San Anselmo, Livermore, Fairfax, Hayward, Corte Madera, Saratoga, Felton, Moraga.<br><br>
 There are few things that I noticed while hiking these trails which might help anyone interested in doing them:
@@ -26,6 +26,8 @@ There are few things that I noticed while hiking these trails which might help a
 So if you just want to get out and move, here are some good options. I have compiled all the hikes we did, with their details, links to Alltrails. <br><br>
 
  [See 2021](/unitedstates/bay-area-hikes#hikes2021){: .js-no-ajax}
+
+ [See 2022](/unitedstates/bay-area-hikes#hikes2022){: .js-no-ajax}
 
 *Expand the Legend on the left for trailhead details*
 {: id="trailheadsMap"}
@@ -214,7 +216,8 @@ I highly recommend this one!!
 <br>
 <br>
 <br>
-<hr>
+
+---
 
 ## 2021
 {: id="hikes2021"}
@@ -266,88 +269,121 @@ There is a parking fee of $6 at the entrance. Please carry a pen and some cash, 
 <br>Moderate trail, shaded. Pretty awesome!! Hardly any people on the trail. We did it on Sunday evening and was easy to find parking. It was around 4 miles and more than 800 ft of elevation gain (alltrails has different stats). So plan accordingly.
 <br>
 <br>
-29. [San Pedro Beach to Devil's Slide ](https://www.alltrails.com/explore/trail/us/california/san-pedro-beach-to-devil-s-slide)*- 6.7 miles, Elev Gain 1,115 ft*
+12. [San Pedro Beach to Devil's Slide ](https://www.alltrails.com/explore/trail/us/california/san-pedro-beach-to-devil-s-slide)*- 6.7 miles, Elev Gain 1,115 ft*
 <br>
 <br>
-12. [Fort Point - Baker Beach Coast Trail ](https://www.alltrails.com/trail/us/california/fort-point-baker-beach-coast-trail)*- 4 mile, Elevation Gain 800 ft*
+13. [Fort Point - Baker Beach Coast Trail ](https://www.alltrails.com/trail/us/california/fort-point-baker-beach-coast-trail)*- 4 mile, Elevation Gain 800 ft*
 <br>Easy trail, not shaded. Lots of stairs, the views are amazing. It was pretty crowded for a tuesday evening.
 Ninenty percent of the people were unmasked. So avoid it until the Covid ends.
 <br>
 <br>
-13. [Round Top, Volcanic & Skyline Trail Loop  ](https://www.alltrails.com/trail/us/california/round-top-volcanic-and-skyline-trail-loop)*- 3.8 mile, Elevation Gain 554 ft*
+14. [Round Top, Volcanic & Skyline Trail Loop  ](https://www.alltrails.com/trail/us/california/round-top-volcanic-and-skyline-trail-loop)*- 3.8 mile, Elevation Gain 554 ft*
 <br>Easy hike, mostly shaded. It was flooded at a few spots otherwise a great trail. Did it on Saturday evening, parking was easily available.
 <br>
 <br>
-14. [Lake Merced Loop ](https://www.alltrails.com/trail/us/california/lake-merced-loop)*- 4.5 mile, Elev Gain 127 ft*
+15. [Lake Merced Loop ](https://www.alltrails.com/trail/us/california/lake-merced-loop)*- 4.5 mile, Elev Gain 127 ft*
 <br>Heavily trafficked, easy walk. There are several parking lots since it's a loop, you can start from anywhere. I wouldn’t recommend it, a lot of people without masks! (did it on a weekday)
 <br>
 <br>
-15. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elev Gain 43 ft*
+16. [Napa River and Bay Trail ](https://www.alltrails.com/trail/us/california/napa-river-and-bay-trail)*- 5.7 mile, Elev Gain 43 ft*
 <br>Easy walk, not shaded. Very few people, lots of birds. Do it around sunset.
 <br>
 <br>
-16. [Lafayette Reservoir and Rim Trail Loop ](https://www.alltrails.com/explore/trail/us/california/lafayette-reservoir-and-rim-trail-loop)*- 4 mile, Elev Gain 595 ft*
+17. [Lafayette Reservoir and Rim Trail Loop ](https://www.alltrails.com/explore/trail/us/california/lafayette-reservoir-and-rim-trail-loop)*- 4 mile, Elev Gain 595 ft*
 <br>Moderate trail near Moraga, not shaded. A couple of steep parts. I highly recommend doing it counterclockwise since the last section is extremely steep, it's not good going downhill on that. Parking space for only 4 cars probably.
 <br>
 <br>
-17. [Dusky-Footed Woodrat & Cordilleras Trail ](https://www.alltrails.com/explore/trail/us/california/dusky-footed-woodrat-and-cordilleras-trails)*- 3.7 mile, Elev Gain 695 ft*
+18. [Dusky-Footed Woodrat & Cordilleras Trail ](https://www.alltrails.com/explore/trail/us/california/dusky-footed-woodrat-and-cordilleras-trails)*- 3.7 mile, Elev Gain 695 ft*
 <br>Easy trail near Redwood City, very little shade, since we did it around sunset, so the sun was not a concern. There is a one-way trail directive in place that mandates that you go counterclockwise.
 <br>
 <br>
-18. [Stream Trail via Skyline Blvd ](https://www.alltrails.com/explore/trail/us/california/stream-trail-via-skyline-blvd)*- 5.2 mile, Elev Gain 718 ft*
+19. [Stream Trail via Skyline Blvd ](https://www.alltrails.com/explore/trail/us/california/stream-trail-via-skyline-blvd)*- 5.2 mile, Elev Gain 718 ft*
 <br>Moderate trail in Redwood Regional Park. Lots of shade and the redwoods are beautiful.
 <br>
 <br>
-19. [Hamilton Wetlands ](https://www.alltrails.com/explore/trail/us/california/san-francisco-bay-trail-to-hamilton-field-path) *- 4.4 mile, Elev Gain 49 ft*
+20. [Hamilton Wetlands ](https://www.alltrails.com/explore/trail/us/california/san-francisco-bay-trail-to-hamilton-field-path) *- 4.4 mile, Elev Gain 49 ft*
 <br>Hidden gem. It was so beautiful and peaceful in the evening. Weidrly when we did Alltrails had a separate page for this, now it is linked to San Francisco Bay trail to Hamilton wetlands which a 9.6 mile walk. Also it was closed 0.3 miles before the trail ends.
 <br>
 <br>
-20. [Alambique, Meadow, Redwood and Bear Gulch Trail Loop ](https://www.alltrails.com/trail/us/california/alambique-meadow-redwood-and-bear-gulch-trail-loop)*- 6 mile, Elev Gain 1,174 ft*
+21. [Alambique, Meadow, Redwood and Bear Gulch Trail Loop ](https://www.alltrails.com/trail/us/california/alambique-meadow-redwood-and-bear-gulch-trail-loop)*- 6 mile, Elev Gain 1,174 ft*
 <br>Nice easy hike. Lots of shade.
 <br>
 <br>
-21. [Canyon Meadow Staging Area to Stream, Tres Sendas, French, Orchard, Bridle and Stream Trail Loop ](https://www.alltrails.com/trail/us/california/canyon-meadow-staging-area-to-stream-tres-sendas-french-orchard-bridle-and-stream-trai?ref=result-card)*- 6.5 mile, Elev Gain 980 ft*
+22. [Canyon Meadow Staging Area to Stream, Tres Sendas, French, Orchard, Bridle and Stream Trail Loop ](https://www.alltrails.com/trail/us/california/canyon-meadow-staging-area-to-stream-tres-sendas-french-orchard-bridle-and-stream-trai?ref=result-card)*- 6.5 mile, Elev Gain 980 ft*
 <br>This is a beautiful hike with shade throughout. Definitely a moderate trail; the elevation gain is steep in certain parts. You walk through the forest almost from start to finish—plenty of vegetation.
 <br>
 <br>
-22. [North Peak via Montara Mountain Trail ](https://www.alltrails.com/trail/us/california/north-peak-via-montara-mountain-trail?ref=result-card)*- 6.8 mile, Elev Gain 1,669 ft*
+23. [North Peak via Montara Mountain Trail ](https://www.alltrails.com/trail/us/california/north-peak-via-montara-mountain-trail?ref=result-card)*- 6.8 mile, Elev Gain 1,669 ft*
 <br>Moderate hike, very little shade. Beautiful coastal trail with panoramic views of the ocean. Do it early morning or in the evening since it could become very hot.
 <br>
 <br>
-28. [Lands End Trail ](https://www.alltrails.com/explore/trail/us/california/lands-end-trail)*- 3.4 miles, Elev Gain 538 ft*
+24. [Lands End Trail ](https://www.alltrails.com/explore/trail/us/california/lands-end-trail)*- 3.4 miles, Elev Gain 538 ft*
 <br>Easy trail with gorgeous views!! Must do! Try doing it around sunset.
 <br>
 <br>
-24. [Bootjack Trail Loop ](https://www.alltrails.com/trail/us/california/bootjack-trail-loop?ref=result-card)*- 6.3 miles, Elev Gain 1,115ft*
+25. [Bootjack Trail Loop ](https://www.alltrails.com/trail/us/california/bootjack-trail-loop?ref=result-card)*- 6.3 miles, Elev Gain 1,115ft*
 <br>Moderate, shaded hike. We started from the pantoll Campground instead of Muir Woods parking, it added around half a mile and 200ft elev to the trail. But it was super convenient to start from there since you don't need a Muir Woods Parking permit to hike. It was so beautiful, we did it after the rains so the creeks were full creating little waterfalls. A must do
 <br>
 <br>
-31. [Dunn, Graham and West Ridge Trail Loop ](https://www.alltrails.com/trail/us/california/dunn-graham-and-west-ridge-trail-loop?ref=result-card)*- 3.8 miles, Elev Gain 593 ft*
+26. [Dunn, Graham and West Ridge Trail Loop ](https://www.alltrails.com/trail/us/california/dunn-graham-and-west-ridge-trail-loop?ref=result-card)*- 3.8 miles, Elev Gain 593 ft*
 <br>Easy, shaded, heavily trafficked trail in Redwood Regional Park.
 <br>
 <br>
-25. [Wildcat Creek Loop Trail ](https://www.alltrails.com/explore/trail/us/california/wildcat-creek-loop-trail)*- 7.1 miles, Elev Gain 1,102 ft*
+27. [Wildcat Creek Loop Trail ](https://www.alltrails.com/explore/trail/us/california/wildcat-creek-loop-trail)*- 7.1 miles, Elev Gain 1,102 ft*
 <br>Easy Trail near Berkeley hills. Plan it on a cloudy day, since most of the trail is exposed and it could become really hot, or do it super early. Nice 360 degree views at the peak. Also there is a nice picnic area at the trailhead
 <br>
 <br>
-26. [Skyline, Brandon, Two Rocks, Columbine, and Cascade Loop ](https://www.alltrails.com/explore/trail/us/california/brandon-trail-two-rocks-trail-and-columbine-trail-loop)*- 6.4 miles, Elev Gain 925 ft*
+28. [Skyline, Brandon, Two Rocks, Columbine, and Cascade Loop ](https://www.alltrails.com/explore/trail/us/california/brandon-trail-two-rocks-trail-and-columbine-trail-loop)*- 6.4 miles, Elev Gain 925 ft*
 <br>The trail is in Anthony Chabot Regional Park. Mostly shaded and easy to walk.
 <br>
 <br>
-27. [Raymundo Trail ](https://www.alltrails.com/explore/trail/us/california/raymundo-trail)*- 6.3 miles, Elev Gain 1,187 ft*
+29. [Raymundo Trail ](https://www.alltrails.com/explore/trail/us/california/raymundo-trail)*- 6.3 miles, Elev Gain 1,187 ft*
 <br>Easy, shaded trail amongst the redwoods. We did it after the day it had rained a bit, oh my god the forest smelled heavenly. It was good forest bathing.
 <br>
 <br>
-29. [West Ridge, Tres Sendas, French, Fern, and Baccharis Trail Loop ](https://www.alltrails.com/explore/trail/us/california/west-ridge-tres-sendas-french-fern-and-baccharis-trail-loop-closed)*- 5.8 miles, Elev Gain 1,167 ft*
+30. [West Ridge, Tres Sendas, French, Fern, and Baccharis Trail Loop ](https://www.alltrails.com/explore/trail/us/california/west-ridge-tres-sendas-french-fern-and-baccharis-trail-loop-closed)*- 5.8 miles, Elev Gain 1,167 ft*
 <br>
 <br>
-30. [Golden Gate Park Loop ](https://www.alltrails.com/explore/trail/us/california/golden-gate-park-trail)*- 6.3 miles, Elev Gain Negligible*
+31. [Golden Gate Park Loop ](https://www.alltrails.com/explore/trail/us/california/golden-gate-park-trail)*- 6.3 miles, Elev Gain Negligible*
 <br>Beautiful walk along the lakes in Golden Gate Park.
 <br>
 <br>
-28. [Baccharis, Dunn, Monteiro, Toyon and West Ridge Trail Loop ](https://www.alltrails.com/trail/us/california/baccharis-dunn-monteiro-toyon-and-west-ridge-trail-loop?ref=result-card)*- 5.7 miles, Elev Gain 950 ft*
+32. [Baccharis, Dunn, Monteiro, Toyon and West Ridge Trail Loop ](https://www.alltrails.com/trail/us/california/baccharis-dunn-monteiro-toyon-and-west-ridge-trail-loop?ref=result-card)*- 5.7 miles, Elev Gain 950 ft*
 <br>Easy trail, partially shaded. The trail was closed for equestrian. Although if you follow the parking directions from the google maps link that opens is slightly off.
 <br>
+<br>
+
+<br>
+
+---
+
+## 2022
+{: id="hikes2022"}
+
+<br>
+
+1. [Timberview, Giant Salamander, & Fir Trail Loop](https://www.alltrails.com/explore/trail/us/california/timberview-trail-giant-salamander-trail-and-fir-trail-loop)*- 6.2 miles, Elev Gain 1400 ft*
+<br>Moderate, shaded trail in El Corte De Madera Creek Open Space Preserve. The trail crosses the beautiful Tafoni formations.*(The structures covering the sandstone are called Tafoni, which is Italian for the cavern. Thousands of years of complex weathering process created the caves, columns, and sandy surfaces that are smooth in some areas and covered with labyrinths of knobs and ridges in others.)* Couple of very steep sections & one super super super steep section. Recommend doing it clockwise as the Alltrails suggests, since there is no way to do that super steep section downhill until you have hiking poles.
+<br>
+<br>
+2. [Grabtown Gulch to Purisima Creek Loop](https://www.alltrails.com/explore/trail/us/california/grabtown-gulch-to-purisima-creek-loop)*- 5.2 miles, Elev Gain 1280 ft*
+<br>Moderate, well maintained, shaded trail. Found this very pretty hike in Purisima Creek Redwoods Open Space Preserve. It had a feel of Muir woods, everything very green and beautiful. The first half of the trail is all downhill, and the rest is half uphill. There are a few steep sections, and all of 1200 ft in just over 2 miles.
+<br>
+<br>
+3. [Timberview and Gordon Mill Trail](https://www.alltrails.com/explore/trail/us/california/timerberview-and-gordon-mill-trail)*- 6 mile, Elev Gain 1440 ft*
+<br>Easy, well maintained, shaded hike into the forest. A few steep downhill sections but a very gradual uphill. Limited parking space at the trailhead, if hiking on weekends, try starting it in the afternoon. A lot of bikers on the trail as well.
+<br>
+<br>
+4. [El Corte de Madera Creek Trail](https://www.alltrails.com/explore/trail/us/california/el-corte-de-madera-creek-trail--2)*- 6.7 miles, Elev Gain 1320 ft*
+<br>Moderate, shaded hike into the woods. Well maintained. Last mile was a bit of a grind but no steep sections as such. Lots of bikers.
+<br>
+<br>
+5. [Skyline Trail](https://www.alltrails.com/explore/trail/us/california/skyline-trail--3)*- 7.1 miles, Elev Gain 800 ft*
+<br>Alltrails has totally got the elev gain wrong, I don't know why it is marked as 1330 ft when it's just 800 ft. It's a well mantained easy trail(again marked wrongly as moderate) into the forest. Mostly flat.
+<br>
+<br>
+6. [Crystal Springs and Dean Trail](https://www.alltrails.com/explore/trail/us/california/crystal-springs-and-dean-trails)*- 5 mile, Elev Gain 940 ft*
+<br>Easy Trail in Huddart Park. Completely shaded. There is a park entrance fee of $6 (cash only) and the park gates close at 7:00 pm.
 <br>
 
 
@@ -358,7 +394,3 @@ Ninenty percent of the people were unmasked. So avoid it until the Covid ends.
 </p>
 <br>
 
-
-*[See on map](/unitedstates/bay-area-hikes#trailheadsMap){: .js-no-ajax}*
-<br>
-<br>
