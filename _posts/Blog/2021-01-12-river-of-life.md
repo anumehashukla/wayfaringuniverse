@@ -1,11 +1,11 @@
 ---
 title: 'River of Life'
-date: 2021-01-12 11:11:00
+date: 2022-06-12 11:11:00
 description: India is the only place where air and fire, trees and animals, mountains and rivers are depicted as God. And one of these powerful deities is the River Ganga. Ganga had a profound influence on me while growing up, which I was totally unaware of, I mean, who doesn't have in India. Every household has a bottle of 'gangajal' (the holy water), used both in times of happiness and sadness. For healing and cleansing. When you are born and when you are dead. It is believed that a holy dip into the river can wash away all your sins and lead you to Moksha- liberation from the cycle of birth and rebirth. Such is the glory of this river.
 categories: blog
 ---
 
-*<h4 class="blog-date">October 01, 2012</h4>*
+<h4 class="blog-date"><i>October 01, 2012</i></h4>
 
 
 India is the only place where air and fire, trees and animals, mountains and rivers are depicted as God. And one of these powerful deities is the River Ganga. Ganga had a profound influence on me while growing up, which I was totally unaware of, I mean, who doesn't have in India. Every household has a bottle of 'gangajal' (the holy water), used both in times of happiness and sadness. For healing and cleansing. When you are born and when you are dead. It is believed that a holy dip into the river can wash away all your sins and lead you to Moksha- liberation from the cycle of birth and rebirth. Such is the glory of this river.<br><br>
