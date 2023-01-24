@@ -1,6 +1,6 @@
 ---
 title: 'How to apply for Iceland Visitor Visa from the United States'
-date: 2022-04-13 08:10:00
+date: 2023-01-24 08:10:00
 description: Since Iceland is a member of the Schengen Visa Agreement, all persons requiring visas, not holding a valid Schengen visa in their travel document, must apply for a visa at the applicable embassy/consulate before traveling to Iceland. If you intend to apply for a visa to travel to Iceland in the United States, there are five offices in the United States that issue visas on Iceland’s behalf. Please be sure you are applying for your Schengen visa through the correct Embassy or Consulate-General.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/iceland/icelandvisitorvisathumbnail.jpg'
 categories: iceland

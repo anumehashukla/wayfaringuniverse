@@ -1,13 +1,13 @@
 ---
 title: 'Your Ultimate Guide to Iceland'
-date: 2022-04-13 10:10:00
+date: 2023-01-24 10:10:00
 description: Traveling to Iceland and wondering what are the main highlights of Iceland, how much time you need to visit this beautiful country, and what’s the best itinerary to follow? Are there any fuel stations along the ring road? What are the cheap grocery places? I am sharing our experience-based suggestions and itinerary ideas for ten days in this post.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/iceland/ultimateguidetoiceland.jpg'
 categories: iceland
 ---
 
 Traveling to Iceland and wondering what are the main highlights of Iceland, how much time you need to visit this beautiful country, and what’s the best itinerary to follow? Are there any fuel stations along the ring road? What are the cheap grocery places? I am sharing our experience-based suggestions and itinerary ideas for ten days in this post.
-[Here is a 10-day road trip itinerary along ring road](/iceland/ring-road)
+[Here is a 10-day road trip itinerary along ring road](https://wayfaringuniverse.com/iceland/self-driving-iceland-ring-road)
 
 
 ## Best time to visit Iceland

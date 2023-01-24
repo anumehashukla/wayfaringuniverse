@@ -1,11 +1,11 @@
 ---
 title: 'Fly Geyser'
-date: 2022-04-11 12:00:00
+date: 2023-01-24 11:00:00
 description: Like most of you, I have seen pictures of Fly Geyser all over the internet for years. It is advertised as a man-made geyser everywhere which made me always wonder why someone would create a fountain in the middle of the desert, why not someplace near a city. I honestly thought for a long time that the structure and colors and everything were all man-made.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/flygeyserthumbnail.jpg'
 categories: unitedstates
 ---
-Like most of you, I have seen pictures of Fly Geyser all over the internet for years. It is advertised as a man-made geyser everywhere which made me always wonder why someone would create a fountain in the middle of the desert, why not someplace near a city. I honestly thought for a long time that the structure and colors and everything were all man-made. Hence, I had little interest in seeing this human creation until 2018, when I came across one article where I read about an interesting story about its inception. And that piece of information just blew me away. So the only "Man-Made" part in this entire thing was the hole that was just accidentally dug into the earth, the rest of everything is mother nature. I went back, saw those pictures all over again, and just thought how beautiful it is, as impressive as [Yellowstone](/unitedstates/10-springs-to-see-in-yellowstone) but "not famous." This made me want to visit this place and fortunately got an opportunity to see it in September of 2018.
+Like most of you, I have seen pictures of Fly Geyser all over the internet for years. It is advertised as a man-made geyser everywhere which made me always wonder why someone would create a fountain in the middle of the desert, why not someplace near a city. I honestly thought for a long time that the structure and colors and everything were all man-made. Hence, I had little interest in seeing this human creation until 2018, when I came across one article where I read about an interesting story about its inception. And that piece of information just blew me away. So the only "Man-Made" part in this entire thing was the hole that was just accidentally dug into the earth, the rest of everything is mother nature. I went back, saw those pictures all over again, and just thought how beautiful it is, as impressive as [Yellowstone](https://wayfaringuniverse.com/unitedstates/10-springs-to-see-in-yellowstone) but "not famous." This made me want to visit this place and fortunately got an opportunity to see it in September of 2018.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/unitedstates/flygeyser/flygeyserafternoon.jpg)
 *<center class="image-caption">Fly geyser is one of the best-kept secrets in Nevada.</center>*
@@ -29,7 +29,7 @@ In 2016, the Burning Man Project bought the Fly Ranch, and just recently, in dec
 <br>
 
 ---
-In April 2018, for the first time, Fly geyser was opened to public visits. You can find tickets for the guided walk [here.](https://blackrockdesert.ticketleap.com/2022-fly-ranch-nature-walks/)
+In April 2018, for the first time, Fly geyser was opened to public visits. You can find tickets for the guided walk [here.](https://blackrockdesert.ticketleap.com/2023-fly-ranch-nature-walks-saturday-morning-and-evening-walks/)
 <br>They suggest a donation of a minimum of $40 per person.
 
 Meet the group at [Friends of Black Rock High Rock Visitor Centre](https://goo.gl/maps/VFZVwrh6wpe7FRDJ8). Please reach 10 to 15 mins before the tour starts since you need to fill out some forms. And then from there, you do carpool to the fly ranch, which is around 20 miles, 25 mins drive from the visitor center.

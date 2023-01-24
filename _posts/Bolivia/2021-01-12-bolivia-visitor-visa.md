@@ -1,6 +1,6 @@
 ---
 title: 'Bolivia Tourist Visa from the United States'
-date: 2022-04-13 11:00:00
+date: 2023-01-24 11:00:00
 description: Bolivia requires many tourists to obtain a visa. You will need to get a tourist visa if your country falls under the Type II or Type III category. Visa is valid for 30 days since the date of entry. It's a single entry visa.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/bolivia/boliviavisathumbnail.jpg'
 categories: bolivia
@@ -26,7 +26,7 @@ Find out which category your country falls in [here](http://boliviala.org/touris
 [Consulado General de Bolivia - Houston, TX](http://www.boliviatx.org/)<br>
 [Consulado General de Bolivia - Los Angeles](http://boliviala.org/)<br>
 [Consulado General de Bolivia - Miami, FL](http://boliviamiami.com/)<br>
-[Consulado General de Bolivia - New York](https://boliviany.org/en/consular-affairs/visas/tourist-visa)
+[Consulado General de Bolivia - New York](https://consulados.cancilleria.gob.bo/nueva-york/)
 
 ## Application Fee
 <br>

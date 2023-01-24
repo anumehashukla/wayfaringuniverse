@@ -1,6 +1,6 @@
 ---
 title: 'Bioluminescence'
-date: 2022-04-11 13:00:00
+date: 2023-01-24 11:00:00
 description: Yes, bioluminescence is happening at our very own Santa Cruz Coastline. Last night was the first time I've ever seen them! What a great surprise after the Comet! This has been really good!
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bioluminescenceThumbnail.jpg'
 categories: unitedstates
@@ -8,7 +8,7 @@ categories: unitedstates
 *August 4, 2020*<br><br>
 Bioluminescence in Santa Cruz, California!
 
-Last night was the first time I've ever seen them! What a great surprise after the [Comet!](/astronomy/comet-neowise) This has been really good!
+Last night was the first time I've ever seen them! What a great surprise after the [Comet!](https://wayfaringuniverse.com/astronomy/comet-neowise) This has been really good!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bI4UiSJ6tRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 

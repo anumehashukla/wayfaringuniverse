@@ -1,12 +1,12 @@
 ---
 title: 'The Atacama Giant'
-date: 2022-04-05 13:12:00
+date: 2023-01-24 13:12:00
 description: 2019 had been a year of geoglyphs for us, the mighty Nazca lines in July, Blythe in November, and then the most intriguing geoglyphs of the Atacama desert in December.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/chile/atacamagiant.jpg'
 categories: chile
 ---
 
-2019 had been a year of geoglyphs for us, the mighty [Nazca lines](/peru/nazca-lines) in July, Blythe in November, and then the most intriguing geoglyphs of the Atacama desert in December.<br><br>
+2019 had been a year of geoglyphs for us, the mighty [Nazca lines](https://wayfaringuniverse.com/peru/nazca-lines) in July, Blythe in November, and then the most intriguing geoglyphs of the Atacama desert in December.<br><br>
 So Nazca lines are not the only enigmatic ancient drawings in South America. Chile's the Atacama Desert is also host to a set of geoglyphs best seen from the air. Giant pictures of lizards, llamas, cats, and birds are doodled across the deserts of northern Chile. Atacama Giant or Tarapacá Giant or Gigante de Tarapacá is one of the most enigmatic figures of hundreds of these geoglyphs.
 
 

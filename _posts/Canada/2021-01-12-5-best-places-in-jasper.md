@@ -1,11 +1,14 @@
 ---
 title: '5 Best places to see in Jasper National Park'
-date: 2021-01-12 09:00:00
+date: 2023-01-24 09:00:00
 featured_image: '/images/canada/IMG_1.jpg'
 categories: canada
 ---
 
-### 1. Columbia Icefield
+## 1. Columbia Icefield
+<br>
+
+---
 
 The Icefields Parkway that joins Lake Louise to Jasper traces the backbone of the Continental Divide. Of the 100 glaciers that grace its edge, the Columbia Icefield's Athabasca Glacier is the most famous.<br>
 
@@ -20,13 +23,25 @@ Take an excursion in an enormous Brewster Ice Explorer onto the surface of the A
 *<center class="image-caption">Athabasca Glacier</center>*
 
 
-### 2. Mt Edith Cavell
+## 2. Mt Edith Cavell
+<br>
+
+---
 
 ![](/images/canada/f4484543.jpg)
 
-### 3. Maligne Lake
-### 4. Athabasca Falls
-### 5. Sunwapta Falls
+## 3. Maligne Lake
+<br>
+
+---
+## 4. Athabasca Falls
+<br>
+
+---
+## 5. Sunwapta Falls
+<br>
+
+---
 
 
 

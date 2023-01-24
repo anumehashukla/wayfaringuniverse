@@ -1,6 +1,6 @@
 ---
 title: 'Bay Area Hikes'
-date: 2023-01-20 15:00:00
+date: 2023-01-24 11:00:00
 description: A collection of bay area hikes with some tips and tricks about them based on our hiking experience during the pandemic.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: [unitedstates, treks-hikes]
@@ -25,10 +25,8 @@ There are a few things that I noticed while hiking these trails which might help
 <br>
 
 If you're looking to get out and move, here are some great options. I have compiled a list of all our hikes, with details and links to the AllTrails page. All of the trails mentioned in this list are either out-and-back or loop trails, except for the Dipsea Trail, which is a point-to-point trail, meaning it doesn't end at the same trailhead.<br><br>
-
- [See 2021](/unitedstates/bay-area-hikes#hikes2021){: .js-no-ajax}
-
- [See 2022](/unitedstates/bay-area-hikes#hikes2022){: .js-no-ajax}
+ [See 2021](#hikes2021){: .js-no-ajax} <br>
+ [See 2022](#hikes2022){: .js-no-ajax}
 
 *Expand the Legend on the left for trailhead details*
 {: id="trailheadsMap"}
@@ -360,8 +358,6 @@ Ninety percent of the people were unmasked. So avoid it until Covid ends.
 
 ## 2022
 {: id="hikes2022"}
-
-<br>
 
 1. [Timberview, Giant Salamander, & Fir Trail Loop](https://www.alltrails.com/explore/trail/us/california/timberview-trail-giant-salamander-trail-and-fir-trail-loop)*- 6.2 miles, Elev Gain 1400 ft*
 <br>Moderate, shaded trail in El Corte De Madera Creek Open Space Preserve. The trail crosses the beautiful Tafoni formations.*(The structures covering the sandstone are called Tafoni, which is Italian for the cavern. Thousands of years of complex weathering processes created the caves, columns, and sandy surfaces that are smooth in some areas and covered with labyrinths of knobs and ridges in others.)* Couple of very steep sections & one super super super steep section. Recommend doing it clockwise as the AllTrails suggests since there is no way to do that super steep section downhill until you have hiking poles.
