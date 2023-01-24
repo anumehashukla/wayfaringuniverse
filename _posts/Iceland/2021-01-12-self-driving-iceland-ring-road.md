@@ -75,7 +75,7 @@ Geothermal area
 ![](/images/iceland/ringRoad/gulfoss_IMG_0049.jpg)
 
 
-[Spend Night at Skjol campsite](/iceland/camping-ring-road#SkjolCampground){: .js-no-ajax}
+[Spend Night at Skjol campsite](/iceland/camping-iceland-ring-road#SkjolCampground){: .js-no-ajax}
 <br><br><br>
 
 # DAY 2
@@ -115,7 +115,7 @@ There are two viewpoints for Skogafoss. One is just from parking to the base of 
  It is also the trailhead for Fimmvörðuháls hike (also referred to as the Fimm hike). The highlight of this hike is able to walk through a wide variety of panoramas within a day: beginning at the ocean, going up past 26 waterfalls to lush tundra, then across a volcanic plain home to some of the world’s most recent volcanic activity.<br>
 
 
-[Spend Night at Skogar Campsite](/iceland/camping-ring-road#SkogarCampground){: .js-no-ajax}
+[Spend Night at Skogar Campsite](/iceland/camping-iceland-ring-road#SkogarCampground){: .js-no-ajax}
 <br><br><br>
 
 # DAY 3
@@ -178,7 +178,7 @@ Vik is a charming small town in southern Iceland. Stop by for a hot cup of coffe
 
 <br>
 
-[Spend Night at Þakgil campsite Thakgil](/iceland/camping-ring-road#ÞakgilCampground){: .js-no-ajax}
+[Spend Night at Þakgil campsite Thakgil](/iceland/camping-iceland-ring-road#ÞakgilCampground){: .js-no-ajax}
 
 (*type Thakgil on google maps, Not to be confused with the one at Vik, in fact it is 40 minutes awaya from Vik*)
 <br><br><br>
@@ -211,7 +211,7 @@ Vik is a charming small town in southern Iceland. Stop by for a hot cup of coffe
   Svartifoss waterfall hike via Lambhagi and Kvarnakofalág is a 4 km heavily trafficked loop trail located in Southern Iceland. Svartifoss is famous for its basalt columns.
   <br>
   <br>
-[Spend Night at Svinafell Campground](/iceland/camping-ring-road#SvinafellCampground){: .js-no-ajax}
+[Spend Night at Svinafell Campground](/iceland/camping-iceland-ring-road#SvinafellCampground){: .js-no-ajax}
 <br><br><br>
 
 # DAY 5
@@ -240,7 +240,7 @@ Coordinates for Diamond Beach: 64.044512, -16.177440
 
 ![](/images/iceland/ringRoad/diamondbeach_DSC3070.jpg)
 
-[Spend Night at Hofn campsite](/iceland/camping-ring-road#HofnCampground){: .js-no-ajax}
+[Spend Night at Hofn campsite](/iceland/camping-iceland-ring-road#HofnCampground){: .js-no-ajax}
 <br><br><br>
 
 # DAY 6
@@ -257,7 +257,7 @@ Indeed very photogenic!!
 Small beautiful town, definitely a must stop along ring road.
 
 
-[Spend Night at Fjalladyrd Möðrudalur campground](/iceland/camping-ring-road#MöðrudalurCampground){: .js-no-ajax}
+[Spend Night at Fjalladyrd Möðrudalur campground](/iceland/camping-iceland-ring-road#MöðrudalurCampground){: .js-no-ajax}
 <br><br><br>
 
 # DAY 7
@@ -314,7 +314,7 @@ You can totally skip this one, not worth visiting.
 
 ## 9. Hverfjall
 
-[Spend Night at Fosshóll Guesthouse Campground](/iceland/camping-ring-road#FosshóllCampground){: .js-no-ajax}
+[Spend Night at Fosshóll Guesthouse Campground](/iceland/camping-iceland-ring-road#FosshóllCampground){: .js-no-ajax}
 <br><br><br>
 
 # DAY 8
@@ -327,7 +327,7 @@ You can totally skip this one, not worth visiting.
 
 ## 3. Grundarfjörður
 
-[Spend Night at Grundarfjordur Campground](/iceland/camping-ring-road#GrundarfjordurCampground){: .js-no-ajax}
+[Spend Night at Grundarfjordur Campground](/iceland/camping-iceland-ring-road#GrundarfjordurCampground){: .js-no-ajax}
 <br><br><br>
 
 # DAY 9
