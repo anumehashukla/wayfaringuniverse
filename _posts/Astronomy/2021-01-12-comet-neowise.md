@@ -1,13 +1,13 @@
 ---
 title: 'Comet Neowise'
-date: 2022-04-01 11:17:00
-description: Comet Neowise is bracing the morning skies these days. The comet was discovered on March 27 by the NEOWISE space telescope, is expected to be visible to the naked eye for most of July.
+date: 2023-09-13 11:17:00
+description: Comet Neowise, officially designated C/2020 F3, is capturing the world's attention with its stunning appearance in the night sky. It was discovered by NASA's NEOWISE space telescope on March 27, 2020, has became a celestial spectacle for skywatchers around the globe. With its bright, visible tail and brilliant coma, Comet Neowise will grace our skies in the early hours of the morning throughout July. Its appearance marks a rare opportunity for both amateur and professional astronomers to observe a comet with the naked eye.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/astronomy/cometneowisethumbnail.jpg'
 categories: astronomy
 ---
 *July 8, 2020*
 <br><br>
-C/2020 F3 or Comet Neowise is bracing the morning skies these days. The comet was discovered on March 27 by the NEOWISE space telescope, is expected to be visible to the naked eye for most of July.
+Comet Neowise, officially designated C/2020 F3, is capturing the world's attention with its stunning appearance in the night sky. It was discovered by NASA's NEOWISE space telescope on March 27, 2020, has become a celestial spectacle for skywatchers around the globe. With its bright, visible tail and brilliant coma, Comet Neowise will grace our skies in the early hours of the morning throughout July. Its appearance marks a rare opportunity for both amateur and professional astronomers to observe a comet with the naked eye.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/astronomy/cometneowise/cometneowiseatdawn.jpg)
 *<center class="image-caption">4:45 in the morning! July 8, 2020</center>*
@@ -21,16 +21,17 @@ C/2020 F3 or Comet Neowise is bracing the morning skies these days. The comet wa
 <br>
 
 ---
-For those of you who are planning to observe this celestial splendor, look for Venus in the eastern sky, which is easy to spot being the brightest :)<br>
-Look towards the left, there is a bright star Capella, Neowise will be below it. It is very much visible to the naked eye.
-<br><br>
-Note it will become visible in the evening sky after July 12. Look towards the northwestern sky about an hour after sunset; it just sits below the big dipper.
+For those of you eager to witness this celestial spectacle, keep your gaze fixed on the eastern horizon to locate Venus, the most radiant point in the celestial tapestry :)
+
+Now, shift your attention to the left, where the luminous star Capella graces the heavens. Just below Capella, you'll find Neowise, a celestial visitor easily discernible without the aid of telescopes or binoculars.
+
+Note that Neowise will become visible in the evening sky starting from July 12 onwards. Approximately an hour after sunset, direct your gaze towards the northwestern sky, and you'll spot it nestled just beneath the constellation of the Big Dipper.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/astronomy/cometneowise/cometneowise.jpg)
 *<center class="image-caption">C/2020 F3</center>*
 <br>
 
-If not using binoculars or small scopes, it will be more easier to locate the comet pre-dawn(around 4:30ish) since the sky would be darker.
+If you're not using binoculars or small scopes, finding the comet will be even easier during the pre-dawn hours, around 4:30 AM, as the sky will be darker and provide better visibility.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/astronomy/cometneowise/cometneowisedusk.jpg){: .portrait-image}
 <br>

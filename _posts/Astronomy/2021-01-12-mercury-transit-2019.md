@@ -1,13 +1,13 @@
 ---
-title: 'Mercury Transit 2019'
-date: 2022-04-01 11:04:00
+title: 'Mercury Transit'
+date: 2023-09-13 11:04:00
 description: Today the west coast woke up to the rare event of Mercury transiting across the sun! The transit already began at 4:35 a.m. PST much before the sunrise. By the time the Sun rose on the West Coast, Mercury had already been transiting the Sun for nearly two hours. We were lucky to have clear skies today to witness this singular beauty.
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/astronomy/mercurytransit/mercury.jpg'
 categories: astronomy
 ---
 *November 11, 2019*
 
-Today the west coast woke up to the rare event of Mercury transiting across the sun! The transit already began at 4:35 a.m. PST much before the sunrise. By the time the Sun rose on the West Coast, Mercury had already been transiting the Sun for nearly two hours. We were lucky to have clear skies today to witness this singular beauty.
+Today the west coast woke up to the rare event of Mercury transiting across the sun! The transit commenced at 4:35 a.m. PST, well before sunrise. By the time the Sun appeared on the horizon, Mercury had already been transiting for nearly two hours. We were fortunate to enjoy clear skies, allowing us to marvel at this exceptional celestial spectacle.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/astronomy/mercurytransit/mercury.jpg){: .portrait-image}
 *<center class="image-caption">Can you spot it?</center>*
