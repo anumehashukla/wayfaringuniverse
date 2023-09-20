@@ -1,14 +1,14 @@
 ---
 title: '5 hikes not to miss in Glacier National Park'
-date: 2022-04-05 10:00:00
+date: 2023-09-13 10:00:00
 description:
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/treks-hikes/glaciernationalparkhikethumbnail.jpg'
 categories: [treks-hikes, unitedstates]
 ---
 
-Glacier National Park has over 700 miles of hiking trails. I have picked up five hikes which is a varied selection of moderate and easy hikes.
+Glacier National Park has over 700 miles of hiking trails. These hikes offer stunning vistas of pristine lakes, rugged mountains, and diverse wildlife. Whether you're a seasoned hiker or just starting out, there's a trail in Glacier National Park for every level of outdoor enthusiast. I have picked up five hikes which is a varied selection of moderate and easy hikes.
 
-## Points to note
+## Points to note before you go hiking
 
 * <mark>Bear Spray.</mark> Carry Bear Spray. Be sure you know how to use it. (there are tons of youtube videos on this). Stow bear spray inside your backpack (not in the side pockets) when you are not hiking. This prevents an accidental discharge in crowded areas and otherwise. Please note Bear sprays are not allowed either in carry-on or checked-in luggage.
 * <mark>Waterproof hiking shoes.</mark> Proper footwear is necessary. Wear waterproof hiking shoes.
@@ -48,7 +48,9 @@ If you have a boat tour reservation at Many Glacier and would like to travel the
 
 ##### Distance : _6 miles_, Elevation Gain : _757 ft_
 
-This trail also covers the Trail of cedars ( a 0.9-mile trail), which is another popular and beautiful hike in Glacier NP.
+This trail also covers the Trail of cedars (a 0.9-mile trail), which is another popular and beautiful hike in Glacier NP. The hike itself is relatively moderate, making it accessible to a wide range of hikers. It is well-maintained and offers interpretive signs, enhancing the educational aspect of the journey. Keep an eye out for wildlife, as you may spot deer, birds, or even the occasional bear.
+
+
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/treks-hikes/glaciernationalparkhikes/avalanchelake.jpg)
 *<center class="image-caption">Avalanche Lake</center>*
@@ -64,7 +66,7 @@ This trail also covers the Trail of cedars ( a 0.9-mile trail), which is another
 
 ##### Distance : _4 miles_, Elevation Gain : _520 ft_
 
-Alltrails shows the trailhead at the St Mary Shuttle stop, but I am afraid that section is closed as of Sept 2021, and you can't park there. So instead, park at St Mary Falls Parking lot. Nice hike, multiple waterfalls. Virginia falls is definitely the highlight of the hike.
+Alltrails shows the trailhead at the St Mary Shuttle stop, but I am afraid that section is closed as of Sept 2021, and you can't park there. So instead, park at St Mary Falls Parking lot. Nice hike, multiple waterfalls. Virginia falls is definitely the highlight of the hike. While the hike is not overly strenuous and is heavily trafficked, it's essential to come prepared with proper footwear and bear spray, as this is bear country, and precautions are necessary.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/treks-hikes/glaciernationalparkhikes/virginiafalls.jpg)
 *<center class="image-caption">Virginia Falls</center>*
@@ -80,7 +82,7 @@ Alltrails shows the trailhead at the St Mary Shuttle stop, but I am afraid that 
 
 ##### Distance : _1.6 miles_, Elevation Gain : _160 ft_
 
-Paradise Point trail is in the Two Medicine Lake area. I would highly recommend doing it either around sunrise or sunset. It's an easy hike with gorgeous views of Two Medicine Lake.
+Paradise Point trail is in the Two Medicine Lake area. I strongly suggest taking this hike either at sunrise or sunset. As you begin the hike at the trailhead, you're immediately greeted by a dense forest of towering trees. The scent of pine fills the air, and the soft rustling of leaves underfoot creates a soothing atmosphere. The highlight of Paradise Point Trail is, of course, the viewpoint itself. The trail culminates at an overlook that provides a breathtaking panoramic view of the Two Medicine Lake. The trail itself is relatively short and not strenuous, making it suitable for hikers of all ages and skill levels. It's an excellent choice for a family outing or a peaceful solo adventure.
 
 ## 5. Running Eagle Falls Nature Trail
 <br>
@@ -89,7 +91,7 @@ Paradise Point trail is in the Two Medicine Lake area. I would highly recommend 
 
 ##### Distance : _0.6 mile_, Elevation Gain : _negligible_
 
-Nice short, well-marked hike/walk. Unique waterfall coming out of a rock. Most of the trail is paved. It is also wheelchair accessible.
+It's short, well-marked and accessible trail which offers a delightful escape into the heart of Glacier's wilderness. Unique waterfall coming out of a rock. Most of the trail is paved. It is also wheelchair accessible.
 
 ![]({{site.data.settings.basic_settings.cdn_url}}/treks-hikes/glaciernationalparkhikes/runningeaglefalls.jpg)
 *<center class="image-caption">Running Eagle Falls</center>*
