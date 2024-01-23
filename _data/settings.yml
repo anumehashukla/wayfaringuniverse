@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Wayfaring Universe
+  site_title: The Outdoor Observer
   favicon_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/favicon.png'
   cdn_url: 'https://wayfaringuniversecdn.azureedge.net/image-container'
 
@@ -19,17 +19,17 @@ grid_settings:
   grid_spacing: 20
 
 contact_settings:
-  form_action: 'https://formspree.io/anumeha@wayfaringuniverse.com'
+  form_action: 'https://formspree.io/f/xoqgjege'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/wayfaringuniverse/'
+  facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/the.outdoor.observer/'
   snapchat_url: ''
-  youtube_url: 'https://www.youtube.com/channel/UCgfMFv1FxzKO33OO8Q6Ed-A'
+  youtube_url: ''
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
