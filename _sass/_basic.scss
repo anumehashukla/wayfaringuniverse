@@ -139,6 +139,12 @@ h6, .h6 {
     font-size: $h6-large;
   }
 }
+ul.task-list {
+    list-style-type: none
+}
+ul.task-list-item {
+    list-style-type: none
+}
 
 p, ul, ol {
   margin-top: 15px;
@@ -173,6 +179,8 @@ ol li::marker {
   color: black;
   font-weight: 400;
 }
+
+
 
 blockquote {
   margin-top: 15px;
@@ -303,10 +311,24 @@ hr {
   background: $accent-color;
 }
 
-::selection 	 { background: $accent-color; color: $background-color; }
+::selection    { background: $accent-color; color: $background-color; }
 ::-moz-selection { background: $accent-color; color: $background-color; }
 
+mark {
+  font-size: $h5-small;
+  font-weight: $h5-weight;
+  line-height: $h5-lineheight;
+  letter-spacing: $h5-spacing;
+  font-style: italic;
+  background-color: #fcfac7;
+    @include mq(tabletp) {
+    font-size: $h5-medium;
+  }
 
+  @include mq(laptop) {
+    font-size: $h5-large;
+  }
+}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page loading
 
