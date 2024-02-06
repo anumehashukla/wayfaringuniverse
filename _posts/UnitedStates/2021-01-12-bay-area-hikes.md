@@ -1,6 +1,6 @@
 ---
 title: 'Bay Area Hikes'
-date: 2024-01-24 11:00:00
+date: 2024-02-5 11:00:00
 description: Explore the best Bay Area hikes and elevate your outdoor adventure with insider tips and tricks based on my seasoned hiking adventures. Uncover hidden gems, navigate trails like a pro, and make the most of your trekking experience. Start your journey to unparalleled landscapes and unparalleled insights now!
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: [unitedstates, treks-hikes]
@@ -24,11 +24,15 @@ We have lived in San Francisco for five years now but never got a chance to expl
 * To locate and keep track of the hikes, I relied on AllTrails. I observed that around 99% of the hikes were actually 0.3 to 0.5 miles longer than what was initially stated on the AllTrails app. The free version of the app proved to be quite useful for navigating through all of these trails.
 <br>
 
-If you're seeking outdoor activities to stay active, I've gathered a collection of excellent options for you. Below is a comprehensive list of our hikes, complete with pertinent information and links to their respective AllTrails pages. All the trails mentioned in this list are either out-and-back or loop trails, except for the Dipsea Trail, which is a point-to-point trail, meaning it doesn't conclude at the same starting point.<br><br>
- [See Easy Trails](#easyTrails){: .js-no-ajax} <br>
- [See Moderate Trails](#moderateTrails){: .js-no-ajax} <br>
- [See Hard Trails](#hardTrails){: .js-no-ajax} <br>
- [See Walks](#walks){: .js-no-ajax}
+
+If you're seeking outdoor activities to stay active, I've gathered a collection of excellent options for you. Below is a comprehensive list of our hikes, complete with pertinent information and links to their respective AllTrails pages. All the trails mentioned in this list are either out-and-back or loop trails, except for the Dipsea Trail, which is a point-to-point trail, meaning it doesn't conclude at the same starting point.
+<br><br>
+*Happy Trails!*
+<br><br>
+ [Easy Trails](#easyTrails){: .js-no-ajax} <br>
+ [Moderate Trails](#moderateTrails){: .js-no-ajax} <br>
+ [Hard Trails](#hardTrails){: .js-no-ajax} <br>
+ [Walks](#walks){: .js-no-ajax}
 
 *Expand the Legend on the left for trailhead details*
 {: id="trailheadsMap"}
@@ -257,7 +261,44 @@ Note - Mushroom collecting is prohibited and creek access/use is prohibited from
 <mark>Difficulty/Condition:</mark> Easy, Mostly Shaded<br>
 <mark>Location:</mark> *[China Camp State Park](https://www.parks.ca.gov/?page_id=466)*<br>
 <br>
-
+31. [Tarwater Trail Loopl Loop](https://www.alltrails.com/trail/us/california/tarwater-trail-loop)*- 5 mile, Elev Gain 750 ft*
+<br>The trailhead parking is situated along a narrow, winding road, and the last mile can be challenging with potholes. As you begin the hike, the initial first mile descends under the sun, while the rest of the hike provides abundant shade, rendering it a superb option for a warm day.
+The forest, dominated by coast redwood ferns and other shade-loving plants thrive in the lower elevations.
+We did it on a Sunday afternoon, and encountered minimal crowds, crossing paths with only three other people. Recent rainfall resulted in muddy sections along the trail but despite the mud, the hike was so pretty especially the redwood grove. One notable aspect we appreciated was the extraordinary silence, as not even a hint of wind disturbed the tranquility. The scent of the surroundings was particularly pleasant due to the recent rains.<br>
+We thoroughly enjoyed this hike and plan to do it again. It provided a serene and beautiful escape, with the redwood grove standing out as a highlight.<br>
+**Important Note:** A fellow hiker we met at the trailhead shared a cautionary tale about ticks on her dog. It's advisable to be cautious and aware of ticks in the area during your hike.<br><br>
+<mark>Parking:</mark> Available, Free<br>
+<mark>Restrooms:</mark> Not available, but there is one located nearby at Mindego Parking Area on the Alpine Road<br>
+<mark>Difficulty/Condition:</mark> Easy, Mostly Shaded<br>
+<mark>Location:</mark> *[Pescadero Creek Park](https://www.smcgov.org/parks/pescadero-creek-park)*<br>
+<br>
+<br>
+32. [Old Railroad Grade Fire Road](https://www.alltrails.com/explore/trail/us/california/old-railroad-grade-fire-road)*- 4 mile, Elev Gain 600 ft*
+<br>Old Railroad Grade Fire Road in Mill Valley is a fantastic hiking spot. The trail is suitable for various skill levels, making it an excellent choice for both beginners and experienced hikers. It follows an old railroad route, perfect for a leisurely escape into nature. The path is well-maintained, with a gradual incline that makes it accessible for beginners. The packed dirt trail is easy on the knees, and there are shaded areas to cool off on warmer days. It wasn't busy; we only encountered a few bikers during our visit.<br>
+Parked alongside Fern Canyon Road, where parking is limited to only 2 to 3 cars. Alternatively, you can park at the trail's end on W Blithedale Ave.<br><br>
+<mark>Parking:</mark> Available, Free, you park by the side of the road, limited to  2 to 3 cars<br>
+<mark>Restrooms:</mark> Not available<br>
+<mark>Difficulty/Condition:</mark> Easy, Partly Shaded<br>
+<mark>Location:</mark> *[Mount Tamalpais State Park](https://www.parks.ca.gov/?page_id=471)*<br>
+<br>
+<br>
+33. [Rodeo Lagoon to Point Bonita Lighthouse](https://www.alltrails.com/explore/trail/us/california/rodeo-lagoon-to-point-bonita-lighthouse)*- 4.4 miles, Elev Gain 406 ft*
+<br>Keep in mind that the section leading directly to the Point Bonita lighthouse is accessible only during limited hours each week. We hiked around sunrise, and the lighthouse was closed. So the trail is 3.62 miles long, and if the lighthouse is closed. However, if the lighthouse is open, the total distance increases to 4.4 miles. Nevertheless, it was the best sunrise we saw in the Bay Area, offering gorgeous views of the ocean, Golden Gate Bridge, and the city. It was truly breathtaking. Started the hike at 6:30 am, and to my surprise, the parking lot was completely empty—no cars at all, especially unexpected for a weekend.
+Descending back to the beach was tricky, some sketchy sections, might pose challenges with stability concerns, hiking poles could be useful.<br>
+Excellent trail—highly recommend catching the sunrise.<br><br>
+<mark>Parking:</mark> Available, Free at Rodeo beach<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Easy, Not Shaded<br>
+<mark>Location:</mark> *[Marin Headlands](https://www.nps.gov/goga/marin-headlands.htm)*<br>
+<br>
+34. [Grass Valley, Goldenrod, Horseshoe, and Brandon Trail Loop](https://www.alltrails.com/explore/trail/us/california/grass-valley-goldenrod-horseshoe-and-brandon-trail-loop)*- 4.4 miles, Elev Gain 550 ft*
+<br>If you're seeking some fresh air outdoors and peaceful time, this is the perfect choice. The trail is relatively uneventful, with no breathtaking views. It mainly traverses through a valley and a small section of the forest. This trail is not heavily trafficked, so finding parking was easy. There were hardly any people on this trail. You can choose either to park at Bort Meadow staging area or Clyde Woolride staging area.<br><br>
+<mark>Parking:</mark> Available<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Easy, Very little shade<br>
+<mark>Location:</mark> *[Lake Chabot Regional Park](https://www.ebparks.org/parks/lake-chabot)*<br>
+<br>
+<br>
 <br>
 
 ---
@@ -458,6 +499,15 @@ With proper planning (plenty of water and sunscreen) and timing, this hike could
 <mark>Restrooms:</mark> No Restrooms<br>
 <mark>Difficulty/Condition:</mark> Moderate, Shaded<br>
 <mark>Location:</mark> *[El Corte de Madera Creek Preserve](https://www.openspace.org/preserves/el-corte-de-madera-creek)*<br>
+<br>
+27. [Timberview and Gordon Mill Trail](https://www.alltrails.com/explore/trail/us/california/timerberview-and-gordon-mill-trail)*- 6 mile, Elev Gain 1440 ft*
+<br>As I so much love forest hikes, El Corte Madera Creek Preserve is always a pleasure to hike. The well-defined trails and the lush expanse of the dense forest adds to the overall hiking experience. There are a few steep downhill sections on this trail, but the uphill portions are gradual, ensuring a manageable ascent. The trailhead has limited parking space, so if you plan to hike on weekends, it's advisable to begin in the afternoon to secure a spot. The trail is also popular among bikers.<br>
+<mark>Parking:</mark> Available, Free<br>
+<mark>Restrooms:</mark> No Restrooms<br>
+<mark>Difficulty/Condition:</mark> Moderate, Shaded<br>
+<mark>Location:</mark> *[El Corte de Madera Creek Preserve](https://www.openspace.org/preserves/el-corte-de-madera-creek)*<br>
+<br>
+<br>
 
 <br>
 <br>
