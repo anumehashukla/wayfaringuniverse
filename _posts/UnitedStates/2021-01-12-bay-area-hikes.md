@@ -1,6 +1,6 @@
 ---
 title: 'Bay Area Hikes'
-date: 2024-02-5 11:00:00
+date: 2024-02-6 11:00:00
 description: Explore the best Bay Area hikes and elevate your outdoor adventure with insider tips and tricks based on my seasoned hiking adventures. Uncover hidden gems, navigate trails like a pro, and make the most of your trekking experience. Start your journey to unparalleled landscapes and unparalleled insights now!
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: [unitedstates, treks-hikes]
@@ -164,7 +164,7 @@ The trail is well-marked and overgrown in some sections, but overall pretty main
 <mark>Parking:</mark> Available, Fee $8<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Difficulty/Condition:</mark> Easy, Partly shaded <br>
-<mark>Location:</mark> Mt. Tamalpais Watershed<br>
+<mark>Location:</mark> *[Mount Tamalpais Watershed](https://www.marinwater.org/AboutMtTam)*<br>
 <br>
 18. [Lands End Trail ](https://www.alltrails.com/explore/trail/us/california/lands-end-trail)*- 3.4 miles, Elev Gain 538 ft*
 <br>Experience a breathtaking trail with stunning vistas! Whether the weather is shrouded in fog or bathed in sunlight, you'll be treated to awe-inspiring views. The trail is open throughout the year, consider going on this trail during the enchanting moments of sunset. It's an absolute must-do!<br><br>
@@ -297,6 +297,14 @@ Excellent trail—highly recommend catching the sunrise.<br><br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Difficulty/Condition:</mark> Easy, Very little shade<br>
 <mark>Location:</mark> *[Lake Chabot Regional Park](https://www.ebparks.org/parks/lake-chabot)*<br>
+<br>
+35. [Dawn Falls Trail](https://www.alltrails.com/explore/trail/us/california/dawn-falls?mobileMap=false&ref=sidebar-static-map)*- 2.3 mile, Elev Gain 375 ft*
+<br>This hike is adorned with trees and the soothing melody of a creek. The well-shaded path provides minimal washout, picturesque spots for photography, and an overall peaceful ambiance. A worthwhile journey for those seeking diverse nature experiences.<br><br>
+Parking near the trailhead can be a challenge, requiring strategic timing and a potential quarter-mile walk.
+<mark>Parking:</mark> Available, Free<br>
+<mark>Restrooms:</mark> No<br>
+<mark>Difficulty/Condition:</mark> Easy, Shaded<br>
+<mark>Location:</mark> *[Blithedale Summit Open Space Preserve](https://www.parks.marincounty.org/parkspreserves/preserves/blithedale-summit)*<br>
 <br>
 <br>
 <br>
@@ -439,7 +447,6 @@ With proper planning (plenty of water and sunscreen) and timing, this hike could
 <mark>Location:</mark> *[Garin/Dry Creek Pioneer Regional Park, Union City](https://www.ebparks.org/parks/garin-dry-creek)*<br>
 <br>
 19. [Slate Creek Loop](https://www.alltrails.com/explore/trail/us/california/slate-creek-loop)*- 5.4 miles, Elev Gain 1043 ft*
-<br>
 <br>One of the most striking aspects of the Slate Creek Loop Trail is the dense redwood forest that envelops you from the moment you set foot on the trail. Towering trees create a serene and tranquil atmosphere, providing a refreshing escape from the hustle and bustle of everyday life. The shade offered by these ancient giants makes it an ideal hike even on hot summer days. As you make your way along the trail, you'll encounter several picturesque spots that are perfect for pausing and soaking in the natural beauty. These include scenic viewpoints, moss-covered bridges, and even the remnants of an old homestead, adding a touch of history to the hike. The diversity of flora and fauna along the trail is impressive, providing ample opportunities for nature enthusiasts and photographers to capture breathtaking moments. No/Poor cell reception within the park and the surrounding area, so I would advise to download offline maps before hitting the trail. A must-do!<br><br>
 <mark>Parking:</mark> Available, $10 vehicle day-use fee<br>
 <mark>Restrooms:</mark> Available<br>
@@ -462,7 +469,6 @@ With proper planning (plenty of water and sunscreen) and timing, this hike could
 <mark>Location:</mark> *[Marin Headlands](https://www.nps.gov/goga/marin-headlands.htm)*<br>
 <br>
 22. [San Pedro Beach to Devil's Slide ](https://www.alltrails.com/explore/trail/us/california/san-pedro-beach-to-devil-s-slide)*- 6.7 miles, Elev Gain 1,115 ft*
-<br>
 <br> This Pacifica trail offers a mix of coastal beauty and diverse terrain. The paved sections, while not everyone's favorite, are balanced by stunning views and varying landscapes. Despite some drawbacks, like proximity to the highway, this trail offers great views. The starting point may be challenging to find, but the spectacular coastal views and inclines are worth the effort. The trail's entrance might be tricky to find, but once on the path, expect gorgeous coastal vistas, occasional encounters with poison oak, and the occasional foggy day. A must-do hike for Bay Area enthusiasts.<br><br>
 <mark>Parking:</mark> Available, $6<br>
 <mark>Restrooms:</mark> Available<br>
@@ -507,9 +513,28 @@ With proper planning (plenty of water and sunscreen) and timing, this hike could
 <mark>Difficulty/Condition:</mark> Moderate, Shaded<br>
 <mark>Location:</mark> *[El Corte de Madera Creek Preserve](https://www.openspace.org/preserves/el-corte-de-madera-creek)*<br>
 <br>
+28. [Fort Point - Baker Beach Coast Trail ](https://www.alltrails.com/trail/us/california/fort-point-baker-beach-coast-trail)*- 4 mile, Elevation Gain 850 ft*
+<br>The Fort Point - Baker Beach Coast Trail seamlessly combines history and nature. Beginning at the historic Fort Point beneath the Golden Gate Bridge, the trail offers stunning views of the bridge, bay, and Pacific Ocean. The terrain is easy and suitable for all hikers, although be prepared for lots of stairs along the way. Ample signage and informational plaques provide insights into the historical significance of Fort Point and the surrounding areas.<br>
+Keep in mind that the weather along the coast can be unpredictable, so it's advisable to dress in layers and be prepared for brisk winds. Additionally, weekends may attract more visitors, so planning a weekday visit can enhance the overall experience.<br>
+If you live in San Francisco or are visiting the city, I highly recommend doing this trail.<br><br>
+<mark>Parking:</mark> Available, Free<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Moderate, No shade<br>
+<mark>Location:</mark> *Presidio, San Francisco*<br>
 <br>
-
+29. [Baltimore Canyon via Dawn Falls Trail Loop](https://www.alltrails.com/explore/trail/us/california/baltimore-canyon-via-dawn-falls-trail-loop)*- 6 mile, Elev Gain 615 ft*
+<br>I really enjoyed this trail—it was super green with a nice forest smell. The hike through the wooded canyons was mostly easy, except for a bit of a steep part. The redwoods and the creeks were cool. The only downside was the last mile and a half on the road. It's a great pick for a warm day hike!<br><br>
+<mark>Parking:</mark> Available, Free, limited to about four cars<br>
+<mark>Restrooms:</mark> No<br>
+<mark>Difficulty/Condition:</mark> Moderate, Shaded<br>
+<mark>Location:</mark> *[Blithedale Summit Open Space Preserve](https://www.parks.marincounty.org/parkspreserves/preserves/blithedale-summit)*<br>
 <br>
+30. [Sunset, Sequoia Bayview, Cinderella, and Sinawik Loop](https://www.alltrails.com/explore/trail/us/california/sunset-sequoia-bayview-cindarella-and-sinawik-loop)*- 3.2 miles, Elev Gain 560 ft*
+<br>One of the highlights of this trail is the presence of redwoods in Joaquin Miller Park, considered a rare gem thriving in an urban setting. It is a shaded haven of redwood groves and oak woodlands. The dense canopy of trees providing much-needed shade throughout the journey, making it perfect for a sunny day. It is moderately challenging but it is accessible to a wide range of fitness levels, offering a balanced challenge without overwhelming those seeking a leisurely outdoor activity. Must-do!<br><br>
+<mark>Parking:</mark> Available<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Moderate, Shaded, perfect for a sunny day<br>
+<mark>Location:</mark> *[Joaquin Miller Park](https://www.oaklandca.gov/topics/joaquin-miller-park)*<br>
 <br>
 <br>
 
@@ -534,14 +559,12 @@ With proper planning (plenty of water and sunscreen) and timing, this hike could
 <mark>Difficulty/Condition:</mark> Hard, Lots of shade <br>
 <mark>Location:</mark> *[Henry Cowell Redwoods State Park](https://www.parks.ca.gov/?page_id=546)*<br>
 <br>
-<br>
 3. [Mount Diablo Grand Loop Trail ](https://www.alltrails.com/trail/us/california/mount-diablo-grand-loop)*- 7 mile, Elev Gain 2,000 ft*
 <br> It's a challenging hike with lots of elevation. The trail commences with a downhill stretch, followed by a relentless and arduous ascent towards the summit of Mt. Diablo. Be prepared for narrow passages at certain points along the way, adding an extra element of thrill. Opting to undertake the hike clockwise on a tranquil Sunday evening proved to be a wise choice, as we encountered few fellow hikers. Ample parking was conveniently accessible at the Diablo Valley Overlook. The vistas throughout the journey were absolutely splendid, treating us to breathtaking scenery. Fortunately, we reached the summit just in the nick of time to witness a truly magnificent sunset. This hike is an absolute must for outdoor enthusiasts in Bay Area!<br><br>
 <mark>Parking:</mark> Available, Vehicle Entrance Fee $10<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Difficulty/Condition:</mark> Hard, Partly shaded <br>
 <mark>Location:</mark> *[Mount Diablo State Park](https://www.parks.ca.gov/?page_id=517)*<br>
-<br>
 <br>
 4. [Mitchell Canyon and Eagle Peak Loop ](https://www.alltrails.com/trail/us/california/eagle-peak-loop)*- 8.3 mile, Elev Gain 2,200 ft*
 <br>The hike actually spans 8.3 miles, contrary to the incorrect measurement of 7.7 miles reported by AllTrails. It is moderately challenging with intermittent shade. We hiked in a counterclockwise direction, encountering a gradual ascent but facing a rather treacherous downhill section. The descent featured a couple of very steep segments and loose gravel, which made me regret not having hiking poles. It proved to be tough on the knees, and unfortunately, I even took a fall on the gravel portion. Fortunately, I escaped without any serious injury. Therefore, I strongly recommend hiking poles specifically for the descent. The initial 3 miles of the hike provided refreshing shade. We started our hike at approximately 4:00 pm and completed it in around 3 hours and 40 minutes. Encountering only a few individuals at the trailhead, we had the trail mostly to ourselves. Remember to bring a pen and some cash as self-registration is necessary for parking.<br><br>
@@ -643,7 +666,15 @@ With proper planning (plenty of water and sunscreen) and timing, this hike could
 <mark>Difficulty/Condition:</mark> Easy, No Shade, Paved, Stroller friendly<br>
 <mark>Location:</mark> *[Hayward Regional Shoreline](https://www.ebparks.org/parks/hayward)*<br>
 <br>
-
+14. [Montclair Railroad Trail Shepherd Canyon](https://www.alltrails.com/explore/trail/us/california/montclair-railroad-trail-shepherd-canyon)*- 3.1 mile, Elev Gain 253 ft*
+<br>If you're in the mood for a leisurely stroll surrounded by nature, this cute and easy paved trail might be just what you need. Located conveniently with street parking available, the trail offers a mostly shaded and paved path, making it perfect for a sunny day.<br>
+However, finding the trailhead was tricky. Navigating through the right stairs took some time, and AllTrails might not be reliable. Though, as a fully accessible ramp on La Salle provides a smooth entry point, ensuring everyone can enjoy this beautiful trail. The initial section may pose a challenge for strollers due to stairs, but once past that hurdle, the trail is suitable for dogs, kids, and strollers alike. We saw a lot of people with strollers. <br><br>
+<mark>Parking:</mark> Available<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Easy, Shaded, Stroller friendly<br>
+<mark>Location:</mark> *[Shepherd Canyon Park](https://www.oaklandparks.org/shepherd-canyon-park/)*<br>
+<br>
+<br>
 <br>
 
 ---
