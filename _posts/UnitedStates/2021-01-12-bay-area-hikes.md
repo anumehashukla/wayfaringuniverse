@@ -1,6 +1,6 @@
 ---
 title: 'Bay Area Hikes'
-date: 2024-02-7 11:00:00
+date: 2024-02-17 11:00:00
 description: Explore the best Bay Area hikes and elevate your outdoor adventure with insider tips and tricks based on my seasoned hiking adventures. Uncover hidden gems, navigate trails like a pro, and make the most of your trekking experience. Start your journey to unparalleled landscapes and unparalleled insights now!
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaHikes.jpg'
 categories: [unitedstates, treks-hikes]
@@ -335,6 +335,35 @@ Keep an eye out for poison oak.<br><br>
 <mark>Difficulty/Condition:</mark> Easy, Fully exposed, do it in Feb at sunrise or sunset<br>
 <mark>Location:</mark> *[Sycamore Grove Park](https://www.larpd.org/sycamore-grove-park)*<br>
 <br>
+40. [Phoenix Lake Loop via Gertrude-Ord Trail](https://www.alltrails.com/explore/trail/us/california/phoenix-lake-loop-via-gertrude-ord-trail)*- 2.9 miles, Elev Gain 230 ft*
+<br>Lovely hike around the Mount Tamalpais Watershed, an often-overlooked park in close proximity to Mount Tamalpais State Park. Be sure to heed the timely gate closures in the Mt Tam watershed, as one local resident advised us. Along the trail, you'll also come across an ancient cabin adding to the charm of the experience.<br><br>
+<mark>Parking:</mark> Available, $8 daily parking fee<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Easy, partly shaded<br>
+<mark>Location:</mark> *[Mount Tamalpais Watershed](https://www.marinwater.org/AboutMtTam)*<br>
+<br>
+41. [Prewett Point Trail](https://www.alltrails.com/explore/trail/us/california/prewett-point-trail)*- 1 mile, Elev Gain negligible*
+<br>If you're short on time and looking for a quick hike at Pinnacles National Park, this trail is an ideal choice. I completed it during sunset, and the scenery was stunning. The trail is well maintained and easy, suitable for hikers of all levels. You'll also find benches conveniently placed along the way.<br><br>
+<mark>Parking:</mark> Available, $30 National Park entrance fee<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Easy, not shaded, must-do at sunset<br>
+<mark>Location:</mark> *[Pinnacles National Park](https://www.nps.gov/pinn/index.htm)*<br>
+<br>
+42. [Skyline, Brandon, Two Rocks, Columbine, and Cascade Loop](https://www.alltrails.com/explore/trail/us/california/brandon-trail-two-rocks-trail-and-columbine-trail-loop)*- 6.4 miles, Elev Gain 925 ft*
+<br>Few inclines in some places but otherwise an easy trail. I spotted wildflowers, birds, and even a few squirrels. The trail is clearly marked, making it easy to navigate. Additionally, take into consideration that the trail provides partial shade, so plan accordingly. Personally, I opted for an evening hike, which spared me from any issues with the sun. However, it could become quite hot, especially during other times of the day.<br><br>
+<mark>Parking:</mark> Available, Free<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Easy, Partly shaded<br>
+<mark>Location:</mark> *[Anthony Chabot Regional Park](https://www.ebparks.org/parks/anthony-chabot)*<br>
+<br>
+43. [Alambique, Meadow, Redwood and Bear Gulch Trail Loop ](https://www.alltrails.com/trail/us/california/alambique-meadow-redwood-and-bear-gulch-trail-loop)*- 6 mile, Elev Gain 1,174 ft*
+<br>The Alambique Trail part of this hike is an unpaved service road which serves as the gateway to Skyline, featuring key destinations like "Alambique Flat" and "The Crossroads," each have inviting benches. En route to Alambique Flat, you encounter Wunderlich's largest redwood, preserved from logging due to its distinctive features. This then connects to Bear Gulch Trail which is a single-track path winding through a mixed forest, from stables uphill through bay, Douglas fir, tan oak, and madrone. Finally the route connects to the Redwood Trail which is a path through mixed forest dominated by majestic redwoods. While all part of a single hike, these interconnected trails offer distinct experiences as they traverse diverse surroundings. Some lead through expansive meadows, while others wind through enchanting forests, providing a varied and captivating journey within Wunderlich Park.<br><br>
+*Trivia - James A Folger II of the Folgers Coffee Company purchased property here and built the Folger Stable. The stable and adjoining land were sold to Martin Wunderlich, who later donated it to the county for a public park.*<br><br>
+<mark>Parking:</mark> Available, Free<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Easy, Mostly shaded, Picnic tables<br>
+<mark>Location:</mark> *[Wunderlich Park](https://www.smcgov.org/parks/wunderlich-park)*<br>
+<br>
 <br>
 <br>
 
@@ -586,6 +615,42 @@ If you live in San Francisco or are visiting the city, I highly recommend doing 
 <mark>Difficulty/Condition:</mark> Moderate, Shaded, Perfect for forest bathing<br>
 <mark>Location:</mark> *[El Corte de Madera Creak Open Space Preserve](https://www.openspace.org/preserves/el-corte-de-madera-creek)*<br>
 <br>
+32. [Crystal Springs and Dean Trail](https://www.alltrails.com/explore/trail/us/california/crystal-springs-and-dean-trails)*- 5 mile, Elev Gain 940 ft*
+<br>I would classify this trail as moderate difficulty, leaning towards the easier side due to the gradual incline. The uphill is quite gradual, and I officially categorize it as moderate primarily because of the total amount of elevation gain. One of the standout features of this trail is its stunning natural surroundings - lush greenery, tall trees, and beautiful wildflowers that also makes it shaded thoughout. Just a heads up, the park gates close at 7:00 pm.<br><br>
+<mark>Parking:</mark> Available, Fee of $6 **(CASH ONLY)**<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Moderate, Shaded, Picnic tables, Perfect for forest bathing<br>
+<mark>Location:</mark> *[Huddart Park](https://www.smcgov.org/parks/huddart-park)*<br>
+<br>
+33. [Hamms Gulch to Spring Ridge Trail Loop](https://www.alltrails.com/explore/trail/us/california/hamms-gulch-to-spring-ridge-trail-loop--2)*- 7.6 miles, Elev Gain 1540 ft*
+<br>If you enjoy hiking on shaded trails, this might not be the perfect hike for you. The route is a combination of sunlight and shade, so it's advisable to bring sufficient water and sun protection. Despite the heat during our hike on a partly cloudy day, the trail was lovely, panoramic views at the top and an abundance of wildflowers. Opting for weekdays can offer a quieter and more serene environment as there are usually fewer people on the trail.<br>
+Note -"On 11/26/2023, two hikers with dogs at the preserve after hours were followed by coyotes for several miles. The hikers and their dogs were not harmed. Visitors that hike with dogs may want to consider alternative activities, or locations for the time being."<br><br>
+<mark>Parking:</mark> Available, Free<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Moderate, Partly shaded, bring plenty of water<br>
+<mark>Location:</mark> *[Windy Hill Open Space Preserve](https://www.openspace.org/preserves/windy-hill)*<br>
+<br>
+34. [Grabtown Gulch to Purisima Creek Loop](https://www.alltrails.com/explore/trail/us/california/grabtown-gulch-to-purisima-creek-loop)*- 5.2 miles, Elev Gain 1280 ft*
+<br>Nice, well-kept path with lots of shade. I found a really pretty hike in Purisima Creek Redwoods Open Space Preserve. It's kind of like Muir Woods, with everything super green and beautiful. The initial portion of the trail descends gracefully, while the latter part involves an uphill climb. Be prepared for some moderately steep segments, totaling 1200 feet over a slightly more than 2-mile distance. This is one of my favorite trails in the Bay Area. Those gentle whispers of the rustling leaves and the earthy fragrance of the forest floor, I loved every bit of it. Must-do!<br><br>
+<mark>Parking:</mark> Available but very limited, Free<br>
+<mark>Restrooms:</mark> No<br>
+<mark>Difficulty/Condition:</mark> Shaded, Forest bathing<br>
+<mark>Location:</mark> *[Purisima Creek Redwoods Open Space Preserve](https://www.google.com/search?client=firefox-b-1-d&q=purisima+creek+redwoods+open+space+preserve)*<br>
+<br>
+35. [Stream Trail via Skyline Blvd ](https://www.alltrails.com/explore/trail/us/california/stream-trail-via-skyline-blvd)*- 5.2 mile, Elev Gain 718 ft*
+<br>I love hiking in the Redwood Regional Park, especially considering its convenient location near the city and the rich, dense forest it offers. The trail is well-kept, with ample shade provided by tall redwood trees. If you do it during the day, the sunlight peeks through the leaves, making it so pretty. The trail gets its name because it runs alongside a calm little creek. You'll cross a few small bridges over the creek, the sound of the running water make it more serene. <br><br>
+<mark>Parking:</mark> Available, Free<br>
+<mark>Restrooms:</mark> Available<br>
+<mark>Difficulty/Condition:</mark> Shaded, Forest bathing<br>
+<mark>Location:</mark> *[Reinhardt Redwood Regional Park](https://www.ebparks.org/parks/reinhardt-redwood)*<br>
+<br>
+36. [Raymundo Trail ](https://www.alltrails.com/explore/trail/us/california/raymundo-trail)*- 6 miles, Elev Gain 1,400 ft*
+<br>Imagine a nice walk through a shady trail surrounded by tall redwood trees. We did it on a day after a bit of rain, and wow, the forest smelled amazing! Best for forest bathing - you take a break, breathe in the fresh air, and let the nature vibes sink in. The well-maintained path meanders through a lush forest, which is home to second-growth redwoods. Elevation gain is actually higher than that stated on Alltrails. You have the option to park along the Skyline Boulevard (there is hardly any space to park)
+<mark>Parking:</mark> Available but very limited, Free<br>
+<mark>Restrooms:</mark> No<br>
+<mark>Difficulty/Condition:</mark> Shaded, Forest Bathing<br>
+<mark>Location:</mark> *[Phleger Estate](https://www.nps.gov/goga/phes.htm)*<br>
+<br>
 <br>
 <br>
 
@@ -732,6 +797,13 @@ If you enjoy nature and easy walks, this place is a gem!<br><br>
 <mark>Restrooms:</mark> No<br>
 <mark>Condition:</mark> Unshaded, Stroller friendly<br>
 <mark>Location:</mark> *[Wetlands Edge Park](https://napaoutdoors.org/parks/wetlands-edge-park/)*<br>
+<br>
+16. [Lake Merritt ](https://www.alltrails.com/trail/us/california/lake-merritt)*- 3.2 miles*
+<br>It's like a big circle around a beautiful lake, and it's about 3.2 miles long. You can find nice paths, pretty bridges, and lots of green spaces. The lake itself is home to many birds, like ducks and geese. Sometimes, you might even see a heron! It's a nice mix of city and nature, and it's a cool place to visit in Oakland. Though keep in mind it can get pretty busy.<br><br>
+<mark>Parking:</mark> A dedicated parking area for the lake is not available, so you will probably need to find street parking.<br>
+<mark>Restrooms:</mark> No<br>
+<mark>Condition:</mark> No Shade<br>
+<mark>Location:</mark> *[Lake Merritt](https://www.oaklandca.gov/topics/lake-merritt-the-jewel-of-oakland)*<br>
 <br>
 <br>
 <br>
