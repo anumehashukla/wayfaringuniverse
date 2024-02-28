@@ -1,6 +1,6 @@
 ---
 title: 'Bay Area Moderate Hikes'
-date: 2024-02-26 10:00:00
+date: 2024-02-27 10:00:00
 description: Explore the best Bay Area hikes and elevate your outdoor adventure with insider tips and tricks based on my seasoned hiking adventures. Uncover hidden gems, navigate trails like a pro, and make the most of your hiking experience. Start your journey to unparalleled landscapes and unparalleled insights now!
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaModerateHikes.jpg'
 categories: [unitedstates, treks-hikes]
@@ -8,44 +8,42 @@ categories: [unitedstates, treks-hikes]
 Discover Bay Area's Hidden Gems with me as Your Trail Guide!
 
 
-Let me be your guide to the hidden treasures of the Bay Area's breathtaking trails. Having hiked over 150 plus trails in the region, I've not only immersed myself in the diverse landscapes but meticulously documented each trail's nuances to ensure you have the most enriching outdoor experience possible. Whether you're a seasoned hiker or a novice adventurer, my passion is to provide you with detailed insights into each trail's difficulty, terrain, and unique features. From shaded strolls to sun-soaked challenges, I've got you covered.
+Let me be your guide to the hidden treasures of the Bay Area's breathtaking trails. Having hiked over 150 plus trails in the region, I've not only immersed myself in the diverse landscapes but meticulously documented each trail's nuances to ensure you have the most enriching outdoor experience possible. Whether you're a seasoned hiker or a novice adventurer, my focus is to provide you with detailed insights into each trail's difficulty, terrain, and unique features. From shaded strolls to sun-soaked challenges, I've got you covered.
 
 
 I’ve had many exciting experiences on these hikes, encountering a myriad of wildlife, from playful bunnies to majestic elk, and even the occasional coyote. On at least six different trails, my encounters included observing fascinating snakes. Beyond the wildlife, one of the highlights of these journeys was the opportunity to explore numerous Bay Area towns for the first time, such as Tiburon, San Anselmo, Livermore, Fairfax, Hayward, Corte Madera, Saratoga, Felton, and Moraga, etc.
 Explore the trails with confidence, knowing the best time to visit, the availability of restrooms, parking details, and any associated fees.
 
 
-For your convenience, I've organized the trails into four categories: [easy](https://theoutdoorobserver.com/unitedstates/treks-hikes/bay-area-hikes#easyTrails){: .js-no-ajax}, [moderate](#moderateTrails){: .js-no-ajax}, [hard](https://theoutdoorobserver.com/unitedstates/treks-hikes/bay-area-hard-hikes#hardTrails){: .js-no-ajax}, and [walks](https://theoutdoorobserver.com/unitedstates/treks-hikes/casual-strolls-in-bay-area#walks){: .js-no-ajax} based on their difficulty level. The 'walks' section is dedicated to gentle strolls with minimal elevation gain, perfect for those seeking a more relaxed outdoor experience.
-
-
-I heavily rely on Alltrails for its invaluable insights. While it's a fantastic resource, I've noticed a slight variation in trail measurements—usually around 0.1 miles off, with minimal discrepancies in elevation gain. To provide you with the most latest information, each trail description below includes a link to the corresponding Alltrails page.
+For your convenience, I've organized the trails into four categories: [easy](#easyTrails){: .js-no-ajax}, [moderate](https://theoutdoorobserver.com/unitedstates/treks-hikes/bay-area-moderate-hikes#moderateTrails){: .js-no-ajax}, [hard](https://theoutdoorobserver.com/unitedstates/treks-hikes/bay-area-hard-hikes#hardTrails){: .js-no-ajax}, and [walks](https://theoutdoorobserver.com/unitedstates/treks-hikes/casual-strolls-in-bay-area#walks){: .js-no-ajax} based on their difficulty level. The 'walks' section is dedicated to gentle strolls with minimal elevation gain, perfect for those seeking a more relaxed outdoor experience.
 
 
 Additionally, I've marked the trailheads on a map, categorized according to difficulty level. This feature makes it easier for you to find trails nearest to you or select hikes in a particular area, ensuring a seamless and personalized exploration of the Bay Area's trails.
-
+<br>
+<br>
 
 
 <b>*While hiking these trails, I made several observations that might be helpful for anyone interested in exploring them:*</b>
-
-
+<br>
+<br>
 
 * Although some of these hikes may not be visually striking, I purposely timed 90% of them to coincide with sunset, which greatly enhanced the overall ambiance. The breathtaking sunsets and delicate pink hues created an indescribable atmosphere. My primary objective was to stay active and immerse myself in nature.
-<br>
-<br>
-* I usually opted for hikes that had moderate to light foot traffic, avoiding heavily crowded ones unless I visited on weekdays.
 <br>
 <br>
 * Regarding the debate of hiking in the morning versus the afternoon, I discovered that afternoons offered better chances of finding parking spots. I had always believed that mornings were the optimal time for hiking, but it turns out I was mistaken. Afternoons meant fewer crowds and readily available parking.
 <br>
 <br>
+* I usually opted for hikes that had moderate to light foot traffic, avoiding heavily crowded ones unless I visited on weekdays.
+<br>
+<br>
 * Longer hikes mean fewer people. I noticed that longer hikes tended to have fewer people. Even when the parking lots were full, I rarely encountered more than ten individuals on such trails. I appreciated the tranquility and solitude of these hikes more.
 <br>
 <br>
-* To locate and keep track of the hikes, I relied on AllTrails. I observed that around 99% of the hikes were actually 0.3 to 0.5 miles longer than what was initially stated on the AllTrails app. The free version of the app proved to be quite useful for navigating through all of these trails.
+* I heavily rely on Alltrails for its invaluable insights. While it's a fantastic resource, I've noticed a slight variation in trail measurements—usually around 0.1 miles off, with minimal discrepancies in elevation gain. The free version of the app proved to be quite useful for navigating through all of these trails.
 <br>
 
 
-If you're seeking outdoor activities to stay active, I've gathered a collection of excellent options for you. Below is a comprehensive list of our hikes, complete with pertinent information and links to their respective AllTrails pages. All the trails mentioned in this list are either out-and-back or loop trails, except for the Dipsea Trail, which is a point-to-point trail, meaning it doesn't conclude at the same starting point.
+If you're seeking outdoor activities to stay active, I've gathered a collection of excellent options for you. Below is a comprehensive list of hikes, complete with pertinent information and links to their respective AllTrails pages. All the trails mentioned in this list are either out-and-back or loop trails, except for the Dipsea Trail, which is a point-to-point trail, meaning it doesn't conclude at the same starting point.
 
 
 *Happy Trails!*
@@ -69,7 +67,7 @@ If you're seeking outdoor activities to stay active, I've gathered a collection 
 <br>
 
 1. [Tomales Point Trail ](https://www.alltrails.com/trail/us/california/tomales-point-trail)*- 9.7 mile, Elev Gain 1200 ft*
-<br>This is one of the best hikes we did in the bay area. The trail is approximately 10 miles long; it is pleasant and easy. Suitable for various levels of hikers. It offers magnificent views of the coastline and ocean. Lots of wildlife as well - from majestic elk and deer to lively coyotes, quail, seals, birds, and rabbits; the trail offers an incredible opportunity to witness the wonders of wildlife up close. A thrilling encounter with a snake and one of the most breathtaking sunsets we've ever seen. Keep in mind there is no shade, so come prepared with sun protection. Some overgrown sections on the trail; otherwise, the conditions as great. Highly recommended!<br><br>
+<br>This is one of the best hikes I did in the bay area. The trail is approximately 10 miles long; it is pleasant and easy. Suitable for various levels of hikers. It offers magnificent views of the coastline and ocean. Lots of wildlife as well - from majestic elk and deer to lively coyotes, quail, seals, birds, and rabbits; the trail offers an incredible opportunity to witness the wonders of wildlife up close. A thrilling encounter with a snake and one of the most breathtaking sunsets we've ever seen. Keep in mind there is no shade, so come prepared with sun protection. Some overgrown sections on the trail; otherwise, the conditions as great. Highly recommended!<br><br>
 <mark>Parking:</mark> Available, Parking is off the Pierce Point Rd, Free<br>
 <mark>Restrooms:</mark> No restrooms, restroom nearby at McClures Beach Trailhead<br>
 <mark>Difficulty/Condition:</mark> No Shade<br>
@@ -83,37 +81,37 @@ If you're seeking outdoor activities to stay active, I've gathered a collection 
 <mark>Location:</mark> <i>[Golden Gate National Recreation Area](https://www.nps.gov/goga/index.htm)</i><br>
 <br>
 3. [Almaden Quicksilver McAbee Mine Trail New Almaden Trail ](https://www.alltrails.com/trail/us/california/almaden-quicksilver-mcabee-mine-trail-new-almaden-trail) *- 13.5 miles, Elev Gain 2300 ft*
-<br>The trail route has undergone changes since our hike in 2020. When we did it, the trail measured around 9.8 miles with an elevation gain of 1700 feet. The trailhead used to be located at the end of McAbee Rd, and some people still follow the old route (if you want to check out the old route, visit the activities section on AllTrails and search for activities dated before 2021). However, there is now a new trailhead that has a restroom and a parking lot, which is a welcome improvement. During our hike, parking was limited, requiring us to park off the street, and there were no restroom facilities available.<br>
-Regardless of the route you choose, it's advisable to avoid weekends due to the heavy trail traffic. We opted for a weekday hike, and it turned out to be perfect in terms of crowd levels. Additionally, I recommend selecting an overcast day for the hike, as the sun can be quite intense on a long hike like this. It's best to steer clear of hot summer days.
-While on the trail, we enjoyed nice views and got a good workout. It's worth noting that there was a mountain lion warning at the trailhead, so it's essential to remain vigilant. <br><br>
+<br>The trail route has undergone changes since I hiked in 2020. When I did it, the trail measured around 9.8 miles with an elevation gain of 1700 feet. The trailhead used to be located at the end of McAbee Rd, and some people still follow the old route (if you want to check out the old route, visit the activities section on AllTrails and search for activities dated before 2021). However, there is now a new trailhead that has a restroom and a parking lot, which is a welcome improvement. During my hike, parking was limited, requiring us to park off the street, and there were no restroom facilities available.<br>
+Regardless of the route you choose, it's advisable to avoid weekends due to the heavy trail traffic. I opted for a weekday hike, and it turned out to be perfect in terms of crowd levels. Additionally, I recommend selecting an overcast day for the hike, as the sun can be quite intense on a long hike like this. It's best to steer clear of hot summer days.
+While on the trail, I enjoyed nice views and got a good workout. It's worth noting that there was a mountain lion warning at the trailhead, so it's essential to remain vigilant. <br><br>
 <mark>Parking:</mark> Available<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Difficulty/Condition:</mark> Moderate, Partly shaded, Avoid weekends and go on an overcast day<br>
 <mark>Location:</mark> *[Almaden Quicksilver County Park](https://parks.sccgov.org/santa-clara-county-parks/almaden-quicksilver-county-park)*<br>
 <br>
 4. [Old Springs, Miwok, Wolf Ridge, Coastal and Tennessee Valley Loop ](https://www.alltrails.com/trail/us/california/old-springs-miwok-wolf-ridge-coastal-and-tennessee-valley-loop)*- 4.9 miles, Elev Gain 920 ft*
-<br>The trail presents awe-inspiring vistas that encompass San Francisco, Rodeo Beach, Tennessee Valley, the vast ocean, and the surrounding landscape. It has several steep but not too bad. It also has an intriguing point of interest: the abandoned Nike missile site. Sharing the same trailhead as the Tennessee Valley trail, this route sees less foot traffic on weekdays, although the parking lot can still fill up. It appears that most visitors are drawn to Tennessee Beach and other hikes originating from this trailhead. However, during our hike, we encountered only a few fellow hikers, providing a more secluded experience. It's important to note that the trail offers no shade, so it's advisable to bring ample water and sunscreen for sun protection. For a less crowded weekday hike, this trail comes highly recommended.<br><br>
+<br>The trail presents awe-inspiring vistas that encompass San Francisco, Rodeo Beach, Tennessee Valley, the vast ocean, and the surrounding landscape. It has several steep but not too bad. It also has an intriguing point of interest: the abandoned Nike missile site. Sharing the same trailhead as the Tennessee Valley trail, this route sees less foot traffic on weekdays, although the parking lot can still fill up. It appears that most visitors are drawn to Tennessee Beach and other hikes originating from this trailhead. However, during my hike, I encountered only a few fellow hikers, providing a more secluded experience. It's important to note that the trail offers no shade, so it's advisable to bring ample water and sunscreen for sun protection. For a less crowded weekday hike, this trail comes highly recommended.<br><br>
 <mark>Parking:</mark> Available<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Difficulty/Condition:</mark> Moderate, No Shade, Do it on a weekday<br>
 <mark>Location:</mark> *[Marin Headlands](https://www.nps.gov/goga/marin-headlands.htm)*<br>
 <br>
 5. [Bootjack Trail Loop ](https://www.alltrails.com/trail/us/california/bootjack-trail-loop?ref=result-card)*- 6.3 miles, Elev Gain 1,151 ft*
-<br>Instead of beginning at the Muir Woods parking lot, we opted to start our hike from the Pantoll Campground. This alternative route added approximately half a mile and 200 feet of elevation to the trail. However, the convenience of starting from Pantoll was unbeatable as it didn't require a Muir Woods Parking Permit for hiking. The scenery was absolutely breathtaking, especially because we went on this hike after a bout of rainfall. The creeks were brimming with water, forming charming little waterfalls along the way. The forest floor was adorned with vibrant ferns and delicate wildflowers, painting a picture-perfect scene of natural beauty. A must-do!<br><br>
+<br>Instead of beginning at the Muir Woods parking lot, I opted to start this hike from the Pantoll Campground. This alternative route added approximately half a mile and 200 feet of elevation to the trail. However, the convenience of starting from Pantoll was unbeatable as it didn't require a Muir Woods Parking Permit for hiking. The scenery was absolutely breathtaking, especially because I went on this hike after a bout of rainfall. The creeks were brimming with water, forming charming little waterfalls along the way. The forest floor was adorned with vibrant ferns and delicate wildflowers, painting a picture-perfect scene of natural beauty. A must-do!<br><br>
 <mark>Parking:</mark> Available, Free<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Difficulty/Condition:</mark> Moderate, Shaded<br>
 <mark>Location:</mark> <i>[Muir Woods](https://www.nps.gov/muwo/index.htm)</i><br>
 <br>
 6. [Seaborg and Mariposa Loop Trail ](https://www.alltrails.com/explore/trail/us/california/seaborg-and-mariposa-loop-trail)*- 7.5 mile, Elev Gain 1500 ft*
-<br>This moderately challenging trail is an excellent choice for anyone seeking an invigorating workout amidst beautiful natural surroundings. The trail spans a good distance and offers a mix of inclines that really get your heart pumping and your calves burning, but the rewarding views make every step worthwhile. Interestingly, we didn't come across any fellow hikers on the trail except for a few individuals in the parking lot. The solitude provided a tranquil and serene experience as if we had the entire trail to ourselves. We did it around sunset, and the enchanting pink hues of the sky, complemented by the magnificent backdrop of Mt. Diablo, created a truly remarkable scene.<br><br>
+<br>This moderately challenging trail is an excellent choice for anyone seeking an invigorating workout amidst beautiful natural surroundings. The trail spans a good distance and offers a mix of inclines that really get your heart pumping and your calves burning, but the rewarding views make every step worthwhile. Interestingly, I didn't come across any fellow hikers on the trail except for a few individuals in the parking lot. The solitude provided a tranquil and serene experience as if I had the entire trail to ourselves. I did it around sunset, and the enchanting pink hues of the sky, complemented by the magnificent backdrop of Mt. Diablo, created a truly remarkable scene.<br><br>
 <mark>Parking:</mark> Available<br>
 <mark>Restrooms:</mark> Available (portable)<br>
 <mark>Difficulty/Condition:</mark> Moderate, Partly shaded, Carry plenty of water<br>
 <mark>Location:</mark> *[Briones Regional Park](https://www.ebparks.org/parks/briones)*<br>
 <br>
 7. [King Canyon Loop Trail ](https://www.alltrails.com/trail/us/california/kings-canyon-loop-trail)*- 7.3 mile, Elev Gain 1000 ft*
-<br>According to AllTrails, the trail measures 6.4 miles; however, my own tracking showed 7.32 miles on AllTrails and 7.1 miles on my watch, suggesting that the actual distance is likely longer than the listed 6.4 miles. Surprisingly, despite doing it on a Sunday afternoon, the trail was not crowded. The overcast and chilly weather conditions in November might have contributed to the fewer hikers we encountered. It's a pretty hike, with nice views of the reservoir and the surrounding area. It's quite tranquil, likely due to the absence of large crowds. However, be cautious of sun exposure if you end up going on a sunny day.<br><br>
+<br>According to AllTrails, the trail measures 6.4 miles; however, my own tracking showed 7.32 miles on AllTrails and 7.1 miles on my watch, suggesting that the actual distance is likely longer than the listed 6.4 miles. Surprisingly, despite doing it on a Sunday afternoon, the trail was not crowded. The overcast and chilly weather conditions in November might have contributed to the fewer hikers I encountered. It's a pretty hike, with nice views of the reservoir and the surrounding area. It's quite tranquil, likely due to the absence of large crowds. However, be cautious of sun exposure if you end up going on a sunny day.<br><br>
 <mark>Parking:</mark> Available, You need a trail Permit to hike; it's $3 per day. Trail permit holders can take members of their immediate family and 3 guests. Purchase it *[here.](https://www.ebmud.com/recreation/buy-trail-permit)*<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Difficulty/Condition:</mark> Moderate, Partly shaded<br>
@@ -141,7 +139,7 @@ While on the trail, we enjoyed nice views and got a good workout. It's worth not
 <mark>Location:</mark> *[Foothills Nature Preserve](https://www.cityofpaloalto.org/Departments/Community-Services/Open-Space-Parks/Neighborhood-Parks/Foothills-Nature-Preserve)*<br>
 <br>
 11. [Castle Rocks Lower Loop ](https://www.alltrails.com/trail/us/california/castle-rocks-lower-loop)*- 6.5 mile, Elev Gain 1200 ft*
-<br> The trail, spanning a distance of 6.5 miles, is remarkable in its beauty and quality. However, it tends to attract a significant amount of foot traffic until it intersects with the Interconnector Trail. This popularity often leads to heavy congestion. When we did it, it came to a complete halt for approximately 15 minutes, with a queue of at least 30 people forming. Surprisingly, beyond that juncture, the trail becomes devoid of any human presence. It appears that most individuals opt for alternative trails, which is why I would recommend avoiding this particular route on weekends. Some scrambling skills are required around boulders. Cable rails have been installed along certain sections to help hikers. It's worth noting that the last two miles of the trail are accompanied by the somewhat bothersome background noise from a nearby gun range. Nonetheless, the hike itself is truly exceptional, especially when accompanied by excellent weather. The views along the Saratoga Gap trail are nothing short of breathtaking.<br><br>
+<br> The trail, spanning a distance of 6.5 miles, is remarkable in its beauty and quality. However, it tends to attract a significant amount of foot traffic until it intersects with the Interconnector Trail. This popularity often leads to heavy congestion. When I did it, it came to a complete halt for approximately 15 minutes, with a queue of at least 30 people forming. Surprisingly, beyond that juncture, the trail becomes devoid of any human presence. It appears that most individuals opt for alternative trails, which is why I would recommend avoiding this particular route on weekends. Some scrambling skills are required around boulders. Cable rails have been installed along certain sections to help hikers. It's worth noting that the last two miles of the trail are accompanied by the somewhat bothersome background noise from a nearby gun range. Nonetheless, the hike itself is truly exceptional, especially when accompanied by excellent weather. The views along the Saratoga Gap trail are nothing short of breathtaking.<br><br>
 <mark>Parking:</mark> Available, $10 entry fee<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Difficulty/Condition:</mark> Moderate, Shaded, Forest bathing<br>
@@ -185,14 +183,14 @@ A significant highlight of this hike is the point where the trail intersects wit
 <mark>Location:</mark> *[El Corte de Madera Creak Open Space Preserve](https://www.openspace.org/preserves/el-corte-de-madera-creek)*<br>
 <br>
 17. [McNee Ranch to Planet of the Apes ](https://www.alltrails.com/trail/us/california/mcnee-ranch-to-planet-of-the-apes)*- 5.8 miles, Elev Gain 1266 ft*
-<br>Nice hike! There were a few steep sections that required caution, especially when descending. It is highly recommended to wear appropriate footwear, such as hiking shoes, to ensure stability. The trailhead on Highway 1 has limited parking, accommodating only around six cars. Alternatively, parking at Montara State Beach, which is a short distance of 0.2 miles from the trailhead, is a viable option. It's worth noting that the distance reported on AllTrails is inaccurate, as the hike measured approximately 5.8 miles when done counterclockwise. This route can be considered moderately difficult in that direction. Our choice to hike on a weekday evening offered the delightful bonus of witnessing a stunning sunset over the Pacific Ocean.<br><br>
+<br>Nice hike! There were a few steep sections that required caution, especially when descending. It is highly recommended to wear appropriate footwear, such as hiking shoes, to ensure stability. The trailhead on Highway 1 has limited parking, accommodating only around six cars. Alternatively, parking at Montara State Beach, which is a short distance of 0.2 miles from the trailhead, is a viable option. It's worth noting that the distance reported on AllTrails is inaccurate, as the hike measured approximately 5.8 miles when done counterclockwise. This route can be considered moderately difficult in that direction. My choice to hike on a weekday evening offered the delightful bonus of witnessing a stunning sunset over the Pacific Ocean.<br><br>
 <mark>Parking:</mark> Limited for about only six cars, the alternate option to park at nearby Montara Beach (0.2 miles), No fee<br>
 <mark>Restrooms:</mark> Not available (can find them at Montara State Beach)<br>
 <mark>Difficulty/Condition:</mark> Moderate, Partly Shaded, Do it around sunset<br>
 <mark>Location:</mark> *[McNee Ranch, Pacifica](https://www.coastsidestateparks.org/mcnee-ranch)*<br>
 <br>
 18. [High Ridge Loop Trail ](https://www.alltrails.com/trail/us/california/high-ridge-loop-trail)*- 5.8 mile, Elev Gain 1,223 ft*
-<br>There are countless scenic views to behold along this trail.  As you reach higher elevations, you'll be rewarded with sweeping vistas of the entire Bay Area. These breathtaking views serve as a reminder of the beauty of the Bay Area and add an extra touch of magic to the hiking experience. The trail is well-maintained, with clearly defined paths and occasional benches for hikers to rest and take in the surroundings. We did it on an overcast day and it was gorgeous. While AllTrails may classify it as a hard trail, in my opinion, it falls more into the moderate difficulty range. It's important to mention that there is no shade and it is totally exposed to the sun.
+<br>There are countless scenic views to behold along this trail.  As you reach higher elevations, you'll be rewarded with sweeping vistas of the entire Bay Area. These breathtaking views serve as a reminder of the beauty of the Bay Area and add an extra touch of magic to the hiking experience. The trail is well-maintained, with clearly defined paths and occasional benches for hikers to rest and take in the surroundings. I did it on an overcast day and it was gorgeous. While AllTrails may classify it as a hard trail, in my opinion, it falls more into the moderate difficulty range. It's important to mention that there is no shade and it is totally exposed to the sun.
 With proper planning (plenty of water and sunscreen) and timing, this hike could be easily done. A must-do!<br><br>
 <mark>Parking:</mark> Available, Parking in Dry Creek Staging Area, $5 per vehicle<br>
 <mark>Restrooms:</mark> Available<br>
@@ -207,14 +205,14 @@ With proper planning (plenty of water and sunscreen) and timing, this hike could
 <mark>Location:</mark> *[Portola Redwoods State Park](https://www.parks.ca.gov/?page_id=539)*<br>
 <br>
 20. [North Peak via Montara Mountain Trail ](https://www.alltrails.com/trail/us/california/north-peak-via-montara-mountain-trail)*- 7 mile, Elev Gain 1,677 ft*
-<br>The climb is a steady incline. It was astonishing to begin our journey around 8:00 am on a Sunday and encounter only a handful of individuals along the trail. The scenery is absolutely stunning as it has both the bay and the ocean. I highly suggest undertaking this hike; however, keep in mind that the sun can become intense as the day progresses, so it's advisable to schedule your hike for either early morning or late afternoon.<br><br>
+<br>The climb is a steady incline. It was astonishing to begin the journey around 8:00 am on a Sunday and encounter only a handful of individuals along the trail. The scenery is absolutely stunning as it has both the bay and the ocean. I highly suggest undertaking this hike; however, keep in mind that the sun can become intense as the day progresses, so it's advisable to schedule your hike for either early morning or late afternoon.<br><br>
 <mark>Parking:</mark> Available, Fee $6 per vehicle<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Difficulty/Condition:</mark> Moderate, partially shaded<br>
 <mark>Location:</mark> *[San Pedro Valley Park](https://www.smcgov.org/parks/san-pedro-valley-park)*<br>
 <br>
 21. [Rodeo Beach, Coastal Trail and Miwok Trail ](https://www.alltrails.com/trail/us/california/rodeo-beach-coastal-trail-and-miwok-trail)*- 5.3 miles, Elevation Gain 1,076 ft*
-<br>The trail begins at Rodeo Beach, which is a stunning expanse of golden sand bordered by rugged cliffs. The views of the Pacific Ocean are simply breathtaking, with crashing waves and a refreshing sea breeze. The beach is a great spot for picnicking, sunbathing, or even some beachcombing. The trail itself is well-maintained and moderately challenging, making it accessible to hikers of various skill levels. There are also several lookout points along the way that provide panoramic vistas of the Marin Headlands, the Golden Gate Bridge, and the San Francisco skyline in the distance. There are a couple of steep climbs, but they are manageable. We did it on a Sunday afternoon and were pleasantly surprised to find the trail relatively empty, despite the beach being swarmed with people. The parking lot is expansive, and finding a spot was a breeze.
+<br>The trail begins at Rodeo Beach, which is a stunning expanse of golden sand bordered by rugged cliffs. The views of the Pacific Ocean are simply breathtaking, with crashing waves and a refreshing sea breeze. The beach is a great spot for picnicking, sunbathing, or even some beachcombing. The trail itself is well-maintained and moderately challenging, making it accessible to hikers of various skill levels. There are also several lookout points along the way that provide panoramic vistas of the Marin Headlands, the Golden Gate Bridge, and the San Francisco skyline in the distance. There are a couple of steep climbs, but they are manageable. I did it on a Sunday afternoon and were pleasantly surprised to find the trail relatively empty, despite the beach being swarmed with people. The parking lot is expansive, and finding a spot was a breeze.
 <br><br>
 <mark>Parking:</mark> Available, Free<br>
 <mark>Restrooms:</mark> Available<br>
@@ -239,7 +237,7 @@ With proper planning (plenty of water and sunscreen) and timing, this hike could
 <mark>Location:</mark> *[Lafayette Reservoir Recreation Area](https://www.ebmud.com/recreation/east-bay/lafayette-reservoir)*<br>
 <br>
 24. [Nora Trail ](https://www.alltrails.com/trail/us/california/nora-trail)*- 4 mile, Elev Gain 800 ft*
-<br>Fantastic shaded trail adorned with ferns, creek crossings, culminating in a stunning viewpoint at the Inn. The trail was pleasantly uncrowded during our Sunday evening hike, and parking was a breeze to find, but could get busy during the day. Clocking in at around 4 miles with over 800 feet of elevation gain (note that AllTrails may provide different statistics), it's wise to plan accordingly.<br><br>
+<br>Fantastic shaded trail adorned with ferns, creek crossings, culminating in a stunning viewpoint at the Inn. The trail was pleasantly uncrowded during my Sunday evening hike, and parking was a breeze to find, but could get busy during the day. Clocking in at around 4 miles with over 800 feet of elevation gain (note that AllTrails may provide different statistics), it's wise to plan accordingly.<br><br>
 <mark>Parking:</mark> Available, Parking is available just off the Panoramic Highway<br>
 <mark>Restrooms:</mark> Available at the Inn<br>
 <mark>Difficulty/Condition:</mark> Moderate, Shaded<br>
@@ -318,7 +316,7 @@ If you live in San Francisco or are visiting the city, I highly recommend doing 
 <mark>Location:</mark> *[Huddart Park](https://www.smcgov.org/parks/huddart-park)*<br>
 <br>
 33. [Hamms Gulch to Spring Ridge Trail Loop](https://www.alltrails.com/explore/trail/us/california/hamms-gulch-to-spring-ridge-trail-loop--2)*- 7.6 miles, Elev Gain 1540 ft*
-<br>If you enjoy hiking on shaded trails, this might not be the perfect hike for you. The route is a combination of sunlight and shade, so it's advisable to bring sufficient water and sun protection. Despite the heat during our hike on a partly cloudy day, the trail was lovely, panoramic views at the top and an abundance of wildflowers. Opting for weekdays can offer a quieter and more serene environment as there are usually fewer people on the trail.<br>
+<br>If you enjoy hiking on shaded trails, this might not be the perfect hike for you. The route is a combination of sunlight and shade, so it's advisable to bring sufficient water and sun protection. Despite the heat during my hike on a partly cloudy day, the trail was lovely, panoramic views at the top and an abundance of wildflowers. Opting for weekdays can offer a quieter and more serene environment as there are usually fewer people on the trail.<br>
 Note -"On 11/26/2023, two hikers with dogs at the preserve after hours were followed by coyotes for several miles. The hikers and their dogs were not harmed. Visitors that hike with dogs may want to consider alternative activities, or locations for the time being."<br><br>
 <mark>Parking:</mark> Available, Free<br>
 <mark>Restrooms:</mark> Available<br>
@@ -340,7 +338,7 @@ Note -"On 11/26/2023, two hikers with dogs at the preserve after hours were foll
 <mark>Location:</mark> *[Reinhardt Redwood Regional Park](https://www.ebparks.org/parks/reinhardt-redwood)*<br>
 <br>
 36. [Raymundo Trail ](https://www.alltrails.com/explore/trail/us/california/raymundo-trail)*- 6 miles, Elev Gain 1,400 ft*
-<br>Imagine a nice walk through a shady trail surrounded by tall redwood trees. We did it on a day after a bit of rain, and wow, the forest smelled amazing! Best for forest bathing - you take a break, breathe in the fresh air, and let the nature vibes sink in. The well-maintained path meanders through a lush forest, which is home to second-growth redwoods. Elevation gain is actually higher than that stated on Alltrails. You have the option to park along the Skyline Boulevard (there is hardly any space to park)<br><br>
+<br>Imagine a nice walk through a shady trail surrounded by tall redwood trees. I did it on a day after a bit of rain, and wow, the forest smelled amazing! Best for forest bathing - you take a break, breathe in the fresh air, and let the nature vibes sink in. The well-maintained path meanders through a lush forest, which is home to second-growth redwoods. Elevation gain is actually higher than that stated on Alltrails. You have the option to park along the Skyline Boulevard (there is hardly any space to park)<br><br>
 <mark>Parking:</mark> Available but very limited, Free<br>
 <mark>Restrooms:</mark> No<br>
 <mark>Difficulty/Condition:</mark> Shaded, Forest Bathing<br>
@@ -357,7 +355,6 @@ Note -"On 11/26/2023, two hikers with dogs at the preserve after hours were foll
 
 ---
 
-<br>
 
 *Expand the Legend on the left for trailhead details*
 {: id="trailheadsMap"}
