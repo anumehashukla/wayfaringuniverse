@@ -1,7 +1,7 @@
 ---
 title: Contact
 subtitle:
-description:
+description: "Get in touch for personalized travel assistance! Connect with me for destination tips, service inquiries, or to share your travel dreams. Safe travels!"
 featured_image: /images/about.jpg
 ---
 
