@@ -1,24 +1,20 @@
 ---
 title: 'Casual Strolls in Bay Area'
-date: 2024-02-27 08:00:00
+date: 2024-03-08 08:00:00
 description: Explore the best Bay Area hikes and elevate your outdoor adventure with insider tips and tricks based on my seasoned hiking adventures. Uncover hidden gems, navigate trails like a pro, and make the most of your hiking experience. Start your journey to unparalleled landscapes and unparalleled insights now!
 featured_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/unitedstates/bayAreaWalks.jpg'
 categories: [unitedstates, treks-hikes]
 ---
-Discover Bay Area's Hidden Gems with me as Your Trail Guide!
+**Discover Bay Area's Hidden Gems with me as Your Trail Guide!**
 
 
-Let me be your guide to the hidden treasures of the Bay Area's breathtaking trails. Having hiked over 150 plus trails in the region, I've not only immersed myself in the diverse landscapes but meticulously documented each trail's nuances to ensure you have the most enriching outdoor experience possible. Whether you're a seasoned hiker or a novice adventurer, my focus is to provide you with detailed insights into each trail's difficulty, terrain, and unique features. From shaded strolls to sun-soaked challenges, I've got you covered.
+Let me be your guide to the hidden treasures of the Bay Area's breathtaking trails. Having hiked over <mark>150 plus trails</mark> in the region, I've not only immersed myself in the diverse landscapes but meticulously documented each trail's nuances to ensure you have the most enriching outdoor experience possible. Whether you're a seasoned hiker or a novice adventurer, my focus is to provide you with detailed insights into each <mark>trail's difficulty, terrain, best time to visit, the availability of restrooms, parking details, and unique features. From shaded strolls to sun-soaked challenges,</mark> I've got you covered.
 
 
-I’ve had many exciting experiences on these hikes, encountering a myriad of wildlife, from playful bunnies to majestic elk, and even the occasional coyote. On at least six different trails, my encounters included observing fascinating snakes. Beyond the wildlife, one of the highlights of these journeys was the opportunity to explore numerous Bay Area towns for the first time, such as Tiburon, San Anselmo, Livermore, Fairfax, Hayward, Corte Madera, Saratoga, Felton, and Moraga, etc.
-Explore the trails with confidence, knowing the best time to visit, the availability of restrooms, parking details, and any associated fees.
+For your convenience, <mark>I've organized the trails into four categories:</mark> [easy](https://theoutdoorobserver.com/unitedstates/treks-hikes/bay-area-hikes#easyTrails){: .js-no-ajax}, [moderate](https://theoutdoorobserver.com/unitedstates/treks-hikes/bay-area-moderate-hikes#moderateTrails){: .js-no-ajax}, [hard](https://theoutdoorobserver.com/unitedstates/treks-hikes/bay-area-hard-hikes#hardTrails){: .js-no-ajax}, and [walks](#walks){: .js-no-ajax} based on their difficulty level. The 'walks' section is dedicated to gentle strolls with minimal elevation gain, perfect for those seeking a more relaxed outdoor experience.
 
 
-For your convenience, I've organized the trails into four categories: [easy](#easyTrails){: .js-no-ajax}, [moderate](https://theoutdoorobserver.com/unitedstates/treks-hikes/bay-area-moderate-hikes#moderateTrails){: .js-no-ajax}, [hard](https://theoutdoorobserver.com/unitedstates/treks-hikes/bay-area-hard-hikes#hardTrails){: .js-no-ajax}, and [walks](https://theoutdoorobserver.com/unitedstates/treks-hikes/casual-strolls-in-bay-area#walks){: .js-no-ajax} based on their difficulty level. The 'walks' section is dedicated to gentle strolls with minimal elevation gain, perfect for those seeking a more relaxed outdoor experience.
-
-
-Additionally, I've marked the trailheads on a map, categorized according to difficulty level. This feature makes it easier for you to find trails nearest to you or select hikes in a particular area, ensuring a seamless and personalized exploration of the Bay Area's trails.
+<mark>Additionally, I've marked the trailheads on a map, categorized according to difficulty level.</mark> This feature makes it easier for you to find trails nearest to you or select hikes in a particular area, ensuring a seamless and personalized exploration of the Bay Area's trails.
 <br>
 <br>
 
@@ -27,21 +23,21 @@ Additionally, I've marked the trailheads on a map, categorized according to diff
 <br>
 <br>
 
-* Although some of these hikes may not be visually striking, I purposely timed 90% of them to coincide with sunset, which greatly enhanced the overall ambiance. The breathtaking sunsets and delicate pink hues created an indescribable atmosphere. My primary objective was to stay active and immerse myself in nature.
+* Although some of these hikes may not be visually striking, **I purposely timed 90% of them to coincide with sunset,** which greatly enhanced the overall ambiance. The breathtaking sunsets and delicate pink hues created an indescribable atmosphere. My primary objective was to stay active, immerse myself in nature, and, most importantly, take time off screens to truly connect with the natural world.
 <br>
 <br>
-* Regarding the debate of hiking in the morning versus the afternoon, I discovered that afternoons offered better chances of finding parking spots. I had always believed that mornings were the optimal time for hiking, but it turns out I was mistaken. Afternoons meant fewer crowds and readily available parking.
+* Regarding the debate of hiking in the **morning versus the afternoon**, I discovered that afternoons offered better chances of finding parking spots. I had always believed that mornings were the optimal time for hiking, but it turns out I was mistaken. Afternoons meant fewer crowds and readily available parking.
 <br>
 <br>
-* I usually opted for hikes that had moderate to light foot traffic, avoiding heavily crowded ones unless I visited on weekdays.
+* I usually opted for hikes that had **moderate to light foot traffic,** avoiding heavily crowded ones, unless I visited on weekdays.
 <br>
 <br>
-* Longer hikes mean fewer people. I noticed that longer hikes tended to have fewer people. Even when the parking lots were full, I rarely encountered more than ten individuals on such trails. I appreciated the tranquility and solitude of these hikes more.
+* **Longer hikes mean fewer people.** I noticed that longer hikes tended to have fewer people. Even when the parking lots were full, I rarely encountered more than ten individuals on such trails. I appreciated the tranquility and solitude of these hikes more.
 <br>
 <br>
-* I heavily rely on Alltrails for its invaluable insights. While it's a fantastic resource, I've noticed a slight variation in trail measurements—usually around 0.1 miles off, with minimal discrepancies in elevation gain. The free version of the app proved to be quite useful for navigating through all of these trails.
+* I heavily rely on **Alltrails** for its invaluable insights. While it's a fantastic resource, **I've noticed a slight variation in trail measurements**—usually around 0.1 miles off, with minimal discrepancies in elevation gain. The free version of the app proved to be quite useful for navigating through all of these trails.
 <br>
-
+<br>
 
 If you're seeking outdoor activities to stay active, I've gathered a collection of excellent options for you. Below is a comprehensive list of hikes, complete with pertinent information and links to their respective AllTrails pages. All the trails mentioned in this list are either out-and-back or loop trails, except for the Dipsea Trail, which is a point-to-point trail, meaning it doesn't conclude at the same starting point.
 
@@ -72,7 +68,7 @@ If you're seeking outdoor activities to stay active, I've gathered a collection 
 <mark>Parking:</mark> Available, Free<br>
 <mark>Restrooms:</mark> Yes, Portable toilets<br>
 <mark>Condition:</mark> No Shade, Must-do around sunset!<br>
-<mark>Location:</mark> *[Eden Landing Ecological Reserve, Hayward](https://wildlife.ca.gov/Lands/Places-to-Visit/Eden-Landing-ER)*<br>
+<mark>Location:</mark> *[Eden Landing Ecological Reserve, Hayward](https://wildlife.ca.gov/Lands/Places-to-Visit/Eden-Landing-ER)*
 
 :--------------------------------------------:|:--------------------------------------------:
 ![]({{site.data.settings.basic_settings.cdn_url}}/unitedstates/bayAreaWalks/edenLandingTrailCanadaGoose.jpg)  |  ![]({{site.data.settings.basic_settings.cdn_url}}/unitedstates/bayAreaWalks/edenLandingTrailMushroom.jpg)
@@ -83,15 +79,20 @@ If you're seeking outdoor activities to stay active, I've gathered a collection 
 <mark>Parking:</mark> Available<br>
 <mark>Restrooms:</mark> No<br>
 <mark>Condition:</mark> No Shade, Highly recommended<br>
-<mark>Location:</mark> Tiburon<br>
+<mark>Location:</mark> *Tiburon*<br>
 <br>
 2. [Bayshore trail ](https://www.alltrails.com/explore/trail/us/california/bayshore-trail)*- 5.3 mile*
 <br> A small park situated alongside the bay and adjacent to the airport, featuring a leisurely walking trail and seating areas ideal for observing airplanes as they touch down. Amazing sunset views, if you choose, do it in the evening. Also, sometimes you get awesome views of the fog rolling in over the sweeny ridge. This trail constitutes a section of the extensive 500-mile San Francisco Bay Trail.<br><br>
 <mark>Parking:</mark> Available<br>
 <mark>Restrooms:</mark> No<br>
 <mark>Condition:</mark> No Shade<br>
-<mark>Location:</mark> Bayfront Park, Millbrae<br>
-<br>
+<mark>Location:</mark> *Bayfront Park, Millbrae*<br>
+
+:--------------------------------------------:|:--------------------------------------------:
+![]({{site.data.settings.basic_settings.cdn_url}}/unitedstates/bayAreaWalks/bayshoretrail/bayshore-trail-airplane.jpg)  |  ![]({{site.data.settings.basic_settings.cdn_url}}/unitedstates/bayAreaWalks/bayshoretrail/bayshore-trail-sunset.jpg)
+
+
+{:start="3"}
 3. [Cogswell Marsh Trail ](https://www.alltrails.com/trail/us/california/cogswell-marsh-hayward-regional-shoreline)*- 6 mile*
 <br> 6-mile walk is a relaxed walk, do it ideally around sunset for a breathtaking experience! Sunrise is gorgeous too. Lots of birds. I started from the trailhead near the Hayward Shoreline Interpretive Center (37.623556, -122.135750 street parking) instead of the one suggested by AllTrails, which proved to be a more convenient location for parking.<br><br>
 <mark>Parking:</mark> Available, Free<br>
@@ -104,7 +105,7 @@ If you're seeking outdoor activities to stay active, I've gathered a collection 
 <mark>Parking:</mark> Available, Free<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Condition:</mark> No Shade, do it around sunrise or sunset<br>
-<mark>Location:</mark> Palo Alto<br>
+<mark>Location:</mark> *Palo Alto*<br>
 <br>
 5. [Tennessee Valley Trail ](https://www.alltrails.com/trail/us/california/tennessee-valley-trail)*- 3.6 mile*
 <br> The 3.6-mile walk at Tennessee Valley is relatively easy, but be prepared for limited shade along the trail. It's a beautiful trail that provides excellent hiking opportunities with the chance to encounter a diverse range of wildlife. During my hike, I spot a coyote. It's important to note that the trail tends to be heavily trafficked, especially on weekends. While the beach offers an incredible view during sunset, it can become overwhelmingly crowded.<br><br>
@@ -118,35 +119,35 @@ If you're seeking outdoor activities to stay active, I've gathered a collection 
 <mark>Parking:</mark> Available, Free<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Condition:</mark> No Shade<br>
-<mark>Location:</mark> Don Edwards National Wildlife Refuge, Newark<br>
+<mark>Location:</mark> *[Don Edwards National Wildlife Refuge, Newark](https://www.fws.gov/refuge/don-edwards-san-francisco-bay)*<br>
 <br>
 7. [Limantour Beach Trail ](https://www.alltrails.com/explore/trail/us/california/limantour-beach-trail)*- 5.4 mile*
 <br> It's a beautiful walk along the beach. One of the notable aspects of this beach is its vast width and length, making it a perfect spot for much-needed peace and relaxation. However, I must admit that I'm not particularly fond of long walks on the sand. If you happen to enjoy walking on sand, I would definitely recommend it. As I ventured further from the parking lot, I found ourselves with the beach all to ourselves, which was truly wonderful. One thing worth mentioning is that it was quite windy during my visit. This might be something to keep in mind when planning your trip. Also, please note [Limantour Spit harbor seal pupping area ](https://www.nps.gov/pore/learn/management/upload/lawsandpolicies_map_limantour_spit_hseal_closure.pdf)(which is just a tiny portion of the trail) is closed to all entry from March 1 to June 30 of each year.<br><br>
 <mark>Parking:</mark> Available, Free<br>
 <mark>Restrooms:</mark> Available, Vault toilet<br>
 <mark>Condition:</mark> No Shade, Must-do!<br>
-<mark>Location:</mark> Point Reyes National Seashore<br>
+<mark>Location:</mark> *[Point Reyes National Seashore](https://www.nps.gov/pore/index.htm)*<br>
 <br>
 8. [SF Bay Trail and Oyster Bay Loop Trail ](https://www.alltrails.com/trail/us/california/san-francisco-bay-trail-and-oyster-bay-loop-trail)*- 3 miles*
 <br> This trail next to Oakland airport has no shade and low foot traffic. Watching the planes take off, and land at Oakland Airport was exciting. Undoubtedly, the views along the way are breathtaking. However, there is a noticeable unpleasant odor at the trailhead, likely due to the nearby Waste Management plant. Fortunately, as you venture further from the trailhead, the smell dissipates. On a positive note, the trail leads to a picturesque spot ideal for admiring beautiful sunsets.<br><br>
 <mark>Parking:</mark> No designated parking, but you can park off Neptune Dr, Free<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Condition:</mark> No Shade, best for sunsets<br>
-<mark>Location:</mark> Oyster Bay Regional Shoreline, San Leandro<br>
+<mark>Location:</mark> *Oyster Bay Regional Shoreline, San Leandro*<br>
 <br>
 9. [Hamilton Wetlands ](https://www.alltrails.com/explore/trail/us/california/san-francisco-bay-trail-to-hamilton-field-path) *- 4.4 mile, Elev Gain 49 ft*
 <br>This hidden gem was truly wonderful! In the evening, it had a peaceful and beautiful atmosphere. Interestingly, Alltrails has recently associated it with the San Francisco Bay Trail and Hamilton Wetlands, creating a 9.6-mile hiking route. The trail now starts from Las Galinas Valley Parking lot. You can still enjoy this trail by doing a 4.4-mile round trip or or adjusting the distance as you prefer, skipping the remaining portion. <br><br>
 <mark>Parking:</mark> Available<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Condition:</mark> No Shade, best for sunsets and sunrises<br>
-<mark>Location:</mark> San Pablo Bay Wildlife Area, San Rafael<br>
+<mark>Location:</mark> *[San Pablo Bay Wildlife Area, San Rafael](https://wildlife.ca.gov/Lands/Places-to-Visit/San-Pablo-Bay-WA)*<br>
 <br>
 10. [Golden Gate Park Loop ](https://www.alltrails.com/explore/trail/us/california/golden-gate-park-trail)*- 6.3 miles, Elev Gain Negligible*
 <br>Golden Gate Park is a must-visit destination in San Francisco, offering a blend of natural beauty, cultural attractions, and recreational opportunities. Whether you're interested in walking, exploring museums, or enjoying the park's serene atmosphere, Golden Gate Park has something for everyone.<br><br>
 <mark>Parking:</mark> Available<br>
 <mark>Restrooms:</mark> Available<br>
 <mark>Condition:</mark> Mostly shaded<br>
-<mark>Location:</mark> Golden Gate Park, San Francisco<br>
+<mark>Location:</mark> *Golden Gate Park, San Francisco*<br>
 <br>
 12. [Lake Merced Loop ](https://www.alltrails.com/trail/us/california/lake-merced-loop)*- 4.5 mile, Elev Gain 127 ft*
 <br>The trail experiences heavy traffic, as it is a loop, there are multiple parking lots available, allowing you to begin your journey from any point along the trail. Much of the trail runs alongside a bustling road, completely paved and ideal for strollers or children riding bikes. However, if you seek a tranquil stroll, it might be preferable to opt for an alternative. The presence of significant road noise requires you to be prepared for a less peaceful experience.<br><br>
