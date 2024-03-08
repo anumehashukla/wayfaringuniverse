@@ -1,6 +1,6 @@
 basic_settings:
   site_title: The Outdoor Observer
-  favicon_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/thumbnails/favicon.png'
+  favicon_image: 'https://wayfaringuniversecdn.azureedge.net/image-container/favicon.png'
   cdn_url: 'https://wayfaringuniversecdn.azureedge.net/image-container'
 
 header_settings:
@@ -60,6 +60,7 @@ color_settings:
   text_medium_color: '#000000a3'
   text_light_color: '#ABB7B7'
   accent_color: '#f1c00b'
+  link_color: '#ea991f'
   border_color: '#dddddd'
   overlay_background_color: '#f1c00b'
   overlay_text_color: '#ffffff'
