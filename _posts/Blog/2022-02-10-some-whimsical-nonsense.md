@@ -1,7 +1,7 @@
 ---
 title: 'Some whimsical nonsense! '
-date: 2022-06-15 11:11:00
-description:
+date: 2024-03-08 11:11:00
+description: When you and your best friend are into some crazy Victorian shit. And when all the 'sense and sensibility' (bad pun) have gone out of the window.
 categories: blog
 ---
 
